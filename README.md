@@ -26,6 +26,7 @@ python -m src.main
 | Secret | 必填 | 说明 |
 |---|---|---|
 | `DEEPSEEK_API_KEY` | 是 | DeepSeek API Key |
+| `DEEPSEEK_MODEL` | 否 | DeepSeek 模型名，默认 `deepseek-v4-flash` |
 | `RSSHUB_BASE` | 否 | RSSHub 地址，默认 `https://rsshub.app`，建议自建 |
 | `FEISHU_WEBHOOK` | 否 | 飞书机器人 webhook，失败告警 |
 | `SMTP_HOST` / `SMTP_PORT` / `SMTP_USER` / `SMTP_PASS` / `MAIL_TO` | 否 | 邮件告警 |

@@ -6,9 +6,12 @@
 from __future__ import annotations
 
 import json
+import os
 
 from ..collect.base import Article
 from .common import get_client, llm_chat, load_tags, parse_json_safe
+
+DEFAULT_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-v4-flash")
 
 SYSTEM_PROMPT = """你是一个具身智能行业资讯分析师。给定一篇文章的标题与正文，输出 JSON：
 {
@@ -22,8 +25,8 @@ SYSTEM_PROMPT = """你是一个具身智能行业资讯分析师。给定一篇�
 class LLMClassifier:
     """DeepSeek 摘要 + 多标签归类器。"""
 
-    def __init__(self, tags_config_path: str | None = None, model: str = "deepseek-chat"):
-        self.model = model
+    def __init__(self, tags_config_path: str | None = None, model: str | None = None):
+        self.model = model or DEFAULT_MODEL
         self.tags = load_tags(tags_config_path) if tags_config_path else load_tags()
         self.tag_by_id = {t["id"]: t for t in self.tags}
         self.tag_desc = "\n".join(

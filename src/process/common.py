@@ -16,8 +16,6 @@ DEFAULT_CONFIG = Path(__file__).resolve().parents[2] / "config" / "tags.yaml"
 
 def load_tags(path: str | Path = DEFAULT_CONFIG) -> list[dict]:
     """读取标签配置，返回 [{id, name, desc, examples}, ...]"""
-    from .base import parse_config_yaml  # noqa: F401
-
     import yaml
 
     with open(path, "r", encoding="utf-8") as f:
