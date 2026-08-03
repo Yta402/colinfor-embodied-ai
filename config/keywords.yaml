@@ -1,0 +1,154 @@
+# 关键词过滤配置
+# 采集的文章标题/摘要命中以下任一关键词即保留。
+# 按类别组织便于维护；match_all 用于必须同时满足的组合（通常留空）。
+
+# 主题关键词（任一命中即保留）
+keywords:
+  # 具身智能 / 大模型
+  - 具身智能
+  - 具身
+  - 世界模型
+  - 视觉语言动作
+  - VLA
+  - VLM
+  - 机器人基础模型
+  - embodied
+  - humanoid AI
+  - world model
+
+  # 人形 / 双足 / 四足机器人
+  - 人形机器人
+  - 人形
+  - 双足机器人
+  - 双足
+  - 四足机器人
+  - 四足
+  - 仿人机器人
+  - humanoid
+  - bipedal
+  - quadruped
+  - legged robot
+  - 腿足式
+
+  # 灵巧手 / 机械臂 / 末端执行器
+  - 灵巧手
+  - 机械手
+  - 五指手
+  - 机械臂
+  - 协作臂
+  - 六轴
+  - 七轴
+  - 末端执行器
+  - dexterous
+  - manipulator
+  - robotic arm
+  - end-effector
+  - gripper
+
+  # 传动 / 执行器 / 电机
+  - 直驱
+  - 直驱电机
+  - 腱绳
+  - 腱驱动
+  - 肌腱
+  - 伺服电缸
+  - 电动缸
+  - 电缸
+  - 直线执行器
+  - 无框电机
+  - 无刷电机
+  - 空心杯电机
+  - 盘式电机
+  - 关节模组
+  - 一体化关节
+  - 行星滚柱丝杠
+  - 行星滚珠丝杠
+  - 滚珠丝杠
+  - 丝杠
+  - 谐波减速器
+  - 谐波
+  - RV减速器
+  - 减速器
+  - direct drive
+  - tendon
+  - actuator
+  - linear actuator
+  - frameless motor
+  - BLDC
+  - harmonic drive
+  - ball screw
+  - lead screw
+
+  # 感知 / 控制
+  - 力矩传感器
+  - 六维力
+  - 力觉
+  - 触觉传感器
+  - 电子皮肤
+  - 激光雷达
+  - 深度相机
+  - SLAM
+  - 运动控制
+  - 控制器
+  - 伺服系统
+  - torque sensor
+  - force sensor
+  - tactile sensor
+  - lidar
+  - SLAM
+  - motion control
+
+  # 学习 / 训练 / 数据
+  - 强化学习
+  - 遥操作
+  - 遥操
+  - 动作捕捉
+  - 数据采集
+  - 仿真训练
+  - sim2real
+  - reinforcement learning
+  - imitation learning
+  - teleoperation
+  - data engine
+  - 数据引擎
+
+  # 机器人应用 / 场景
+  - 工业机器人
+  - 协作机器人
+  - cobot
+  - 服务机器人
+  - 配送机器人
+  - 扫地机器人
+  - 手术机器人
+  - 物流机器人
+  - 巡检机器人
+  - 特种机器人
+  - 割草机器人
+  - 机械狗
+  - 机器人狗
+  - robot
+
+  # 商业 / 融资
+  - 融资
+  - IPO
+  - 量产
+  - 出货
+  - 订单
+  - 上市
+  - funding
+  - Series A
+  - Series B
+
+# 排除词（标题/摘要命中任一即丢弃，避免误采无关内容）
+exclude:
+  - 虚拟货币
+  - 加密货币
+  - 元宇宙
+  - 游戏攻略
+  - 明星八卦
+  - 足球
+  - 世界杯
+  - NFT
+
+# 组合命中：需同时命中 match_all 中所有关键词才保留（目前留空）
+match_all: []

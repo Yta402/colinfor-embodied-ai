@@ -1,4 +1,4 @@
-"""主入口：串联采集 → 去重 → 归类 → 产出 → 归档。
+"""主入口：串联采集 → 去重 → 通俗解读/归类 → 产出 → 归档。
 
 用法:
     python -m src.main                # 使用默认配置
@@ -43,7 +43,7 @@ def run(dry_run: bool = False) -> int:
         logger.info("采集到 %d 条", collected)
 
         if not articles:
-            notifier.alert("具身智能采集：无结果", "主备源均未采集到文章，请检查源配置或反爬状态。")
+            notifier.alert("具身智能采集：无结果", "RSS 源均未采集到相关文章，请检查源配置或关键词。")
             return 1
 
         # 2. 处理
@@ -58,11 +58,11 @@ def run(dry_run: bool = False) -> int:
             notifier.alert("具身智能采集：全部重复", "当日无新增文章。")
             return 0
 
-        logger.info("LLM 归类/摘要...")
+        logger.info("LLM 通俗解读/归类...")
         classifier = LLMClassifier()
         articles = classifier.classify_many(articles)
         tagged = sum(1 for a in articles if a.tags)
-        logger.info("归类完成，%d/%d 带标签", tagged, len(articles))
+        logger.info("解读完成，%d/%d 带标签", tagged, len(articles))
 
         # 3. 产出
         if dry_run:

@@ -1,0 +1,36 @@
+# 行业媒体 RSS 源配置
+# 实测可用性见 DEVELOPMENT_LOG.md。可自由增删。
+# 字段: name(展示名), url(RSS地址), enabled(是否启用)
+
+sources:
+  - name: IEEE Spectrum Robotics
+    url: https://spectrum.ieee.org/feeds/topic/robotics.xml
+    enabled: true
+
+  - name: InfoQ 机器人
+    url: https://www.infoq.cn/feed/topic/106
+    enabled: true
+
+  - name: 36氪
+    url: https://36kr.com/feed
+    enabled: true
+
+  - name: 量子位
+    url: https://www.qbitai.com/feed
+    enabled: true
+
+  - name: 极客公园
+    url: https://www.geekpark.net/rss
+    enabled: true
+
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    enabled: true
+
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+    enabled: true
+
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    enabled: true

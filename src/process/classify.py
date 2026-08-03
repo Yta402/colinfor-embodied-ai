@@ -13,9 +13,10 @@ from .common import get_client, llm_chat, load_tags, parse_json_safe
 
 DEFAULT_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-v4-flash")
 
-SYSTEM_PROMPT = """你是一个具身智能行业资讯分析师。给定一篇文章的标题与正文，输出 JSON：
+SYSTEM_PROMPT = """你是一个具身智能行业资讯分析师，服务于企业管理者（非技术专家）。
+给定一篇行业报道的标题与摘要，输出 JSON：
 {
-  "summary": "3-5句话的中文摘要，突出关键信息（技术要点/公司/金额/时间等）",
+  "summary": "2-3句话的通俗中文解读，用非技术人士能懂的语言说清：这是什么事件、为什么重要、对行业/企业有什么影响。避免堆砌专业术语，若有必须写出来。",
   "tags": ["标签id", ...]
 }
 标签必须严格从给定列表中挑选，可同时贴多个标签；若无法确定，tags 可为空数组。
