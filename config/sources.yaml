@@ -3,6 +3,10 @@
 # 字段: name(展示名), url(RSS地址), enabled(是否启用)
 
 sources:
+  - name: 艾邦机器人
+    url: https://www.aibangbots.com/feed
+    enabled: true
+
   - name: IEEE Spectrum Robotics
     url: https://spectrum.ieee.org/feeds/topic/robotics.xml
     enabled: true
