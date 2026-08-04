@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-04",
+  "collected": 81,
+  "deduped": 81,
+  "tagged": 0,
+  "report": {
+    "sources": [
+      {
+        "name": "艾邦机器人",
+        "count": 7
+      },
+      {
+        "name": "IEEE Spectrum Robotics",
+        "count": 28
+      },
+      {
+        "name": "InfoQ 机器人",
+        "count": 2
+      },
+      {
+        "name": "36氪",
+        "count": 17
+      },
+      {
+        "name": "量子位",
+        "count": 1
+      },
+      {
+        "name": "极客公园",
+        "count": 23
+      },
+      {
+        "name": "VentureBeat AI",
+        "count": 3
+      }
+    ],
+    "errors": []
+  }
+}
