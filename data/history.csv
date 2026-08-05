@@ -669,3 +669,236 @@
 "Thu, 22 Jan 2026 14:00:00 GMT",VentureBeat AI,Railway secures $100 million to challenge AWS with AI-native cloud infrastructure,https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud,,,"<p><a href=""https://railway.com/"">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=""https://tq.vc/"">TQ Ventures</a> led the round, with participation from <a href=""https://fpvventures.com/"">FPV Ventures</a>, <a href=""https://www.redpoint.com/"">Redpoint</a>, and <a href=""https://www.unusual.vc/"">Unusual Ventures</a>. The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like <a href=""https://aws.amazon.com/"">Amazon Web Services</a> and <a href=""https://cloud.google.com/"">Google Cloud</a>.</p><p>&quot;As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications?&quot; said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. &quot;The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up.&quot;</p><p>The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a <a href=""https://techcrunch.com/2022/05/31/railway-snags-20m-to-streamline-the-process-of-deploying-apps-and-services/"">$20 million Series A</a> from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network — metrics that rival far larger and better-funded competitors.</p><h2><b>Why three-minute deploy times have become unacceptable ",rss
 "Fri, 16 Jan 2026 14:01:00 GMT",VentureBeat AI,Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews,https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai,,,"<p>Alfred Wahlforss was running out of options. His startup, <a href=""https://listenlabs.ai/"">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=""https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-olson"">$100 million offers</a> seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a <a href=""https://billboardinsider.com/ai-startup/"">billboard in San Francisco</a> displaying what looked like gibberish: five strings of random numbers.</p><p>The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub famous for rejecting nearly everyone at the door. Within days, thousands attempted the puzzle. 430 cracked it. Some got hired. The winner flew to Berlin, all expenses paid.</p><p>That unconventional approach has now attracted $69 million in Series B funding, led by <a href=""https://www.ribbitcap.com/"">Ribbit Capital</a> with participation from <a href=""https://www.evantic.ai/"">Evantic</a> and existing investors <a href=""https://sequoiacap.com/"">Sequoia Capital</a>, <a href=""https://www.conviction.com/"">Conviction</a>, and <a href=""https://pear.vc/"">Pear VC</a>. The round values Listen Labs at $500 million and brings its total capital to $100 million. In nine months since launch, the company has grown annualized revenue by 15x to eight figures and conducted over one million AI-powered interviews.</p><div></div><p>&quot;When you obsess over customers, everything else follows,&quot; Wahlforss said in an interview with VentureBeat. &quot;Teams that use Listen bring the customer into every decision, from marketing to product, and when the customer is delighted, everyone is.&quot;</p><h2><b>Why traditional market research is broken, and what Listen Labs is building to fix it</b></h2><p>Listen&#x27;s <a href=""https://listenlabs.ai/role/agencies"">AI researcher",rss
 "Wed, 07 Jan 2026 20:00:00 GMT",VentureBeat AI,Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment,https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in,,,"<p><a href=""https://nousresearch.com/"">Nous Research</a>, the open-source artificial intelligence startup backed by crypto venture firm <a href=""https://www.paradigm.xyz/"">Paradigm</a>, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest <a href=""https://www.nvidia.com/en-us/data-center/dgx-b200/"">B200 graphics processors</a>.</p><p>The model, called <a href=""https://huggingface.co/NousResearch/NousCoder-14B"">NousCoder-14B</a>, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: <a href=""https://claude.com/product/claude-code"">Claude Code</a>, the agentic programming tool from rival Anthropic, has dominated social media discussion since New Year&#x27;s Day, with developers posting <a href=""https://x.com/0xDesigner/status/2008202211738648767?s=20"">breathless</a> <a href=""https://x.com/hayesdev_/status/2008043379805048948"">testimonials</a> <a href=""https://x.com/0xDesigner/status/2008202211738648767?s=20"">about its capabilities</a>. The simultaneous developments underscore how quickly AI-assisted software development is evolving — and how fiercely companies large and small are competing to capture what many believe will become a foundational technology for how software gets written.</p><p><span>type: <!-- -->embedded-entry-inline<!-- --> id: <!-- -->74cSyrq6OUrp9SEQ5zOUSl</span></p><p><a href=""https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/"">NousCoder-14B</a> achieves a 67.87 percent accuracy rate on <a href=""https://livecodebench.github.io/"">LiveCodeBench v6</a>, a standardized evaluation that tests models on competitive programming problems published between August 2024 and May 2025. That figure represents a 7.08 percentage point improvement over the base model it was trained from, Alibaba&#x27;s <a href=""https://huggingface.co/Qwen/Qwen3-14B"">Qwen3-1",rss
+"Tue, 04 Aug 2026 07:27:06 +0000",艾邦机器人,人形赋能·智领未来｜申昊科技携手宇树科技打造“电力+算力”双场景人形机器人,https://www.aibangbots.com/a/12064,,,申昊科技与宇树科技达成重磅深度战略合作。双方优势高度互补，采用宇树人形双臂上身+申昊工业轮式底盘的组合架构，围绕战略协同、联合研发、共创市场三维发力，打造工业人形机器人智能解决方案。,rss
+"Tue, 04 Aug 2026 07:26:49 +0000",艾邦机器人,松延动力与鲸海拾贝达成战略合作，共启具身智能文旅场景应用新篇章,https://www.aibangbots.com/a/12058,,,近日，松延动力与鲸海拾贝围绕具身智能文旅场景生态落地展开深入交流，并达成战略合作。,rss
+"Tue, 04 Aug 2026 07:24:37 +0000",艾邦机器人,矩侨工业连续完成Pre-A+&Pre-A++轮融资，织物具身电子皮肤量产突破,https://www.aibangbots.com/a/12046,,,矩侨工业获数千万融资，电子皮肤赋能具身智能、智能座舱、智慧养老等场景。,rss
+2026-08-04 11:00:01+00:00,IEEE Spectrum Robotics,What Robotics Companies Think About the U.S. Foreign Robot Ban,https://spectrum.ieee.org/fcc-covered-list-mobile-robots,,,"<p>The U.S. Federal Communications Commission (FCC) “Covered List,” originally published in 2021, identifies communications equipment and services that it says …</p>",rss
+2026-08-05 08:02:59  +0800,36氪,8点1氪丨马斯克个人财富亏掉2个“黄仁勋”；上海雪花膏母公司破产；日本半导体或面临断供,https://36kr.com/p/3925868626360706?f=rss,,,"<h2>今日热点导览</h2>
+  <p>一架上海飞东京航班险撞机，两机垂直高度差仅约20米</p>
+  <p>阿里云容器服务Agent开启商业化收费</p>
+  <p>今年以来港股IPO数量同比增长132%，科技类公司占比过半</p>
+  <p>苹果新任CEO据悉邀请已退休的硬件部门负责人加入管理团队</p>
+  <p>SpaceX上市后首份财报前夕，“木头姐”持续加仓</p>
+  <h2>TOP3大新闻</h2>
+  <p><strong>马斯克个人财富缩水约合人民币2.45万亿元，相当于亏掉2个“黄仁勋”&nbsp;</strong></p>
+  <p>据微信公众号“福布斯”消息，6月12日SpaceX上市，马斯克成为全球首位万亿富豪。但他13位数字的身家并未维保持多久——SpaceX的股价此前一路飞升，如今却跌回地表，马斯克在7月单月财富缩水3630亿美元（约合人民币2.45万亿元），创下纪录。这一缩水幅度，甚至超过了全球第2至第10大富豪中任何一人的全部身家，是英伟达CEO黄仁勋身家（1740亿美元）的两倍多。截至美国东部时间8月1日零点，排名第2的拉里·佩奇身家微增10亿美元，约为2920亿美元；而马斯克的身家约为6900亿美元，降至去年12月以来的最低水平。（红星新闻）</p>
+  <p><strong>上海雪花膏母公司破产，财产不足以支付破产费</strong></p>
+  <p>近日，上海市浦东新区人民法院出具（2024）沪0115破151号民事裁定书，宣告上海美兰化妆品有限公司（以下简称“美兰”）破产并终结清算程序。裁定书援引《企业破产法》第四十三条认为，企业现有财产不足以支付破产费用，管理人提请法院直接终止清算，普通债权人无财产可分配。</p>
+  <p>据裁定书配套管理人清算数据，美兰可处置资产仅9.58万元，法院确认债权总额1941.67万元，账面资产连诉讼费、管理人报酬等基础办案成本都无法覆盖。这家诞生于1984年、依靠老上海雪花膏走红的本土老牌日化企业彻底退场。（红星新闻）</p>
+  <p><strong>受地震影响，日本半导体或面临断供</strong></p>
+  <p>7月28日，日本熊本县发生强震，多家半导体相关企业停产至今。九州地区因聚集大量半导体相关企业被称为“硅岛”，熊本县自1970年前后开始吸引半导体企业落户，逐步发展成为日本重要的半导体产业基地。</p>
+  <p>熊本县内聚集着大量半导体相关企业和汽车工厂，有专家表示强震将给相关产业带来严重冲击。不仅是半导体，受零部件供应延迟影响，日本部分汽车制造商的生产也已受到波及。丰田汽车已决定暂停福冈县3家工厂的生产至8月5日，位于爱知县的田原工厂也将于8月3日至7日停产。本田宣布，熊本县大津町的摩托车工厂将停产至8月7日。日产汽车则决定，将福冈县两家工厂的部分生产线停工至8月5日。（金融界、央视网）</p>
+  <h2>AI最前沿</h2>
+  <p><strong>面壁智能开源全球首个Stencil优化AI系统</strong></p>
+  <p>36氪获悉，8月4日，面壁智能联合OpenBMB开源社区正式发布并开源全球首个Stencil（模板计算）优化“自动研究+自动部署”大闭环AI系统ForgeStencil。实测数据显示，ForgeStencil在同精度（fp32）下几何平均加速2.35倍，混合精度下额外提速1.95倍。在真实应用场景中，通用CAE求解器hypre加速3.86倍，电磁仿真FDTD加速2.47倍，核反应堆中子学计算minisweep加速最高达5.78倍。</p>
+  <p><strong>阿里云容器服务Agent开启商业化收费</strong></p>
+  <p>36氪获悉，阿里云宣布，容器服务Agent将于北京时间9月3日10时增加新的技能中心和IM频道等功能并开启商业化收费。本次调整后，相关对话、自主智能运维及定时任务等功能将开始收费。调整过程不会影响存量用户已有设置和历史任务记录。容器服务Agent以积分（Credit）作为计量单位，免费开通，支持按量付费及预付费资源包抵扣。使用容器服务Agent的对话、自主智能运维及定时任务等功能时产生的模型资源消耗会折算为积分进行计费。</p>
+  <p><strong>腾讯混元发布最新语音识别模型Hy ASR 3.0 preview</strong></p>
+  <p>36氪获悉，腾讯混元正式发布新一代语音识别模型Hy ASR 3.0 preview。在开源评测集中，Hy ASR 3.0 preview在多语种的WER（Word Error Rate,词错误率）上都控制在3%左右，其中中文普通话WER 3.34%、英语WER 2.62%、粤语WER 3.12%。</p",rss
+2026-08-04 23:46:22  +0800,36氪,“车企牌”电池相继上车，不只是PK宁德时代,https://36kr.com/p/3925382191708552?f=rss,,,"<p>“车企牌”电池正在不断涌现，并交付上车。鸿蒙智行推出了巨鲸电池，理想汽车推出了理想牌电池，不久前的7月30日晚，小米正式对外发布了龙甲电池。</p>
+  <p>车企正试图通过自有电池品牌，将电池的每个技术点攥在手中，并抢占用户心智。</p>
+  <p>这些汽车品牌的统一做法，就是“穿透式管理”，从电芯到电池包的技术和性能标准，车企全部主导定义，甚至部分参与电芯材料开发，并对核心供应链和生产制造环节全流程介入和监管。换句话说，“车企牌”电池是车企技术和标准的全面贯彻。</p>
+  <p>“甚至电池厂的核心岗位招聘，车企都要参与面试把关。”有行业人士透露。</p>
+  <p>这与过往的动力电池合作有着明显区别。据36氪了解，长期以来，头部动力电池公司如宁德时代等凭借技术实力，常常为车企供应相对成熟的系统级方案，尤其是旗舰类产品，如麒麟电池、神行电池等，车企能做的往往是提出需求，而定制开发的空间则相对有限。</p>
+  <p>但从“车企牌”电池的核心指标来看，车企往往有着更多的开发需要。比如巨鲸电池主打全温度周期的热防护标准，小米龙甲电池强调2000次循环和500J底部撞击标准等，理想汽车牌电池也追求“8年16万公里电池健康度不低于75%”，蔚来也提出过15年循环寿命的电池研发计划。</p>
+  <p>此外，动力电池做为电动汽车的心脏级零部件，常年占据30%成本结构，车企来把控电池开发和生产的全流程，从长期来看，也能确保供应链的稳定性和成本掌控力。</p>
+  <p>综合来看，车企对动力电池的全流程掌控需要，注定了“车企牌”电池今天开枝散叶的局面。</p>
+  <p>但与此同时，动力电池头部供应商宁德时代，也在竭力塑造消费者对宁德时代电池性能、安全性的认知。在机场、高铁站、商超等人群密集的地方，经常能看到“选电车看电池，认准宁德时代”的广告语。</p>
+  <p>据36氪了解，即便理想i6为欣旺达电池多给了两年延保，但售出的车型中，仍有超过一半的消费者选择了宁德时代电池。</p>
+  <p>因此，当车企试图将自有电池品牌推向台前时，经受过宁德时代“Intel Inside”战略洗礼的消费者，往往会提出这样的质疑——车企自研的电池包能否比得上宁德时代。</p>
+  <p>某种程度上，这似乎是个目前难有定论的问题。</p>
+  <p>不少电池行业人士对36氪表示，宁德时代的壁垒在于工艺管控能力、生产一致性。而且无论车企的自建产线，还是二三线电池厂商都很难在短时间内，追平宁德时代的这一优势，因为“一定要有足够大的生产体量，才能做有效的筛选和试错”。</p>
+  <p>通常情况下，更高的一致性，意味着更低的续航跳水、补能异常，甚至安全事故的概率。但车企自建的产线，和二三线电池厂的生产一致性水平，也可以通过增加测试工序等手段进行一定弥补。</p>
+  <p>而且，尽管在产品一致性上不及宁德时代，但“车企牌”电池亦有其优势。</p>
+  <p>36氪从一些行业人士处了解到，“车企牌”电池的产品定义、设计、生产通常由车企进行全方位管控，部分自研电池的车企，还会监督到电池的二三级子零件供应商，以确保最终的产品性能符合自己的高标准。</p>
+  <p>除此之外，车企对整车更为熟悉，因此“车企牌”电池的BMS算法，“在应用端可能比电池厂更好”。或许未来相当一段时间内，“车企牌”电池都会保持与宁德时代相持而行。</p>
+  <h3><strong>生产一致性，宁德时代的竞争壁垒</strong></h3>
+  <p>动力电池行业历经多年发展，动力电池技术、设备的成熟与普及，令各电池厂商间的技术代差逐渐拉齐。</p>
+  <p>电池产品间的竞争，越来越聚焦于生产的一致性。</p>
+  <p>许多行业人士都承认，宁德时代的电芯一致性，领先一众二三线电池厂。一个相对直观的体现是——“国内电芯，唯一不分档次的厂家就是宁德时代，因为都是一样的”。</p>
+  <p>“一致性不是那么好做的”。有行业人士告诉36氪，几乎所有的生产要素都会到动力电池的工艺控制，包括现场的湿度、温度、杂质、原材料选用等。</p>
+  <p>而电池厂商“一定要有足够大的生产体量，才能做有效的筛选和试错”。因而短期内，二三线电池厂商的生产一致性，很难赶上宁德时代。</p>
+  <p>而一致性之所以重要，是因为它能够直接影响到电池包的容量，甚至有可能引发安全事故。有电池行业人士表示，即便是行业公认更具本征安全的磷酸铁锂电池包，同样强调生产的一致性。</p>
+  <p>评估生产一致性的直接指标，是压差、内阻差异、尺寸差异等。</p>
+  <p>有行业人士举了个例子解释压差对电池包容量的影响：“原本电池包按100度电的容量去设计，但如果其中有颗电芯的电压只能达到98度，那BMS的均衡策略，会",rss
+2026-08-04 18:27:21  +0800,36氪,自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目,https://36kr.com/p/3925067918227591?f=rss,,,"<p>一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。</p>
+  <p>具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。</p>
+  <p>由于芯片电源网络是由大量金属线组成的互联结构，因此电源签核时必须将其作为一个整体进行分析，“相当于求解一个维度高达数亿的稀疏矩阵方程，完成一次需要大量时间。”「芯晓科技」总经理谢卓解释道。</p>
+  <p>而随着芯片工艺制程不断缩小，晶体管数量指数级增加，电源核签的周期被进一步不断拉长，一次完整的电源签核往往需要几周时间之久。如果分析结果不理想，设计工程师还需要根据反馈修改版图，再重复一轮电源签核。</p>
+  <p>针对这一行业痛点，芯晓科技运用分布式矩阵求解技术，打破电源核签效率制约芯片交付周期瓶颈。公司推出的首款数字电源签核工具“IcPower”，支持7nm等先进工艺，能满足百亿门级芯片电源，在典型测试用例中速度是国外大厂工具的4.5-8.5倍，目前已在国内多家芯片厂商的芯片设计环节投入使用。</p>
+  <h2><strong>1.采用分布式求解技术，提高电源核签效率3-10倍</strong></h2>
+  <p>谢卓在创办芯晓科技以前，曾任国际知名EDA厂商Cadence电源完整性分析工具Voltus的中国技术团队负责人。</p>
+  <p>据他介绍，分布式求解的核心技术思路，来源于计算数学领域的“区域分解法”，通过将电源核签的巨大矩阵拆分为许多可以高效计算的小矩阵，用多台计算机并行运算，从而缩短整体求解时间，每个分析工具在求解大规模问题时候都会采用类似方法，但难点在于各个工具求解的效率会参差不齐。</p>
+  <p>谢卓表示，难点同时集中在算法和工程两方面。</p>
+  <p>一是要切得“科学”，也就是针对电源网络稀疏矩阵的特性，采用基于图论的智能区域分解算法，将百亿级的全局矩阵科学地切分为多个子矩阵，最小化子矩阵间的边界耦合。</p>
+  <p>二是需要运用分布式矩阵求解器优化节点间的通信拓扑和消息传递机制，大幅降低分布式环境下的网络通信开销。在分布式切分求解过程中，还需要引入严格的数值稳定性控制算法，确保分布式计算与单机高精度求解器的结果，达到数学意义上的严格一致，从而满足先进制程严苛的签核精度要求。</p>
+  <p>芯晓科技正是凭借团队在算法和工程层面的技术积累和创新，使IcPower相比国外工具速度提升上3-5倍，“对于一些耗时特别长的动态分析，部分测试水平可以做到10倍以上的速度提升，以前需要跑几周的电源签核，IcPower几天就能完成。”谢卓表示。</p>
+  <p class=""image-wrapper""><img src=""https://img.36krcdn.com/hsossms/20260804/v2_210c834470104dd991a6a16952f88525@5688585_oswg35555oswg1031oswg440_img_000?x-oss-process=image/format,jpg/interlace,1"" /></p>
+  <p class=""img-desc"">IcPower实测性能对比</p>
+  <h2><strong>2.抓住国产替代红利，致力于打造芯片设计平台</strong></h2>
+  <p>和许多近几年出现的EDA工具初创企业一样，芯晓科技切入电源签核赛道也是想抓住当下EDA行业“国产替代”的窗口期。</p>
+  <p>全球EDA市场长期被Synopsys（新思科技）、Cadence（楷登电子）、Siemens EDA（西门子EDA）三大巨头垄断。中国银河证券报告显示，三家在全球市场中的份额约为74%。而近年来不断升级的中美科技博弈，使越来越多国内芯片开始重视使用国产工具，将其作为替代或备份方案。</p>
+  <p>基于性能自信，芯晓科技在商业模式上选择对标国外工具，以软件授权为主，定价与国外工具相当。目前IcPower已在国内多家芯片设计公司投入使用，覆盖国产CPU、GPU、智驾芯片等类型，并在应用过程中借助客户的广泛设计用例与测试平台，不断迭代自身产品性能。</p>
+  <p>谢卓透露，2025年芯晓科技营收达到数百万元。“软件的研发成本基本是固定的，客户越多，盈利能力就能越强。”</p>
+  <p>但他也坦承，拓展客户是当下商业化的难点。“客户往往担心创业公司难以保证产品供应的持续性，因此首选规模更大的企业规模，虽然大公司",rss
+2026-08-04 16:31:59  +0800,36氪,一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资,https://36kr.com/p/3924953058605444?f=rss,,,"<p><strong>【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基��供给危机持续加深。在此背景下，</strong>国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。</p>
+  <p>&nbsp;</p>
+  <h2><strong>股东结构：市场化资本、产业资本、区域国资同席，老股东再投票</strong></h2>
+  <p>这一轮的股东阵容，呈现鲜明的“三重奏”：以英诺基金、千乘资本、同鑫资本为代表的市场化硬科技基金，长期深耕半导体与先进制造；以海目星、光莆股份为代表的产业资本，分别来自激光装备与光通讯两大与玻璃基板强相关的产业上下游；以金雨茂物、北岸产投、海通开元为代表的市场化基金、区域国资与券商系资本，则在本轮继续加码。多元股东的持续投入，为公司的产业化进程提供了坚实支撑，也是对其量产进展最直接的确认。</p>
+  <h2><strong>行业背景：载板紧缺与涨价潮叠加，玻璃基板迎来确定性窗口</strong></h2>
+  <p>这轮融资本质上是一次对时间窗口的卡位。AI算力狂飙之下，封装载板持续紧缺，ABF载板供不应求、交期一再拉长；而当芯片封装尺寸不断突破、光模块速率持续跃升，有机基板在热膨胀匹配、高频损耗与布线密度上，正在逼近物理极限。巨头的选择已经给出答案——英特尔宣布玻璃芯基板（GCS）进入大规模量产，台积电CoPoS试产线年内通线，三星、SKC Absolics加速送样与量产准备。玻璃基板，正在从巨头的实验室走向产业的中心。</p>
+  <p>&nbsp;</p>
+  <h2><strong>替代大逻辑：一层“布”卡住了有机基板，三大应用走向全面玻璃基化</strong></h2>
+  <p>比巨头动向更值得关注的，是有机基板的成本地基正在松动。2025年下半年以来，PCB产业链经历了一轮罕见涨价：覆铜板价格大幅攀升，PCB厂商全线调价。而涨价的真正源头，不是铜箔，也不是树脂，而是一层“布”——电子级玻璃纤维布。它的价格较2025年低点翻倍，行业库存降至历史极低位，高端低介电产品被海外厂商高度垄断，而扩产以年计。这层“布”的紧缺，短期内无解。</p>
+  <p>玻纤布之所以不可或缺，是因为它是有机基板的“骨架”，核心使命之一正是热应力匹配：AI服务器PCB层数不断攀升，为了让有机基材的热膨胀系数贴近硅芯片，行业不得不大量使用昂贵的低CTE特种玻纤布。换句话说，<strong>有机基板正在用越来越贵的“布”，去模仿玻璃与生俱来的性能</strong>——玻璃CTE天然与硅匹配，介电损耗远低于有机材料，而且根本不需要这层“布”。当“补丁”的成本越过材料替代的成本拐点，玻璃基化就从可选项变成了必然项。但“玻璃基化”并不是一件事，而是三件事——三大应用的需求逻辑、技术指标与产业节奏，截然不同：</p>
+  <p><strong>第一类，PCB替代——一场由经济性驱动的存量替代，节奏最快。</strong>面向AI服务器背板、高频通信板与新型显示基板，替代对象是FR-4与传统PCB，逻辑简单而锋利：性能更好，成本更低。信号损耗显著降低，显示与HDI基板场景的综合成本大幅优于PCB基板。这一类比拼的是大规模制造与成本控制能力，是当前放量的主战场——2026年，将是玻璃基PCB的替代元年。</p>
+  <p class=""image-wrapper""><img src=""https://img.36krcdn.com/hsossms/20260804/v2_347f933315314b7bacecb2f9f9a631a8@5284654_oswg3007833oswg2000oswg1123_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1"" /></p>
+  <p class=""img-desc"">玻璃基板替代传统PCB示意图</p>
+  <p><strong>&nbsp;</strong></p>
+  <p><strong>第二类，ABF载板替代——由可靠性与供给安全驱动，节奏居中。</strong>面向超大尺寸FC-BGA封装、Chiplet与HBM高带宽存储，替代被海外垄断且持续紧缺的载板。这是一场硬指标的对决：翘曲、线宽线距、孔径与深宽比全面收紧，考验的是精细制程与可靠性验证的深水区能力。相关产品将",rss
+2026-08-04 16:18:21  +0800,36氪,东山精密涨停背后：36氪企业全情报捕捉市场机会,https://36kr.com/p/3924913931679877?f=rss,,,"<p class=""image-wrapper""><img src=""https://img.36krcdn.com/hsossms/20260804/v2_2e223b3f6f994090a3d4944d9162d843@5284654_oswg647144oswg1080oswg459_img_000?x-oss-process=image/format,jpg/interlace,1"" /></p>
+  <p class=""img-desc"">36氪企业全情报带你发现涨停背后的机会</p>
+  <h3><strong>开篇，先给大家送个福利</strong></h3>
+  <p>最近不少朋友在体验企业全情报，我们也准备了一波奖品回馈大家。</p>
+  <p><strong>体验小程序，完成15秒阅读+任意订阅一家企业即可免费参与抽奖。</strong></p>
+  <p>奖品有影石Insta360&nbsp;Luna&nbsp;Ultra、运动相机挂脖支架、36氪航天徽章。</p>
+  <p><strong>祝大家都能中奖，点击即可参与：👇</strong></p>
+  <p><a href=""https://lucky.nocode.com/v2/s/8VhKju6Ehgy"" rel=""noopener noreferrer"" target=""_blank""><strong>https://lucky.nocode.com/v2/s/8VhKju6Ehgy</strong></a></p>
+  <p class=""image-wrapper""><img src=""https://img.36krcdn.com/hsossms/20260804/v2_a300936239e240d7a177ec6cfcc50c1d@5284654_oswg1734654oswg943oswg1668_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"" /></p>
+  <p class=""img-desc"">扫码抽奖！</p>
+  <h3><strong>今日A股收盘数据</strong></h3>
+  <p><strong>上证指数：</strong>3822.28&nbsp;点，+0.33%</p>
+  <p><strong>深证成指：</strong>13885.71&nbsp;点，+3.25%</p>
+  <p><strong>创业板指：</strong>3488.97&nbsp;点，+5.64%</p>
+  <p>&nbsp;</p>
+  <h3><strong>东山精密8月4日上涨10.00%</strong></h3>
+  <p><strong>179.09 &nbsp;+16.28 &nbsp;+10.00%</strong></p>
+  <p>当日开盘价168.76；交易量86.82万手；</p>
+  <p>换手率6.26%；放量幅度0.07%</p>
+  <p>3日涨幅+10.69%；5日涨幅-6.09%</p>
+  <p>成交额：153.29亿；总市值：3280.23亿</p>
+  <p>&nbsp;</p>
+  <h3><strong>舆情分析：积极信息占比超九成，市场关注度持续提升</strong></h3>
+  <p>近日，深市存储产业链相关公司接连释放积极信号，业界看好行业高景气度持续性。大普微发布自研SLC+QLC双模SSD方案，已进入客户灰度验证阶段，其2026年半年度预计归母净利润12亿-13.5亿元。江波龙控股股东提议回购股份，2026年上半年预计归母净利润92亿-110亿元。北京君正上半年预计营业总收入约39.89亿元，净利润10.79亿-12.82亿元。东山精密虽非存储企业，但业务相关，看好AI算力产业中长期发展，将依托协同布局把握机遇。</p>
+  <p><strong>｜事件正负面性质分析</strong></p>
+  <p>截止8月4日，此事件匹配的到全网舆情信息总量为56<strong>条</strong>，正面信息<strong>52条</strong>，占比<strong>92.9%</strong>，负面信息<strong>0条</strong>，占比<strong>0%</strong>，中性信息<strong>4条</strong>，占比<strong>7.1%</strong>，<strong>事件舆论呈现出显著正面的倾向。</strong></p>
+  <p class=""image-wrapper""><img src=""https://img.36krcdn.com/hsossms/202608",rss
+2026-08-04 14:32:05  +0800,36氪,Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差,https://36kr.com/p/3924826666301831?f=rss,,,"<p>&nbsp;</p>
+  <p>文 | 李炤锋</p>
+  <p>编辑 | 张雨忻</p>
+  <p>“长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。”</p>
+  <p><strong>过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现商业价值的场景之一。与此同时，随着Agent开始接管更多长链任务，越来越多的通用大模型开始匹配原生多模态能力。</strong></p>
+  <p>今年1月，OpenAI发布的一份企业使用报告显示，在研发岗位最常使用的三类ChatGPT工具中，图片上传排在搜索和数据分析之后，位列第三。</p>
+  <p>随着Agent开始生成网页、操作软件并检查运行结果，视觉的作用正在逐步进化：它不再只是用户交给模型的一张图片，也开始成为模型检查工作、发现错误和调整行动的反馈。</p>
+  <p>刚刚过去的7月，月之暗面发布Kimi K3。这款总参数2.8万亿、支持100万token上下文的MoE（混合专家模型），在Coding和长程Agent能力之外，出色的原生多模态能力是K3的另一个标签。</p>
+  <p>所谓原生多模态，是让图像、文字等数据从预训练或持续预训练阶段就共同塑造主模型，并在后训练中继续优化，最终参与Agent（智能体）的感知与决策。</p>
+  <p>K3发布后曾以1679分登顶Arena Frontend Code榜单。该榜单由用户盲选模型生成的可交互网页进行排名，评判的不只是代码能否运行，也包括页面的最终效果。</p>
+  <p><strong>浏览器开发平台Puter曾在测试网页中制造5处视觉偏差，K3对照目标页与运行页截图，全部找出且没有误报。得益于出色的原生多模态能力，K3能够看懂代码运行后的视觉问题，为下一轮修改提供依据。Kimi方面将这种在代码与截图之间反复迭代的方式称为“vision in the loop”：模型写完代码后查看页面，再根据视觉结果继续调整。</strong></p>
+  <p>这些都离不开模型的多模态能力。</p>
+  <p>除了月之暗面，阿里和字节也沿着原生多模态路线，将视觉作为通用模型的基础能力，在最新的Qwen3.8-Max和Doubao-Seed-2.1上，可以看到视觉理解和多模态输入都作为主要功能出现。</p>
+  <p>而在国产模型头部梯队的另一边，DeepSeek、智谱和腾讯混元的最新通用基座则仍以文本输入为主。</p>
+  <p>此前，DeepSeek创始人梁文锋曾说：“把AI训练做好，并不需要世界模型，甚至不用多模态。”但他同时表示：“多模态最终还是要做的。”</p>
+  <p><strong>这两句话并不矛盾。各家公司对多模态的长期价值没有太大分歧，真正的分歧在于时机和代价。</strong></p>
+  <p>在Coding快速迭代的阶段，要不要同步训练视觉，以及为此投入多少模型容量、数据和算力，正在影响国产头部模型的技术路线。</p>
+  <p>&nbsp;</p>
+  <h3>&nbsp;Agent为什么需要眼睛</h3>
+  <p>做原生多模态，到底有没有必要？随着当下Agent的任务链越来越长，这个问题开始变得愈发具体。</p>
+  <p>“很多时候我就喜欢截图输入。”一位来自某头部基模团队的研究员表示，“可能文本也能做到同样的需求，但是你得花很多上下文去描述视觉关系。”</p>
+  <p>视觉输入能够带来更多便利，但不同用户对它的感知并不相同。“一般人可能感觉不到，但对于开发者群体而言，有多模态还是很方便。”</p>
+  <p><strong>不过，这种需求并不只属于开发者。上述研究员提到，他身边一些并非AI从业者的用户，使用模型最多的场景之一就是制作PPT。“更专业的人可能需要更多能力、更多模态，但普通用户也会在具体场景里用到它。”</strong></p>
+  <p>纯文本模型本身仍然“看不见”。实际系统可以调用OCR或独立VLM（视觉语言模型），先把图片转换成文字、标签、坐标或结构化字段，再交给文本模型推理。这些工具可以通过Agent框架或MCP接入，用“外挂”的形式获得视觉能力。</p>
+  <p>从这个角度来看，“如何让Agent获得视觉输入能力”这个命题，不仅是一个基模研发问题，也是一道产品题。</p>
+  <p>如果系统调得足够好，上游一个大的语言模型做中枢，下游放一个小一些的视觉模型，就像老板把一件小事分配给员工，足以解决大量普通任务。</p>
+  <p>但在多模态研究员看来，这种模块化方案仍有边界。“如果调用一个工具，总归还是两个模型：一个LLM是‘瞎子’，下",rss
+2026-08-04 11:05:05  +0800,36氪,36氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资,https://36kr.com/p/3924634192673153?f=rss,,,"<p>作者&nbsp;|&nbsp;乔钰杰</p>
+  <p>编辑&nbsp;|&nbsp;袁斯来</p>
+  <p>硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、空间态势感知算法平台迭代、核心技术团队扩充及重点客户开拓。</p>
+  <p>随着低轨卫星和空间碎片数量快速增长，近地轨道正在变得更加拥挤，卫星碰撞风险随之提升，空间态势感知（Space Situational Awareness，SSA）逐渐成为卫星运营的重要基础能力。</p>
+  <p>此前，国内空间目标监测、轨道预警等任务主要由国家级科研与工程体系承担。但随着商业航天进入规模化发展阶段，大量商业卫星进入轨道运行，卫星运营方对于碰撞预警、轨道安全管理等服务的需求不断增加，市场亟需商业化空间态势感知解决方案。</p>
+  <p>清博空天成立于2025年8月，是一家专注于太空安全领域的科技服务公司，主要面向卫星运营方、星座建设方等客户，为在轨卫星提供空间态势感知、空间碎片监测以及碰撞预警服务。</p>
+  <p>空间态势感知解决的是“看清太空、预测风险”的问题，它可以类比为地面交通中的地图导航系统，高德地图关注的是城市道路中的车辆流动，而SSA关注的是近地轨道中的“星流”；天网系统通过海量数据识别风险目标，而SSA则需要在轨道环境中预测卫星之间可能发生的碰撞风险。</p>
+  <p class=""image-wrapper""><img src=""https://img.36krcdn.com/hsossms/20260804/v2_417460d9d05146619a1941f2534593f9@5920579_oswg383119oswg868oswg482_img_000?x-oss-process=image/format,jpg/interlace,1"" /></p>
+  <p class=""img-desc"">（图源/企业）</p>
+  <p>公司两位联合创始人曾毅强、班曹活均为清华大学“三清”博士（本硕博阶段均就读于清华大学），长期从事航天动力学、空间态势感知相关研究。其中，班曹活曾参与空间站精密定轨预报相关工作。清华大学航空航天学院宝音教授作为两人的共同博士导师，目前担任清博空天首席战略科学家，为公司在航天动力学与空间安全方向提供战略和技术指导。</p>
+  <p class=""image-wrapper""><img src=""https://img.36krcdn.com/hsossms/20260804/v2_c0e90809488a47159a812c2a2e0a80a5@5920579_oswg589124oswg868oswg578_img_000?x-oss-process=image/format,jpg/interlace,1"" /></p>
+  <p class=""img-desc"">（图源/企业）</p>
+  <p>公司的创始人曾毅强博士期间的主要研究方向为空间态势感知，解决了我国某重点卫星的核心太空安全问题，相关成果得到工程化落地和批量部署，获得某部科学技术进步奖。</p>
+  <p>公司联合创始人班曹活曾参与空间站的精密定轨与预报工作，通过融合历史数据、实测大气密度数据及现有大气密度模型，构建了新型修正模型，将空间站定轨预报一天的精度提升至500米，使其年均碰撞规避次数从三十余次降至3至5次，大幅降低了运营成本和操作风险。工作贡献获得中国科学院的付费订单和书面表彰。</p>
+  <p>曾毅强介绍称，目前公司已经建成空间态势感知数据服务平台，并实现对下游重点客户的商业化服务。为了进一步提升平台服务能力和服务质量，公司正在建设天地一体化的监测体系，包括光学望远镜、无线电监测设备以及相控阵雷达等多种数据采集方式。</p>
+  <p>在空间态势感知领域，数据采集只是第一步。达标的原始观测数据在经过轨道计算、目标识别、风险分析等多个环节处理后，才能转化为实际可用的决策信息。清博空天团队在数据处理、分析和应用环节拥有世界领先的核心优势。</p>
+  <p>商业化方面，清博空天目前已与我国某巨型星座运营企业围绕软件系统和数据服务开展业务合作，提供接口建设和标准化碰撞预警信息服务。目前相关系统正在进行测试，后续将长期为客户提供碰撞预警信息服务。</p>
+  <p><strong>以下是创始人问答节选：</strong></p>
+  <p><strong>硬氪：相比于火箭制造和卫星通信，空间态势感知和预警在中国还处在更早期的阶段，商业公司在这个领域有什么优势？</strong><",rss
+2026-08-04 10:59:50  +0800,36氪,36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿,https://36kr.com/p/3924628805351811?f=rss,,,"<p>作者&nbsp;|&nbsp;乔钰杰</p>
+  <p>编辑&nbsp;|&nbsp;袁斯来</p>
+  <p>硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成超亿元融资。本轮融资由国创集团，海川聚义，杭州众燊，新智资本参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。</p>
+  <p>陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减速器，通过将减速与转角功能集成在单一结构中，实现更小体积、更高精度的动力传输。</p>
+  <p>目前，陶世产品已进入多家消费电子与智能制造领域头部企业的供应链，并在人形机器人领域与近百家上下游企业建立合作。其中，面向灵巧手推出的关节模组已签署10万台供货协议，客户覆盖灵巧手产业链核心企业。</p>
+  <p>随着人形机器人进入产业化阶段，核心零部件供应链正在加速成熟。行业数据显示，人形机器人中执行器系统（电机、减速器、丝杠等）约占整机成本45%，传感器系统约占15%，两者合计超过60%。作为连接动力源与执行端的核心部件，减速器承担着动力传递和精度控制作用，直接影响机器人关节的力量、速度、稳定性和灵活性。目前，减速器也是机器人产业链国产替代的重要环节之一。</p>
+  <p>与传统谐波、RV、行星减速器不同，陶世选择的是正交传动路线。“传统方案中，要实现90度转向通常需要额外增加转角器，这种方式会带来体积增加、精度损失以及成本提升等问题。”陶世创始人陶玉龙向硬氪介绍。</p>
+  <p class=""image-wrapper""><img src=""https://img.36krcdn.com/hsossms/20260804/v2_4892712f032541ed9fa28ea9f6975611@5920579_oswg321742oswg1080oswg496_img_000?x-oss-process=image/format,jpg/interlace,1"" /></p>
+  <p class=""img-desc"">（图源/企业）</p>
+  <p>陶世的技术基础来自环面包络蜗轮蜗杆结构。传统蜗轮蜗杆虽然天然具备正交传动能力，但由于通常采用单齿啮合方式，在微型化之后容易出现承载能力不足、效率下降以及寿命降低等问题。陶世通过优化齿面接触结构，引入环面包络设计，使多个齿同时参与传动，提高承载能力和传动稳定性。</p>
+  <p class=""image-wrapper""><img src=""https://img.36krcdn.com/hsossms/20260804/v2_50efc4944cd540bdb18b64ab1ce1419d@5920579_oswg94990oswg641oswg406_img_000?x-oss-process=image/format,jpg/interlace,1"" /></p>
+  <p class=""img-desc"">（图源/企业）</p>
+  <p>为了实现量产，陶世从加工设备、检测体系、热处理工艺以及润滑材料等多个环节进行了自研开发。加工端，公司基于进口设备结构进行重新设计，开发7轴5联动磨削方案，解决环面蜗杆高精度加工难题；检测端，公司自主搭建测试设备，对产品精度、寿命和可靠性进行验证；同时，通过优化材料和润滑体系，提高产品运行效率和寿命。</p>
+  <p>经过多年研发，陶世形成了一套围绕微型正交减速器的制造体系。目前，公司环面包络蜗轮蜗杆减速器相比传统方案体积缩小约40%，精度达到±0.5弧分左右，抗拉强度达到1300兆帕，寿命可达到1万小时。</p>
+  <p>成立初期，陶世主要面向工业自动化市场。2024年，公司获得航天领域客户的首笔订单，并随后进入多家消费电子制造龙头企业的供应链体系，完成了产品在工业场景中的初步验证。</p>
+  <p class=""image-wrapper""><img src=""https://img.36krcdn.com/hsossms/20260804/v2_f249eee5df624350979f6f8dbbbc4f04@5920579_oswg199287oswg1080oswg438_img_000?x-oss-process=image/format,jpg/interlace,1"" /></p>
+  <p class=""img-desc"">（图源/企业）</p>
+  <p>2025年，公司订单的进一步增长来自具身智能产业的发展。随着人形机器人产业进入商业化探索阶段，灵巧手逐渐成为产业链关注的核心部件之一。相比传统机械臂，人形机器人的灵巧手需要完成抓取",rss
+2026-08-05 09:14:17  +0800,36氪,中信证券：传统主业稳健+AI收入渐显，美股应用软件迎来估值修复契机,https://36kr.com/newsflashes/3925919120259207?f=rss,,,36氪获悉，中信证券研报表示，当下“AI吞噬软件”叙事正在逐步证伪：龙头厂商收入与在手订单仍保持稳健增长，应用软件基本面尚未出现市场此前担忧的结构性失速；同时模型厂商通过嵌入CRM、ERP、ITSM和HCM等既有工作流推进企业级落地，传统软件厂商的数据、行业知识及客户服务能力仍构成核心壁垒。短期看，模型同质化属性提升、软件企业AI收入占比提升等有望推动美股软件板块估值持续向上修复。中期维度，板块能否由估值修复走向反转，仍取决于AI产品能否带动软件企业整体营收增速回升，未来1—2个季度可能是重要观察窗口。,rss
+2026-08-05 09:12:51  +0800,36氪,“哲源科技”完成近2亿元A2轮融资,https://36kr.com/newsflashes/3925940167325829?f=rss,,,36氪获悉，北京哲源科技有限责任公司在A2轮获得近2亿人民币融资。本轮融资由圣湘生物携产业基金领投，中科创星作为老股东持续跟进，张江科投等联合跟投。本轮融资将主要用于高价值创新IP的持续产出与全球资产布局，以及基于生命世界模型驱动的AI4S平台升级。,rss
+2026-08-05 09:03:40  +0800,36氪,分红回购持续推进，券商多管齐下增强投资者信心,https://36kr.com/newsflashes/3925915502852233?f=rss,,,从多家券商筹划回购事宜或披露股份回购最新进展，到2025年年度分红密集落地增强投资者获得感，近期上市券商提振投资者信心动作频频，部分券商控股股东计划增持股份，也向市场传递出对国内资本市场长期投资价值的看好。在业内人士看来，在市场风格经历再平衡的过程中，低估值、有业绩的券商板块具备修复空间，ROE持续创新高、业务结构持续优化、盈利成长性提升是券商板块估值提升的重要驱动因素。就投资布局而言，优质头部券商、一级投资具备特色的券商以及衍生品、财富管理等特色业务突出的中型券商值得关注。（中证报）,rss
+2026-08-05 08:50:30  +0800,36氪,Lucid将在“运营重整”期间推迟推出平价电动车,https://36kr.com/newsflashes/3925900711442816?f=rss,,,Lucid 首席执行官周二表示，该公司计划于2027年下半年推出更实惠的电动汽车，将原定于今年晚些时候的上市计划推迟，目前公司正在进行重大业务审查并削减成本。作为公司所谓“ 运营重置” 计划的一部分，Lucid 计划今年节省14亿美元现金，主要通过削减产量和库存来实现，此前该公司第二季度亏损持续扩大。（新浪财经）,rss
+2026-08-05 08:47:57  +0800,36氪,两市融资余额增加119.71亿元,https://36kr.com/newsflashes/3925915682322821?f=rss,,,36氪获悉，截至8月4日，上交所融资余额报13294.07亿元，较前一交易日增加61.49亿元；深交所融资余额报12547.38亿元，较前一交易日增加58.22亿元；两市合计25841.45亿元，较前一交易日增加119.71亿元。,rss
+"Wed, 05 Aug 2026 08:13:50 +0800",极客公园,鸿蒙智行发布「竹知了」相关情况说明；小红书封禁 AI 毒动画，未成年陪聊等 10 万账号；马斯克财富缩水2.45万亿元｜极客早知道,http://www.geekpark.net/news/368389,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/4a/9a/4a9a88cfb9b2d46787e09c5ebfff24e1.png"" /></p>
+<header>
+<h2>​鸿蒙智行发布「竹知了」相关情况说明</h2>
+</header>
+<p>8 月 4 日晚，@ 鸿蒙智行发言人 发布关于近期「竹知了」相关网络信息的情况说明。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/49/0a/490aa41a7023f588fbca02944c1368d5.png"" /></p>
+<p>鸿蒙智行表示：长期以来，网络上持续存在恶意剪辑、仿冒相关高管声音、利用 AI 丑化肖像、虚假归因、侮辱诽谤等侵害个人合法权益的内容。我们一直依法开展日常取证和投诉。本次投诉是日常维权工作的一部分，针对的是具体侵权内容，并非针对「竹知了」玩具。</p>
+<p>截至 8 月 4 日晚，共监测到相关网络信息累计 5.6 万余条。我们实际对其中 171 条具体侵权内容发起投诉，平台反馈下架 144 条。</p>
+<p>经多部门复核，相关投诉均有明确侵权事实和留存证据，不存在仅为正常把玩、制作、展示或者销售「竹知了」的内容。我们未向任何电商平台投诉「竹知了」商品，也从未要求任何电商平台下架、停售该商品。网络上有关「全网下架」、「禁止销售」、「许多单纯展示玩具或分享童年回忆的普通视频也被连带下架，部分账号头像变灰、昵称被重置」等说法与事实不符。（来源：cnBeta）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/bc/4a/bc4ac2035b7d267a044bbebd17e4972d.png"" /></p>
+<h2>苹果向法院申请临时禁令，阻止 OpenAI 使用、披露其机密信息</h2>
+<p>8 月 4 日，苹果当地时间周一向美国法院申请初步禁令，要求禁止两名前员工以及 OpenAI 获取、访问、使用或披露涉嫌属于苹果的机密信息。与此同时，苹果正推进其商业机密侵权诉讼。</p>
+<p>与此同时，苹果周一还提交了一项加快证据开示程序的动议，要求被告提供与涉嫌访问苹果专有信息和商业机密相关的文件。</p>
+<p>苹果还请求法院要求诉讼中涉及的两名前苹果员工刘畅（Chang Liu，音译）和唐坦（Tang Yew Tan，音译）接受庭前证词询问（deposition）。此外，苹果还要求 OpenAI 员工彭宇婷（Yu-Ting Peng，音译）以及另一位曾任职于苹果、目前供职于 OpenAI、但身份尚未公开的员工接受问询。</p>
+<p>刘畅曾担任苹果高级系统电气工程师，唐坦则曾任苹果&nbsp;iPhone&nbsp;和 Apple Watch 产品设计副总裁。</p>
+<p>苹果还要求 OpenAI 以及其商业硬件部门 io Products（同样被列为本案被告）的企业代表接受庭前证词询问。苹果在提交给法院的文件中表示：「如果法院不发布初步禁令，苹果将遭受无法弥补的损害。」</p>
+<p>对此，OpenAI 当地时间周一晚间在一篇博客文章中回应称：「苹果申请初步禁令既基于错误信息，也完全没有必要，因为我们既没有，也不希望拥有苹果的任何商业机密。」（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需 10 天内导出书签</h2>
+<p>8 月 4 日，OpenAI 宣布 ChatGPT Atlas 将于 8 月 9 日正式停止服务，此后既不再推送功能更新，也不再修补安全漏洞，这款产品从 2025 年 10 月 21 日登陆 macOS 算起，满打满算才活了不到十个月。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/86/2d/862d28ec0928ef5b500db756da10e8b6.png"" /></p>
+<p>OpenAI 官方表示，ChatGPT Atlas 的所有数据不会自动迁移至新版 ChatGPT。如果用户希望保存过往书签、历史记录，则需要将其导出为 HTML 文件，再导入到 Chrome 等其他浏览器。</p>
+<p",rss
+"Tue, 04 Aug 2026 16:25:33 +0800",极客公园,飞书并入豆包：字节跳动的一次目标重塑,http://www.geekpark.net/news/368374,,,"<p>&nbsp;</p>
+<p>头图来源：视觉中国</p>
+<p style=""text-align: center;"">&nbsp;</p>
+<p>7 月 30 日，字节跳动下发内部邮件，完成了近年来力度最大的一次 ToB 业务架构调整：飞书产品团队与豆包产品团队整合，成立新的豆包产品团队，由豆包负责人赵祺统筹，飞书负责人谢欣向其汇报；飞书商业化团队则与火山引擎整合，成立新的 ToB GTM 组织「创造力服务平台」，由火山引擎负责人谭待负责。</p>
+<p>关于这次调整，字节暂时还没有对外给出系统性的解读，但如果我们站在今天这个时间节点去观察，这件事可能并不只是一次简单的部门合并、汇报关系变化或者组织架构调整，而有可能是飞书自诞生以来最根本的一次使命转向。</p>
+<p>这件事背后，既藏着字节对 AI 未来的战略下注，也有着飞书这家从内生工具成长起来的产品，走到今天必须面对的关键转折点&mdash;&mdash;当先进企业最迫切的问题已经发生变化，飞书还能不能像它诞生时那样，率先定义问题，并提供一套更好的答案？</p>
+<p>这可能才是这次调整真正值得讨论的地方。</p>
+<h1>一、飞书来自于一次「目标创新」</h1>
+<p>要读懂这次转折，或许要先把镜头拉远，回到飞书诞生的起点。</p>
+<p>飞书最初并不是为了进入 ToB 市场而从零设计的产品。</p>
+<p>2016 年前后，字节跳动正处于高速扩张期，员工、业务和地域边界迅速扩大，原有工具越来越难以承载这家公司的工作方式。信息散落在聊天、邮件、会议和文档里，上下文在层级传递中不断损耗，一线员工难以在离问题最近的地方做出判断。</p>
+<p>既然外部没有合适的答案，就自己造一个。</p>
+<p>飞书由此从内部效率工程中生长出来。它把字节已经验证过的一套组织实践&mdash;&mdash;信息透明、文档驱动、分布式决策与 OKR 对齐&mdash;&mdash;逐渐固化为产品。</p>
+<p>从诞生第一天起，飞书就和传统 OA 产品走在两条完全不同的路上。它后来被概括为「Context, not Control」的理念，背后是一个不同的判断：组织生产力的损耗，不只来自员工是否执行到位，也来自他们是否获得了足够充分的上下文。</p>
+<p>飞书真正的创新并不只是把聊天、文档、会议和日历放到了一起。更重要的是，它率先定义了一个有意义的问题：<strong>数字化时代，怎样让信息更充分地在组织中流动，让更多人能够自主决策？</strong></p>
+<p>它也给出了一个经过自身验证的答案。</p>
+<p>2019 年前后，这套在字节内部生长出来的产品与方法开始向外溢出。许多创业公司和知识密集型企业选择飞书，不只是因为产品体验更现代，也因为它们希望获得一部分「字节如何工作」的答案。</p>
+<p>很多人至今仍对早期的飞书未来无限大会印象深刻。台上的主角是一批来自不同行业的客户。大家谈组织、谈协作、谈如何减少会议、如何让目标被更多人看见。看起来是在介绍软件，真正被传播的却是一套关于公司应该怎样工作的共同信念。</p>
+<p>那毫无疑问是飞书最「锐利」的阶段。它用一个新的问题和一套新的答案，重塑了传统企业软件的管控逻辑。飞书早期的 PLG，也因此不只是产品驱动增长，更包含了一种世界观的自然扩散。</p>
+<h1>二、当锐利进入厚重的现实</h1>
+<p>一套新的方法被证明之后，产品终究要走进更大的市场。</p>
+<p>飞书从协同办公进入组织管理，又继续深入业务管理。People、多维表格、项目和低代码等产品，让它不再只处理沟通和文档，而是进入招聘、绩效、门店、销售、研发与生产等具体流程。客户也从互联网公司扩展到汽车、消费零售和制造业。</p>
+<p>这是一款企业软件成长的必经之路。</p>
+<p>早期飞书像一把锥子，靠一个足够尖锐的判断，迅速刺穿旧有认知；进入更多行业之后，它面对的却是厚重的现实：复杂的权限、历史系统、采购流程、行业差异和长期交付。这个时候，只靠锐利已经不够，团队必须拿起锤子和锉刀，一下一下地往前推进。</p>
+<p>飞书的定位变化，足以说明这条路径：从新一代协同办公，到组织管理，再到 2023 年提出「让业务先进一步」，它逐渐从输出一种组织世界观，下沉为解决企业每天面对的具体业务问题。</p>
+<p style=""text-align: center;""><img alt=""在2023秋季飞书未来无限大会上，飞书CEO谢欣介绍飞书智能伙伴等系列AI产品新功能，推动企业从数字化向AI Ready迈进。"" src=""https://imgslim.geekpark.net/uploads/image/file/0c/9a/0c9a8b0b82f052b3778619",rss
+"Tue, 04 Aug 2026 15:20:06 +0000",TechCrunch AI,Elon Musk spends half his time talking robots and AI on Tesla earnings calls,https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/,,,An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.,rss
