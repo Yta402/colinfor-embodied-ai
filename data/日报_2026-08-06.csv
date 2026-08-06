@@ -1,0 +1,45 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+"Wed, 05 Aug 2026 03:21:32 +0000",艾邦机器人,视触觉，或成机器人灵巧手指尖感知技术趋势,https://www.aibangbots.com/a/12070,,,分辨率高，可测六维力，视触觉助力机器人感知更加敏锐、细腻,rss
+"Wed, 05 Aug 2026 17:00:00 GMT",InfoQ 机器人,IPO冲刺中，智元机器人核心班底“华为化”：前谷歌科学家从合伙人名单消失,https://www.infoq.cn/article/mFDVYdsliuDByQKcWFkh?utm_source=rss&utm_medium=article,,,"<div align=""right""><a href=""https://www.infoq.cn/article/mFDVYdsliuDByQKcWFkh?utm_source=rss&amp;utm_medium=article"">点击查看原文></a></div>",rss
+"Thu, 06 Aug 2026 08:30:53 +0800",极客公园,传 DeepSeek 重启融资；华为余承东：手机之后可能都要大规模涨价；首例破坏 AI 模型刑案宣判，程序员「删库跑路」获刑,http://www.geekpark.net/news/368444,,,"<p style=""text-align: center;""><img height=""392"" src=""https://imgslim.geekpark.net/uploads/image/file/dd/26/dd2687b38f3ac8e302a98db1a558d5ea.png"" /></p>
+<h2 style=""text-align: left;""><span style=""font-weight: bold;"">传 DeepSeek 重启融资</span></h2>
+<p style=""text-align: left;"">据多名交易人士透露，大模型公司 DeepSeek 重启了第二轮融资，本轮计划募资 500 亿元，投前估值约 5000 亿元，并计划将在 8 月下旬完成签约。</p>
+<p style=""text-align: left;"">多位投资人提到，DeepSeek 第二轮融资至少在 7 月中旬就已开启，但在 7 月底突然暂停，当时一些谈判候补名单上的投资人被告知签署融资协议的计划暂缓。</p>
+<p style=""text-align: left;"">据介绍，DeepSeek 和正在谈判桌上的投资人们希望这次融资在重启后能低调进行。目前，一些此前积极接触的投资机构表示，他们还没有接到 DeepSeek 重启融资的消息，通道仍处在暂缓状态。（来源：财经）</p>
+<p style=""text-align: center;""><img height=""392"" src=""https://imgslim.geekpark.net/uploads/image/file/96/cf/96cfeb7c9cb8aa964200684c63b3cbaf.png"" /></p>
+<h2 style=""text-align: left;""><span style=""font-weight: bold;"">Anthropic 证实正在组建内部芯片团队</span></h2>
+<p style=""text-align: left;"">据媒体报道，随着旗下模型需求快速增长，人工智能公司Anthropic正在组建团队，开发自研AI芯片。</p>
+<p style=""text-align: left;"">根据一份招聘信息以及公司声明，Anthropic正在招聘工程师，为其Claude模型设计定制芯片。</p>
+<p style=""text-align: left;"">Anthropic一名发言人对媒体表示，公司正在组建内部半导体团队，为Claude设计专用芯片。这是Anthropic首次公开确认相关计划。</p>
+<p style=""text-align: left;"">据悉，Anthropic将协同设计硬件和AI模型，使Claude能够在&ldquo;满足客户需求的规模下&rdquo;运行得更快、更高效。（来源：财联社）</p>
+<p>&nbsp;</p>
+<h2 style=""text-align: left;""><span style=""font-weight: bold;"">谷歌</span><span style=""font-weight: bold;"">前</span><span style=""font-weight: bold;"">首席科学家</span><span style=""font-weight: bold;""> Jeff Dean </span><span style=""font-weight: bold;"">宣布离职创业</span></h2>
+<p style=""text-align: left;"">当地时间 8 月 5 日，Google DeepMind 负责人哈萨比斯宣布卸下日常管理职责，转任 Google DeepMind 主席兼 Alphabet 首席科学家。</p>
+<p style=""text-align: left;"">几乎在同一时间，谷歌的灵魂人物、首席科学家杰夫&middot;迪恩宣布将在任职 27 年后离职，并将创办新公司 Discovery Loop，未来尝试利用 AI 探索如何自动化科学研究和工程实验。与迪恩一同离职并创业的还有三名资深研究人员。</p>
+<p style=""text-align: left;"">据外媒报道，迪恩表示他大约五周前才开始认真考虑创业。（来源：APPSO）</p>
+<p>&nbsp;</p>
+<h2 style=""text-align: left;""><span style=""font-weight: bold;"">马斯克：SpaceX 将独家采用英伟达芯片</span></h2>
+<p style=""text-align: left;"">近日，马斯",rss
+"Wed, 05 Aug 2026 16:42:08 +0800",极客公园,办公 Agent 爆火，模型大战进入下一阶段,http://www.geekpark.net/news/368429,,,"<p style=""text-align: left;""><strong><span style=""color: #000000;"">作者｜Cynthia </span></strong></p>
+<p style=""text-align: left;""><strong><span style=""color: #000000;"">编辑｜ 靖宇</span></strong></p>
+<p>&nbsp;</p>
+<p style=""text-align: left;"">从今年 6 月到 8 月初，短短不到 60 天时间，有一件事几乎同时在新 BAT 发生。</p>
+<p style=""text-align: left;"">先是 6 月，阿里率先开启内部 Agent 的产品线与能力大整合，到 8 月 3 日，官宣在编程（Coding）和专业办公（Cowork）能力大幅提升的 Qwen3.8 模型的同时，正式将内部孵化的三款 Agent 产品 QoderWork、悟空、MuleRun 合并为统一的 Agent 产品「千问办公」。</p>
+<p style=""text-align: left;"">紧随其后，7 月 20 日，腾讯开启业务整合，QClaw 的相关业务和团队被并入 WorkBuddy 体系。</p>
+<p style=""text-align: left;"">10 天后的 7 月 30 日， <a href=""https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653111360&amp;idx=1&amp;sn=8dcb0fd35868f364066ed48a22f23492&amp;scene=21#wechat_redirect"" rel=""noopener noreferrer"" target=""_blank"">字节跳动宣布飞书产品团队整体并入豆包，飞书负责人谢欣向豆包负责人赵祺汇报 </a>。</p>
+<p style=""text-align: left;"">不同的组织结构、不同的产品积累和优势市场，三家中国最顶级的互联网企业却在相近时间作出相似整合选择。这不太像巧合。</p>
+<p style=""text-align: left;"">更合理的判断是，这种整合，是在 AI 行业走过摸索期，进入入口争夺阶段背景下的必然选择：过去，大厂需要用多个团队验证桌面操作、云端执行和企业协作等不同路线；现在，主要产品形态已经逐渐清晰， <span style=""font-weight: bold;"">竞争也开始从能不能做出 Agent，转向谁能成为用户和企业的统一入口。</span></p>
+<p style=""text-align: left;"">而千问办公作为这轮收束中最新落地的产品，也是最适合观察观察行业变化的样本。</p>
+<p style=""text-align: left;"">作为阿里阶段性的能力重组，它将此前分散在模型、桌面端、云端和企业协作场景中的积累，装进了一款新的独立产品。</p>
+<p style=""text-align: left;"">同时，它身上也集中体现了企业 Agent 竞争中最关键的几个问题：内部赛马为什么此时结束，企业 IM 与云为什么成为 Agent 的底层资产，以及模型、产品和真实任务如何形成共同进化的闭环。</p>
+<p style=""text-align: left;""><span style=""font-weight: bold;"">读懂它，就读懂了企业级 Agent 真正的赛点。</span></p>
+<p>&nbsp;</p>
+<h1 style=""text-align: center;""><span style=""font-weight: bold; font-style: italic; color: #000000;"">01 </span></h1>
+<p style=""text-align: center;""><span style=""font-weight: bold;"">大厂为什么同时收敛路径 </span></p>
+<p>&nbsp;</p>
+<p style=""text-align: left;"">大厂为什么几乎同一时间开始整合 Agent 产品？</p>
+<p style=""text-align: left;"">拿阿里来说，在今年年初，同时保留 QoderWork、悟空和 MuleRun，是合理的。</p>
+<p style=""text-align: left;"">三款产品代表了三种不同判断。</p>
+<p style=""text-align: left;"">QoderWork 运行在用户电脑上，擅",rss
+"Wed, 05 Aug 2026 15:05:00 +0000",TechCrunch AI,"TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/,,,"On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",rss
+"Wed, 05 Aug 2026 11:00:00 +0000",TechCrunch AI,AI makes weather prediction better. Can WindBorne make it lucrative?,https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/,,,WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.,rss

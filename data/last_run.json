@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-05",
-  "collected": 79,
-  "deduped": 79,
+  "date": "2026-08-06",
+  "collected": 68,
+  "deduped": 68,
   "tagged": 0,
   "report": {
     "sources": [
@@ -18,16 +18,12 @@
         "count": 1
       },
       {
-        "name": "36氪",
-        "count": 14
-      },
-      {
         "name": "极客公园",
-        "count": 23
+        "count": 24
       },
       {
         "name": "TechCrunch AI",
-        "count": 1
+        "count": 3
       },
       {
         "name": "VentureBeat AI",
