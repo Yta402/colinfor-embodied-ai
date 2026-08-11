@@ -1,0 +1,83 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+2026-08-10 18:01:25+00:00,IEEE Spectrum Robotics,Robot Recycler Salvages Parts from Broken Machines,https://spectrum.ieee.org/recycling-robot,,,"<p>Objects constructed by robots are ubiquitous. If you’ve used a car, household appliance, or smartphone today, you’ve used an object …</p>",rss
+"Mon, 10 Aug 2026 15:20:09 GMT",InfoQ 机器人,行业新选手登场！中科慧思一口气发三款灵巧手新品，机器人也能组乐队现场演奏,https://www.infoq.cn/article/6EXTXyTt834kMGkiqqDT?utm_source=rss&utm_medium=article,,,"<div align=""right""><a href=""https://www.infoq.cn/article/6EXTXyTt834kMGkiqqDT?utm_source=rss&amp;utm_medium=article"">点击查看原文></a></div>",rss
+"Mon, 10 Aug 2026 14:24:34 GMT",InfoQ 机器人,破局“数据困境”：橡木果发布全球首个“具身本能模型”Natus AGE-0，获招商局创投与蔚来资本天使轮投资,https://www.infoq.cn/article/dXkqWgtLOtDEl82dzQR6?utm_source=rss&utm_medium=article,,,"<div align=""right""><a href=""https://www.infoq.cn/article/dXkqWgtLOtDEl82dzQR6?utm_source=rss&amp;utm_medium=article"">点击查看原文></a></div>",rss
+"Mon, 10 Aug 2026 06:58:58 +0000",量子位,对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI,https://www.qbitai.com/2026/08/469520.html,,,“我们90天就成了独角兽”,rss
+"Mon, 10 Aug 2026 01:34:10 +0000",量子位,魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只,https://www.qbitai.com/2026/08/469213.html,,,"全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。
+
+需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。",rss
+"Mon, 10 Aug 2026 20:41:27 +0800",极客公园,语音成为 AI 关键入口，阿里一口气把全栈模型能力都拿出来了,http://www.geekpark.net/news/368638,,,"<div class=""rich_media_content js_underline_content defaultNoSetting fix_apple_default_style"" id=""js_content"">
+<section class=""wx-article-wrap"">
+<section class=""js_darkmode__bg__0 js_darkmode__0""></section>
+<section>
+<p><strong class=""js_darkmode__1"">作者｜连冉</strong></p>
+<p><strong class=""js_darkmode__2"">编辑｜郑玄</strong></p>
+</section>
+<p>我们正在悄然进入一个「打字越来越少」的时代。</p>
+<p>过去，语音只是键盘输入的补充：开车时发消息、开会时记笔记，它是「不方便打字时的替代方案」；但现在，语音正在成为人机交互的核心入口之一&mdash;&mdash; 有人用语音写完一天的工作文档，有人靠语音驱动 AI 写完代码，甚至有产品从诞生起就没有打字框，全程靠说话完成所有操作。</p>
+<p>这股「语音原生」的浪潮，也已经从用户习惯渗透到了一级市场。</p>
+<p>海外 AI 语音输入工具&nbsp;<span class=""wx_search_keyword_wrap"">Wispr</span>&nbsp;半年估值翻近三倍逼近 20 亿美元，用户规模同比暴涨超百倍；从主打私密输入的 AI 语音戒指，到全场景语音交互助手，国内初创公司融资消息接连不断，2026 年第一季度全球语音 AI 赛道融资总额已超 70 亿美元。</p>
+<p>当语音可以直接产出工作成果、触发完整业务流程的生产力入口，整个赛道的竞争逻辑也正在被改写。海外已经跑出了 ElevenLabs 这样估值超百亿美金的全链路语音平台，而国内市场还缺少一个真正意义上的语音生产力基建级产品。</p>
+<p><span class=""wx_text_underline"">8 月 7 日，阿里巴巴推出国内首个 AI 语音生产力平台&nbsp;</span><span class=""wx_search_keyword_wrap""><span class=""wx_text_underline"">CosyVoice Studio</span></span><span class=""wx_text_underline"">，整合开放语音识别、语音合成、实时语音交互三类核心能力，覆盖「听、创、聊」全链路。</span></p>
+<section>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/9b/31/9b31d2c803f2c4215c657c29a6c8eb98.jpeg"" /></p>
+<p><span>图片来源：Artificial Analysis</span></p>
+</section>
+<p><span>CosyVoice Studio 背靠全球第一梯队的阿里自研 Qwen-Audio 语音大模型家族。比如，在全球第三方评测平台 Artificial Analysis 7月28日的榜单中，Qwen-Audio-3.0-Realtime 的综合指数（Speech to Speech Index）得分达 84.1%，摘得全球桂冠。语音推理、智能体表现和对话动态三个子项得分也均为世界第一。</span><span><br /></span></p>
+<p><span>有模型打底，再加上千问、钉钉、高德、淘天等真实业务场景的长期打磨，阿里正在尝试走出一条从模型能力到产品生态的语音商业化路径。这场从单点能力输出到全链路产品开放的升级，也为国内 AI 语音赛道的下一程，带来了全新的变量。</span></p>
+<section>
+<section>
+<section>
+<section>
+<section>
+<p><em><strong>01</strong></em></p>
+</section>
+</section>
+<section>
+<section class=""js_darkmode__4""></section>
+</section>
+</section>
+</section>
+<p class=""js_darkmode__5""><strong><span class=""js_darkmode__6""><strong class=""js_darkmode__7""><span class=""js_darkmode__8",rss
+"Mon, 10 Aug 2026 16:31:17 +0800",极客公园,美国本土直播带货，长出一头 200 亿美元「巨兽」,http://www.geekpark.net/news/368627,,,"<p style=""text-align: left;""><span style=""font-weight: bold; color: #000000;"">作者｜Wildcard</span></p>
+<p style=""text-align: left;""><span style=""font-weight: bold; color: #000000;"">编辑｜靖宇</span></p>
+<p style=""text-align: left;"">&nbsp;</p>
+<p style=""text-align: left;"">当直播带货，在中国已经近乎成为网民购物基本操作时候，习惯了 Copy From China 的硅谷大厂，不是没动心过。</p>
+<p style=""text-align: left;"">2022 年 10 月，Facebook 关闭了直播购物功能。五个月后，Instagram 跟进。Amazon Live 则更惨，被行业分析师评价为「内容质量令人尴尬，大多数用户甚至不知道它的存在」。</p>
+<p style=""text-align: left;"">硅谷大厂一系列失败，得出一个结论&mdash;&mdash; <span style=""font-weight: bold;"">直播电商在美国做不起来。</span></p>
+<p style=""text-align: left;"">中国有李佳琦和 4.5 万亿的直播电商 GMV，而美国消费者就是不买账。这个结论放在 2022 年底看，是合理的。</p>
+<p style=""text-align: left;"">但四年之后的今天，一家从洛杉矶出租屋里长出来的直播电商公司 Whatnot，刚刚完成了 5.45 亿美元的 G 轮融资，估值 200 亿美元。在欧美直播电商市场，这家名不见经传的创业公司，已经占据了 60% 的份额，是绝对的霸主。</p>
+<p style=""text-align: left;"">更可怕的是，Whatnot 上 用户日均观看时长超过 80 分钟！</p>
+<p style=""text-align: left;""><span style=""font-weight: bold;"">那些说美国做不了直播电商的人，显然说错了。但更值得追问的是，美国最终跑出来的赢家，为什么跟中国版本长得完全不一样？</span></p>
+<h1 style=""text-align: center;""><span style=""font-weight: bold; font-style: italic; color: #000000;"">01</span></h1>
+<p style=""text-align: center;""><span style=""font-weight: bold;"">美国版「得物」开局</span></p>
+<p style=""text-align: left;"">Whatnot 的创始故事，怎么看都不像一个 200 亿美元公司该有的开头。</p>
+<p style=""text-align: left;"">2019 年底，Grant LaFontaine 和 Logan Head 在洛杉矶注册了 Whatnot。LaFontaine 此前在 Facebook 和 YouTube 做产品经理，Head 是球鞋交易平台 GOAT 的前高级产品经理。两个人有一个共同点&mdash;&mdash;都是收藏品玩家。LaFontaine 从中学开始倒卖宝可梦卡牌，后来又卖球鞋。</p>
+<p style=""text-align: left;"">他们一开始做的事情极其朴素，就是一个专门卖 Funko Pop 手办的线上交易平台。对，就是那种大头塑料公仔。为了解决收藏品市场最大的痛点「假货泛滥」，早期 Whatnot 要求所有商品先寄到平台进行实物验证，然后再发给买家。</p>
+<p style=""text-align: center;""><img height=""502"" src=""https://imgslim.geekpark.net/uploads/image/file/d6/b4/d6b48c3a69d94b164470a7edcee006bb.png"" /></p>
+<p style=""text-align: left;""><span style=""color: #bbbfc4;"">Whatnot 两位创始人 Grant LaFontaine 和 Logan Head｜图片来源：Crunchbase</span></p>
+<p style=""text-align: left;"">团队只有四个人。LaFontaine 后来在采访中说，「很难跟你父",rss
+"Mon, 10 Aug 2026 08:16:40 +0800",极客公园,苹果被曝正在测试长鑫科技存储芯片；宇树科技今日申购，中一签或赚 20 万元；原字节跳动机器人一号位加入小米｜极客早知道,http://www.geekpark.net/news/368581,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/0d/67/0d67b4f9cf35ab0483a8043f4278f4fc.png"" /></p>
+<h2>苹果被曝正在测试长鑫科技存储芯片，用于 iPhone 和 MacBook</h2>
+<p>8 月 9 日，据《华尔街日报》报道，苹果公司正在其 iPhone 和 MacBook 等产品线中测试长鑫存储（CXMT）的存储芯片，以缓解因人工智能热潮引发的内存短缺问题。报道援引知情人士称，苹果公司已与中国最大的芯片制造商长鑫存储就零部件供应展开初步洽谈，目标是在中国销售的部分设备中使用这些芯片。</p>
+<p>路透社此前报道称，长鑫存储正考虑在北京建设第二座存储芯片工厂，以提高产能。此外，笔记本电脑制造商惠普（HP）和宏碁（Acer）已开始在销往美国以外市场的设备中使用长鑫存储的芯片，以缓解供应短缺。（来源：中新经纬）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/ea/13/ea1305b2232c9d1bd554daa36ba738fd.png"" /></p>
+<h2>消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一</h2>
+<p>8 月 9 日消息，据报道，5 月以来，腾讯 WorkBuddy 的广告从北京知春路铺到深圳高新园。打开手机，头部应用的信息流里也几乎都是 WorkBuddy 的身影。</p>
+<p>报道称，这是腾讯近年来少见的饱和式产品投放。这种密集的攻势背后，是腾讯在渠道、算力、组织和生态资源上的集中倾斜。</p>
+<p>据腾讯 CSIG 人士透露，WorkBuddy 已经成为腾讯 AI 应用中战略优先级最高的产品之一，公司内部也有流传「继 QQ、微信后第三个战略级产品」的说法。</p>
+<p>除了马化腾亲自参与产品会议外，该团队提出的算力、技术和市场资源需求，大多能够快速获批，在腾讯内部被形容为「一路绿灯」。</p>
+<p>同时不少腾讯员工认为，WorkBuddy 今年极大概率会进入腾讯「名品堂」，这是腾讯对里程碑式产品的最高荣誉之一。（来源：界面新闻）</p>
+<p>&nbsp;</p>
+<h2>微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元</h2>
+<p>8 月 9 日，据 S&amp;P Global Market Intelligence 的数据分析显示，微软、Google、亚马逊、Meta 和甲骨文在 2026 年的自由现金流合计几乎为零。自由现金流是扣除各项支出和 AI 基础设施成本后的剩余款项，这五大科技公司在 AI 的开发和交付上投入了巨资，因此到 2027 年它们的财务状况将会严重恶化，将会出现高达 1250 亿美元的负现金流。</p>
+<p>其中亚马逊和 Google 两大云计算公司过去三个月损失的现金超过其它任何美国公司。马斯克旗下的 SpaceX 公司情况估计会更严重。（来源：Solidot）</p>
+<p>&nbsp;</p>
+<h2>苹果客服回应删除接入千问手册：目前并没有收到新项目发布通知</h2>
+<p>8 月 9 日，据新浪科技报道，针对删除《在 Mac 上配合 Apple 智能使用千问》使用文档一事，苹果客服对此回应称：「我们有功能或新项目发布时，都会提前收到通知，目前并没有收到相关通知，中国大陆还没推出『Apple 智能使用千问』相关功能。」</p>
+<p>8 月 8 日，一篇名为《在 Mac 上配合 Apple 智能使用千问》的支持文档现身苹果官网 Mac 简体中文使用手册，其中明确提到 Apple 智能可配合阿里巴巴千问模型工作。</p>
+<p>然而，这份简体中文操作手册已于昨日在苹果官网删除，原网页链接无法正常访问。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>​甲骨文 OpenJDK 项目新规：不允许提交 AI 生成代码</h2>
+<p>8 月 9 日，甲骨文公司现已通知 OpenJDK 开发者，要求项目组不能再提交 AI 生成的代码。OpenJDK 社区是一个由全球开发者、公司和组织组成的开源协作社区，主要负责开发与维护 Java 平台标准版（Java SE）的官方开源实现</p>
+<p>甲骨文对此表示：「OpenJDK 社区贡献内容不得包含由大语言模型、扩散模型或深度学习系统生成的内容。此处的『内容』包括但不限于代码、文本、PR、电子邮件沟通、维基和 B",rss
