@@ -1,10 +1,14 @@
 {
-  "date": "2026-08-11",
-  "collected": 58,
-  "deduped": 58,
+  "date": "2026-08-12",
+  "collected": 67,
+  "deduped": 67,
   "tagged": 0,
   "report": {
     "sources": [
+      {
+        "name": "艾邦机器人",
+        "count": 9
+      },
       {
         "name": "IEEE Spectrum Robotics",
         "count": 28
@@ -15,11 +19,11 @@
       },
       {
         "name": "量子位",
-        "count": 2
+        "count": 3
       },
       {
         "name": "极客公园",
-        "count": 23
+        "count": 22
       },
       {
         "name": "VentureBeat AI",
