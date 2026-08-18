@@ -1,25 +1,33 @@
 {
-  "date": "2026-08-17",
-  "collected": 52,
-  "deduped": 52,
+  "date": "2026-08-18",
+  "collected": 65,
+  "deduped": 65,
   "tagged": 0,
   "report": {
     "sources": [
+      {
+        "name": "艾邦机器人",
+        "count": 8
+      },
       {
         "name": "IEEE Spectrum Robotics",
         "count": 28
       },
       {
         "name": "量子位",
-        "count": 2
+        "count": 4
       },
       {
         "name": "极客公园",
-        "count": 19
+        "count": 21
       },
       {
         "name": "VentureBeat AI",
         "count": 3
+      },
+      {
+        "name": "The Verge AI",
+        "count": 1
       }
     ],
     "errors": []
