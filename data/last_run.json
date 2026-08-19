@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-18",
-  "collected": 65,
-  "deduped": 65,
+  "date": "2026-08-19",
+  "collected": 63,
+  "deduped": 63,
   "tagged": 0,
   "report": {
     "sources": [
@@ -11,15 +11,15 @@
       },
       {
         "name": "IEEE Spectrum Robotics",
-        "count": 28
+        "count": 27
       },
       {
         "name": "量子位",
-        "count": 4
+        "count": 2
       },
       {
         "name": "极客公园",
-        "count": 21
+        "count": 22
       },
       {
         "name": "VentureBeat AI",
