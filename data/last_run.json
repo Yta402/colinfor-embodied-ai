@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-22",
-  "collected": 62,
-  "deduped": 62,
+  "date": "2026-08-23",
+  "collected": 64,
+  "deduped": 63,
   "tagged": 0,
   "report": {
     "sources": [
@@ -19,11 +19,11 @@
       },
       {
         "name": "量子位",
-        "count": 2
+        "count": 5
       },
       {
         "name": "极客公园",
-        "count": 21
+        "count": 20
       },
       {
         "name": "VentureBeat AI",
