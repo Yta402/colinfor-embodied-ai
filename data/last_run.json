@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "collected": 62,
   "deduped": 62,
   "tagged": 0,
@@ -7,27 +7,23 @@
     "sources": [
       {
         "name": "艾邦机器人",
-        "count": 6
+        "count": 7
       },
       {
         "name": "IEEE Spectrum Robotics",
         "count": 28
       },
       {
-        "name": "InfoQ 机器人",
-        "count": 1
-      },
-      {
         "name": "量子位",
-        "count": 2
+        "count": 3
       },
       {
         "name": "极客公园",
-        "count": 19
+        "count": 17
       },
       {
         "name": "TechCrunch AI",
-        "count": 2
+        "count": 3
       },
       {
         "name": "VentureBeat AI",
