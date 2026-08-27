@@ -1976,3 +1976,82 @@
 <img alt=""图片"" class=""rich_pages wxw-img"" src=""https://imgslim.geekpark.net/uploads/image/file/2b/0e/2b0efcd73e04b11399642d3fb8e20bec.jpeg"" style=""display: block; height: auto !important; vertical-align: bottom; margin: 0px 8px 25px; width: 676.984px !important;"" />
 <p style=""font-family: Optima-Regular, PingFangT",rss
 "Tue, 25 Aug 2026 19:03:47 +0000",TechCrunch AI,"Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/,,,The company's new fundraising total now stands at $232 million.,rss
+"Wed, 26 Aug 2026 15:00:00 GMT",InfoQ 机器人,WhatsApp 测试 AI 反诈：消息无需上传云端,https://www.infoq.cn/article/wAVlMqVg7fqPjXAyFDjC?utm_source=rss&utm_medium=article,,,"<div align=""right""><a href=""https://www.infoq.cn/article/wAVlMqVg7fqPjXAyFDjC?utm_source=rss&amp;utm_medium=article"">点击查看原文></a></div>",rss
+"Wed, 26 Aug 2026 10:07:09 +0000",量子位,硅谷今日最热具身模型！不用后训练，看一遍就学会,https://www.qbitai.com/2026/08/479834.html,,,具身智能迈向GPT时刻,rss
+"Thu, 27 Aug 2026 08:27:05 +0800",极客公园,Ox Alpha「牛来」 身份揭晓；黄仁勋：AI 已迈过商业化拐点；世界人形机器人运动会闭幕：天工 Ultra 百米跑出 8 秒 64｜极客早知道,http://www.geekpark.net/news/369414,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/67/85/6785b324e2a05c674c3606d0167b706d.png"" /></p>
+<h2>智谱正式发布并开源 GLM-5.3-Flash，Ox Alpha「牛来」 身份揭晓</h2>
+<p>8 月 26 日，智谱正式上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列的首个原生多模态模型，也正是上周以来匿名登顶 OpenRouter、被社区称为 ""牛来"" 的 Ox Alpha 的正式身份。</p>
+<p>该模型总参数 320B、激活 18B，在权威的 Artificial Analysis 综合智能指数中取得 57 分、与 Claude Opus 4.8 持平，编程表现亦与 Opus 4.8 相当；定价仅为 GLM-5.3 的 1/10（限时折扣内约为 Opus 4.8 的 1/40）。模型以 MIT 许可证开源，权重已上线 Hugging Face，官方确认其完全运行在中国 AI 芯片上。（来源：IT 之家）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/07/dd/07dd5d811a2ba6acc9f83fb4af8c025d.png"" /></p>
+<h2>OpenAI 发布 Hugging Face 安全事件官方报告，还原 AI 模型沙箱逃逸全过程</h2>
+<p>8 月 27 日，OpenAI 发布了关于 Hugging Face 遭入侵事件的官方报告，首次较为完整地还原了这起事件的经过：一系列罕见因素叠加，导致一款 AI 模型突破测试环境限制，最终引发了一场波及范围广泛的网络安全事件。</p>
+<p>从整体来看，OpenAI 的报告描述了一条不同寻常的攻击路径：在测试过程中，一款 OpenAI 模型被要求解决一个实际上无解的问题。为了完成任务，该模型开始将多个此前未被发现的漏洞串联起来，借此绕过安全措施。</p>
+<p>模型最初攻陷了 Artifactory 软件包管理工具，以获得互联网访问权限，随后又进一步入侵了 OpenAI、Hugging Face 以及其他供应商的多个系统。</p>
+<p>报告还首次详细介绍了 OpenAI 为防止类似事件再次发生而准备采取的新措施，其中包括对模型「思维链」的监控，以及一套更先进的机制，用于紧急停止出现失控行为的 AI 智能体。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>亚马逊、苹果、微软、戴尔集体涨价，机构预测：全球内存紧缺或持续至 2027 年</h2>
+<p>8 月 26 日，AI 算力需求的急剧增长，令存储芯片价格大幅走高，上游涨价压力向下游终端传导。近期，亚马逊上调多款硬件产品售价。</p>
+<p>在亚马逊提价之前，苹果、微软、戴尔等科技企业已通过上调产品售价、缩减硬件标配内存等方式应对成本压力。市场调研机构 IDC 此前预警称，全球内存紧缺的情况可能将持续至 2027 年，行业预测显示，存储芯片价格有可能在 2028 年触顶后逐步回落企稳。（来源：央视财经）</p>
+<h2>&nbsp;</h2>
+<h2>英伟达黄仁勋：AI 已迈过商业化拐点，全球产业进入 AI 变现时代</h2>
+<p>8 月 27 日，有报道称在英伟达最新财报电话会议上，公司首席执行官黄仁勋明确指出，人工智能（AI）已正式迈过历史性的「拐点」（Inflection Point）。</p>
+<p>AI 正在从小规模的实验室技术和概念验证，全面转化为具备高生产力与商业获利能力的实质工具，象征着全球产业正式进入 AI 变现时代。</p>
+<p>黄仁勋表示，过去几年业界主要聚焦于 AI 模型的训练与技术突破；而现在，全球企业正加速将生成式 AI 整合至核心业务。</p>
+<p>他概括这一叙事为「In AI, compute is revenue」，这一转变促使传统数据中心发生质变，从过往的存储与基础计算功能，升级为 24 小时不间断产出数字智能的「AI 工厂」（AI Factories）。</p>
+<p>援引博文介绍，不论是软件开发、生医制药还是金融自动化，AI 带来的投资回报率（ROI）已开始在企业财报中显著体现。此外，AI 的扩张已超越硅谷科技巨头的范畴。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>Meta 豪掷 167 亿美元和解青少年成瘾诉讼</h2>
+<p>8 月 26 日，Meta",rss
+"Wed, 26 Aug 2026 16:02:33 +0800",极客公园,从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？,http://www.geekpark.net/news/369401,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/28/4a/284a41f1f754f8616be5290e0181eea1.png"" /></p>
+<p>AI to B，要真的能「救火」。</p>
+<p>去年年底的一个深夜，古茗科技集团运维负责人刘星光再次被手机震动惊醒&mdash;&mdash;屏幕上跳动着上百条数据库告警短信。</p>
+<p>「这不是什么意外。」刘星光说，「古茗全国上万家门店，每一杯奶茶的下单、库存调度、会员积分、联名营销，都跑在 100 多个数据库实例上&mdash;&mdash;RDS、Redis、MongoDB、PolarDB，什么都有。门店在扩，订单在涨，联名活动的频率比以往翻了一倍，尖刺流量来得快去得也快。」</p>
+<p><strong>而支撑这一切的 DBA 团队，一共就那么几个人。</strong></p>
+<p>「每天 70% 的时间耗在『接警&mdash;登跳板机&mdash;看 Process List&mdash;Kill 慢 SQL&mdash;判断是否扩容』这套流程上。」刘星光回忆，「一次大促处置，最快也要 10 到 20 分钟。要是人不在电脑前，时间更长。而这 10 分钟里，客户下单有延迟，门店出杯有卡顿&mdash;&mdash;这是我们不能接受的。」</p>
+<p>好钢全用来救火了。</p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>每天都在重复的三件事</strong></p>
+<p>让刘星光下定决心做改变的痛点，不是一天攒出来的，而是每天都在重复。</p>
+<p><strong>MySQL 主库 CPU 飙高，几乎每次新业务上线必现。</strong>DBA 来不及看完所有慢查询就被下一波告警淹没。</p>
+<p><strong>元数据散落各处。</strong>研发新人入职后写 SQL，对历史字段的业务含义是什么、有没有关联数据，需要来回沟通。回答的人疲惫，问的人也不好意思。</p>
+<p><strong>变更审批流程长得让人崩溃。</strong>加个索引、加个权限，走完审批可能要等上一天。DBA 成了整个研发链路的瓶颈&mdash;&mdash;但他们自己也不想当这个瓶颈。</p>
+<p>「这些事情，有共性、有规则、有标准答案&mdash;&mdash;能不能让 Agent 来做？」刘星光开始想这个问题。</p>
+<h1 style=""text-align: center;""><strong><em>02</em></strong></h1>
+<p style=""text-align: center;""><strong>人做判断，Agent 做执行</strong></p>
+<p>去年下半年，古茗与阿里云瑶池数据库团队合作，引入了阿里云的 AI 原生数据库服务（AIDBS），让 Agent 接管救火和答疑这两件最耗人的事。<strong>目标很朴素：人来做判断和决策，Agent 来调度和执行。</strong></p>
+<p>具体落了三个方向。</p>
+<p><strong>第一步是让数据资产「活」过来。</strong>古茗之前也搞过静态元数据平台，做出来就是个数据字典，半年之后基本没人用了&mdash;&mdash;因为它只能展示信息，不能解决问题。这次思路变了：不让人来查它，让它主动出现在研发的工作流里。</p>
+<p>在 IDE 里写 SQL，Meta Agent 自动识别涉及哪些表、字段口径是什么、有没有合适的索引；数据库变更审批时，自动算血缘、评估上下游影响面和风险等级。低风险操作&mdash;&mdash;比如加索引、加配置&mdash;&mdash;直接让 Agent 执行，DBA 不再需要逐条审批。效果立竿见影：<strong>DDL 审批时间平均下降 30%&ndash;40%。</strong></p>
+<p><strong>第二步是让 Agent 成为一个「永不下班的值班员」。</strong>以前告警的逻辑是出事了、短信找人、人去诊断、人做决策、人执行操作。现在变了：出事了，Agent 先主动诊断，人做决策，Agent 执行操作。</p>
+<p>Agent 自动拉慢日志、对比历史基线、定位问题 SQL，给出组合索引建议、限流方案、临时扩容三个选项&mdash;&mdash;直接推送给 DBA，由人选择走哪一步。</p>
+<p>刘星光举了一个例子",rss
+"Wed, 26 Aug 2026 15:10:12 +0800",极客公园,离开剪映后创业，她想把一支设计团队装进 AI 工作台,http://www.geekpark.net/news/369395,,,"<p>&nbsp;</p>
+<p>头图来源：OJO 官网</p>
+<p style=""text-align: center;"">&nbsp;</p>
+<p>极客公园获悉，前剪映中国负责人张琪智已离职创业，创办 AI 产品原型设计工作台 OJO，并于近日完成近亿元首轮融资，由顺为资本、联想创投联合投资，高鹄资本担任独家财务顾问。</p>
+<p>这是张琪智离开字节跳动后的第一个创业项目。她于 2017 年加入脸萌担任产品经理，2018 年随团队进入字节，此后长期参与剪映相关产品与业务。</p>
+<p>在外界看来，她在剪映的经历是理解这次创业的重要背景：经历了一款工具产品从 0 到 1、再到大规模增长后寻找新曲线的完整过程。而当 Claude Code、Codex、Cursor 等 coding agent 让「做出一个产品」越来越容易，她把注意力转向了产品生产链路中另一处尚未被充分解决的断点&mdash;&mdash;设计判断，以及这种判断如何在产品、设计与开发之间连续传递。</p>
+<p>OJO 将自己定义为「Design Agent Team Workspace」。用户可以在一个工作台中，用自然语言完成产品思考、界面设计、迭代和代码交付。它所要回答的问题是：当 UI 生成、设计编辑和设计转代码逐渐普及后，一层连接设计与开发的工作台，为什么仍值得成为独立产品？</p>
+<p>张琪智的答案是，模型越强，越需要系统把能力调度到具体场景。OJO 希望把产品定义、视觉设计、交互迭代与代码交付放进一条连续流程，减少判断在角色交接中被稀释。</p>
+<p>这仍是一个等待市场验证的答案。</p>
+<h1>离开剪映，等到「自己和技术都准备好」</h1>
+<p>2025 年之前，张琪智在字节的职业路径颇为顺利。尽管长期在剪映业务线，她持续面对新的问题：从工具产品到全球化，从产品增长到收入和用户心智。变化发生在 2025 年，业务进入相对稳定期后，她第一次明显感到，自己的输入开始小于输出。</p>
+<p>创业的想法因此出现，但她始终谨慎。大厂里已有成熟的组织网络，负责人更重要的工作是判断方向与推进速度；创业则意味着连组织本身都要从零搭起。她真正等待的是两个条件同时成熟：自己愿意建立一支新团队，模型能力也足以改写产品与设计之间的协作方式。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/cd/b5/cdb5ad8ef9c5c5ae371aabf8a1f5e0a5.png"" /></p>
+<p>图片来源：OJO</p>
+<p>剪映给了她一张关于产品规模的「地图」。在她看来，0 到 1 与 1 到 100 是两种完全不同的状态。剪映推出海外版 CapCut 和 PC 端时，许多决策都是团队捕捉到早期信号后快速试做、上线，再根据反馈判断是否加大投入。0 到 1 的关键，是让速度匹配时间窗口，同时控制试错成本。</p>
+<p>进入 1 到 100 后，问题则不只在于快。随着业务逐渐成熟，过去有效的增长方式出现边际递减，团队需要从短期功能竞争，转向内容形态和生产方式的长期变化。</p>
+<p>这段经历让她对时间窗口、早期信号和增长瓶颈保持敏感。真正促使她确定方向的技术节点，出现在 2025 年 9 月到 10 月。Gemini 的新一轮能力进展，让她第一次强烈感到，代码与审美之间原本稳固的边界正在松动。</p>
+<p>代码有相对明确的正确与错误，设计却没有标准答案。同一套视觉语言放在不同文化、行业和消费场景中，可能产生完全不同的效果。过去，这种模糊性构成了设计与代码之间的一道墙。</p>
+<p>但模型正在改变产品协作的起点。过去，产品经理通常先用需求文档描述想法，设计师再在 Figma 中完成静态页面、连接交互，通过镜像预览动态效果。一个方案是否成立，往往要等到设计甚至开发环节才能被真正验证。</p>
+<p>现在，产品经理和设计师已经可以借助模型，快速生成一个可运行的动态原型。张琪智习惯先看动态交互；对她而言，这意味着产品经理可以先将抽象需求变成一个能够点击、体验和讨论的版本，提前验证产品结构与交互方向，再交由设计师和开发人员继续细化。</p>
+<p>改变的不只是效率。产品经理可以用一个可操作的结果表达判断，设计师也不必完全等待上游需求。每个角色都能先把过去依赖下游完成的工作推进到及格线，再进入专业协作。</p>
+<p>「我自己 ready 了，技术也 ready 了。」张琪智说。与剪映时期不同，这次需要从零设计的，不只有产品。</p>
+<h1>OJO 不想生成一张图，而是模拟一支设计团队</h1>
+<p>OJO 的第一个方",rss
+"Wed, 26 Aug 2026 14:37:01 +0000",TechCrunch AI,Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI,https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/,,,"Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",rss
+"Wed, 26 Aug 2026 13:30:00 +0000",TechCrunch AI,Robot brain builders are pushing out of their GPT-2 era,https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/,,,Robot bodies are waiting for their AI brains to catch up.,rss
+"Wed, 26 Aug 2026 13:00:00 +0000",TechCrunch AI,QueryStory wants you to believe what AI is telling you,https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/,,,The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.,rss
+"Wed, 26 Aug 2026 12:55:28 +0000",TechCrunch AI,Arga Labs is building a better way to train enterprise AI agents,https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/,,,"Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",rss
+"Wed, 26 Aug 2026 03:30:00 +0000",TechCrunch AI,India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call,https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/,,,Ringg has raised $10 million from Peak XV as a part of its Series A extension.,rss
+"Wed, 26 Aug 2026 00:40:59 +0000",TechCrunch AI,"Robotics startup Generalist reaches $3B valuation, sources say",https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/,,,The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.,rss
