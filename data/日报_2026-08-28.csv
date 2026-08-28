@@ -1,0 +1,85 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+"Thu, 27 Aug 2026 05:43:00 +0000",量子位,基元律动累计融资数千万美元，推出“中国版OpenRouter”,https://www.qbitai.com/2026/08/480079.html,,,近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。,rss
+"Fri, 28 Aug 2026 13:10:32 +0800",极客公园,世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」,http://www.geekpark.net/news/369508,,,"<section class=""wx-article-wrap"">
+<section><img alt=""图片"" class=""rich_pages wxw-img js_img_placeholder wx_img_placeholder"" src=""https://imgslim.geekpark.net/uploads/image/file/f4/92/f4928d3c7fc8307b2d1ff868682f7e53.jpeg"" /></section>
+<section class="""">机器人世界模型的下一场竞争，可能不是画质，是架构。</section>
+<section>
+<p style=""text-align: left; margin: 0px;""><strong style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; font-weight: bold; line-height: 1.5; color: #375474; text-align: left;"">作者｜Li Yuan</strong></p>
+<p style=""text-align: left; margin: 0px;""><strong style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; font-weight: bold; line-height: 1.5; color: #375474; text-align: left;"">编辑｜郑玄</strong></p>
+</section>
+<p style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.75; margin: 0px 8px 24px;"">一只机械臂的夹爪明明没有夹住杯子，杯子却像被磁铁吸住一样，跟着夹爪升了起来。这个看似荒诞的问题，正在困扰机器人世界模型，业内甚至将其称为「磁铁式抓取」。</p>
+<p style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.75; margin: 0px 8px 24px;"">视频生成模型只要让画面看起来合理，就算完成任务；但世界模型不能只追求「像真的」。机器人训练数据大多来自成功演示，模型容易形成捷径：与其理解动作的细微差别，不如按照画面，直接生成最可能的结果。</p>
+<p style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.75; margin: 0px 8px 24px;"">可在真实世界里，夹爪位置偏移几毫米，就可能让结果从抓起变成碰倒杯子甚至抓空。世界模型真正需要理解的，是动作与结果之间的因果关系。</p>
+<p style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.75; margin: 0px 8px 24px;"">8 月 27 日，自变量机器人发布下一尺度自回归世界模型 WALL-SS，试图让世界模型从「能用」走向「好用」。WALL-SS",rss
+"Fri, 28 Aug 2026 08:33:17 +0800",极客公园,特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道,http://www.geekpark.net/news/369481,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/37/2a/372a521f6a441cc3767d211411091c2b.png"" /></p>
+<h1>特努斯首秀开启 iPhone 18 Pro / Ultra 系列新篇章，苹果发布会官宣定档 9 月 10 日</h1>
+<p>8 月 27 日消息，苹果官方宣布将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为「惊喜闪耀」（Surprise and shine）。</p>
+<p>这将是约翰 &middot; 特努斯（John Ternus）于 9 月 1 日正式接任苹果 CEO 后的首场发布会，预计将推出全新一代 iPhone 18 Pro / Max 以及 Ultra 系列折叠屏新机。后续，苹果还将于明年春季推出 iPhone 18 基础版及 iPhone 18e 等新品。</p>
+<p>结合此前爆料，iPhone 18 Pro 系列预计为常规升级，外观几乎不变，主要亮点包括：</p>
+<ul>
+<li>首发 2nm 工艺的 A20 Pro 芯片，能效与性能提升；</li>
+<li>后置主摄有望升级可变光圈镜头；</li>
+<li>采用苹果自研 C2 蜂窝调制解调器；</li>
+<li>灵动岛打孔面积可能缩小；</li>
+<li>新配色；</li>
+<li>受内存芯片持续短缺影响，售价可能较前代大幅上涨。</li>
+</ul>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/f4/fe/f4fe54ca41db9faa6770ff95a8c9fcfd.png"" /></p>
+<p>正如大家所想到的那样，本次发布会的绝对主角将是苹果首款折叠屏 iPhone。据多方爆料，该设备采用横向书本式宽折叠设计，闭合状态下外屏约 5.5 英寸，展开后内屏约 7.6 英寸，展开后类似 iPad。</p>
+<p>其机身采用钛合金框架与超薄设计，屏幕折痕控制出色。因机身厚度限制，该设备可能放弃 Face ID，转而采用集成于电源键的 Touch ID，且后置可能仅配备双摄、无长焦镜头。该设备起售价预计在 1,999 美元至 2,500 美元（注：现汇率约合 13,467 元至 16,843 元人民币）之间。（来源：IT 之家）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/19/8f/198f8c7db5d1ed5c5110fa0adb461a17.png"" /></p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/eb/4e/eb4eaa6d1f92a6a920cd00c3ecb00b06.png"" /></p>
+<h1>黄仁勋谈英伟达 70%增长指引：如果供给没约束，增速会远高于 100%</h1>
+<p>8 月 27 日消息，英伟达发布 2027 财年第二季度财报：营收 962 亿美元，同比增长 106%，超市场预估（923.8 亿美元）；调整后每股收益 2.22 美元，同比增长 120%。公司预计第三财季营收 1058.4 亿至 1101.6 亿美元，并给出 2028 财年营收增长约 70%的指引，远超市场预估的 45%。</p>
+<p>财报电话会上，黄仁勋回应了""为何指引 70%而非更高""。他指出，AI 智能体正大规模落地，单个智能体所需算力是直接使用模型的 15 至 100 倍，上个月智能体模式已成主流，未来每家企业或拥有数十万甚至数百万个智能体在后台协作运行。但整条供应链全面承压&mdash;&mdash;晶圆代工、DRAM 存储、数据中心电力与机房土建均满负荷运转，英伟达已深度介入上游资源筹备。</p>
+<p>黄仁勋坦言，这是公司首次给出提前一整年的业绩指引：""实际需求远高于 70%，但受供给约束，有把握实现的只有 70%。""他强调，英伟达拥有全球唯一的 AI 工厂全栈平台，500 亿美元级数据中心项目投资回报周期已不到一年。其结论是：AI 已产出有价值的生产力，更多算力就能产出更多盈利的 token，""不是英伟达不想卖更多，是全世界来不及建""。（来源：TechWeb）</p>
+<h1>OpenAI、微软",rss
+"Thu, 27 Aug 2026 19:57:55 +0800",极客公园,一年卖出 3 万台后，极壳将在 IFA 发布下一代外骨骼,http://www.geekpark.net/news/369478,,,"<p style=""text-align: left;"">作者 | siqi</p>
+<p style=""text-align: left;"">编辑 | 郑玄</p>
+<p>&nbsp;</p>
+<p style=""text-align: left;"">据 Hardwire 了解，消费级外骨骼领域头部企业极壳（Hypershell）近期已完成对多关节下肢外骨骼产品的研发。这款名为「Halo」的新一代旗舰产品将于 9 月 3 日在 IFA（柏林消费电子展）上正式发布。</p>
+<p style=""text-align: left;"">极壳（qi&agrave;o，四声）成立于 2021 年底，是全球最早把外骨骼带入消费市场的公司之一。2024 年 12 月，极壳第一代产品 Hypershell X 系列正式量产交付。2025 年，极壳在第一个量产年份交出了全球累计交付 3 万台的答卷，北美（美国）、欧洲（法德意英等）和中国是公司的三大核心市场。极壳的产品在户外运动、户外作业、银发人群这 3 个核心圈层里受到了早期用户的认可。</p>
+<p style=""text-align: left;"">去年 11 月，极壳完成 B 轮融资，投后估值达到近 27 亿元。今年 5 月，极壳又官宣了最新一笔由蚂蚁集团和美团龙珠领投的 5000 万美元 B+轮融资。</p>
+<p style=""text-align: left;"">不过，在极壳创始人孙宽看来，这个全新品类目前仍处于早期阶段。他认为，可穿戴外骨骼目前只完成了「从 0 到 0.1 阶段」的 PMF 验证。目前，孙宽的绝大部分精力都专注在产品预研层面，「某种程度上，对下一代产品的关心要比量产产品还要更多。」</p>
+<p style=""text-align: left;"">可穿戴外骨骼的产品形态必然在未来几年里将面临从硬件形态到软件算法的快速迭代。其中，多关节协同工作、AI 深度介入助力算法，是明确的技术方向。孙宽认为，比起关注竞争，投入研发、提升产品体验，才能让可穿戴外骨骼实现从小众消费群体到大众消费市场的跨越。</p>
+<p style=""text-align: left;"">Hardwire 将于 9 月初推出对极壳创始人、CEO 孙宽的文字访谈和播客对话，敬请关注。</p>
+<p>&nbsp;</p>
+<h2 style=""text-align: left;"">一体化+四电机，下肢外骨骼出现「新形态」</h2>
+<p style=""text-align: left;"">极壳即将推出的新一代旗舰产品 Halo，将采用行业首个一体化构型，通过髋关节、膝关节左右两侧共 4 个助力电机的协作控制，实现全腿助力，大幅提升面向复杂地形的适应能力和助力有效性。</p>
+<p style=""text-align: left;"">这是可穿戴外骨骼品类在硬件形态层面一次积极的向前探索。</p>
+<p style=""text-align: center;""><img height=""6328"" src=""https://imgslim.geekpark.net/uploads/image/file/6a/e3/6ae30586d17ac624552c0a1063f786fc.jpeg"" /></p>
+<p style=""text-align: left;"">Hypershell 新一代下肢外骨骼产品 Halo | 图片来源：Hypershell</p>
+<p style=""text-align: left;"">作为一个近 3 年才出现的全新品类，可穿戴外骨骼产品的硬件形态仍处于早期探索阶段。不同于手机、平板等成熟品类，无论学术界还是产业界对产品「最佳形态」的判断尚未收敛。</p>
+<p style=""text-align: left;"">消费者对可穿戴外骨骼唯一的「共识」，大多来自科幻和影视作品：一套覆盖全身、动力强劲，同时又足够轻便的刚性机甲。问题在于，这三件事恰恰是最难同时成立的。</p>
+<p style=""text-align: left;"">最根本的技术限制在于，外骨骼产品现在还很难在「有效性、轻量化、复杂度」这三个维度之间做好平衡和取舍。</p>
+<p style=""text-align: left;"">人体每增加 1kg 的负重，都会带来相应的新陈代谢压力，而不同部位的负重，代价完全不同。根据发表在《Medicine &amp; Science in Sports &amp; Exercise》上的研究，同样的重量加在足部，带来的代谢代价约为加在腰部的 4 倍。也就是说，外骨骼上每多出来的一克重量，最终都要由使用者自己的肌肉来背，而且位置越靠下，这笔账越贵。</p>
+<p style=""",rss
+"Thu, 27 Aug 2026 15:09:02 +0800",极客公园,129 亿美元，英伟达拿下 Hugging Face,http://www.geekpark.net/news/369458,,,"<div>
+<div class=""ace-line ace-line old-record-id-doxcnaioVrdQqpiPE86TH6gaURd"">
+<p><strong>作者｜Wildcard</strong></p>
+<p><strong>编辑｜靖宇<br /></strong></p>
+</div>
+</div>
+<p>129 亿美元，英伟达要把 Hugging Face 买下来了。</p>
+<p>当地时间 8 月 26 日外媒率先爆出消息， 两天前还只是 Hugging Face「正在探索出售」的新闻，转眼就变成了「双方已达成协议」。速度快得让人来不及消化。</p>
+<p><strong>这不是一笔普通的 AI 公司并购，而是芯片之王第一次伸手去抓开源 AI 世界的「分发权」。</strong></p>
+<p>Hugging Face 被称为 AI 界的「GitHub」，托管着超过 300 万个模型仓库，服务 1300 万开发者，Meta 的 Llama、阿里的 Qwen、Mistral 的开源模型，全都住在这个平台上。它是整个开源 AI 生态事实上的「默认分发层」。</p>
+<p>而英伟达，已经垄断了训练和推理的 GPU 硬件。</p>
+<p>现在，它还想拥有模型流通的那条路。</p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong><strong>踩着 AI 打滚</strong></h1>
+<p>先说钱。Hugging Face 上一轮融资是 2023 年 8 月的 D 轮，Salesforce 领投 2.35 亿美元，估值 45 亿美元。Google、英伟达、亚马逊、IBM、Intel、AMD、高通全都参投了那一轮。三年后，129 亿美元的价格大约是上一轮估值的三倍。</p>
+<p>乍一看翻了三倍很夸张。但放在 AI 行业的估值泡沫里看，这个溢价反而算克制。Perplexity 正在按 300 亿美元以上估值谈融资，Anthropic 和 OpenAI 的估值更是比收入高出两个数量级。</p>
+<p>Hugging Face 的 ARR（年度经常性收入）据 Sacra 估计在 2026 年 8 月达到了 1.5 亿美元，相比 2023 年的约 3000 万美元已经翻了五倍。5 万家企业客户，769 名员工，CEO Cl&eacute;ment Delangue 不久前还在播客里说公司「接近盈利」。</p>
+<p><strong>但 129 亿的价格买的不是 Hugging Face 的收入，而是它在 AI 世界里的位置。</strong></p>
+<p>这个逻辑更接近 IBM 2019 年花 340 亿美元收购 Red Hat&mdash;&mdash;战略买家为开发者生态中的卡位付费，而不是为短期现金流买单。</p>
+<h1 style=""text-align: center;""><strong><em>02</em></strong><strong>英伟达，更大的野心</strong></h1>
+<p>如果只把这次收购理解为「芯片公司买了个模型托管平台」，那就太浅了。</p>
+<p>过去一年，英伟达在开源 AI 上的投入力度大到令人意外。</p>
+<p>今年 3 月 GTC 大会上，黄仁勋宣布成立「Nemotron 联盟」，这是一个由 Mistral AI、Perplexity、Cursor、LangChain 等八家 AI 实验室组成的全球协作组织，目标是共同开发前沿级别的开源基础模型。英伟达为此承诺了五年 260 亿美元的投资，通过 SEC 文件披露。</p>
+<p>这是有史以来对开源 AI 的最大一笔资金承诺。</p>
+<p>联盟打造的第一个模型将成为 Nemotron 4 系列的基础。据外媒 8 月初报道，Nemotron 4 最大版本预计将达到万亿参数级别，直接对标全球最强的开源和闭源模型。而在此之前，英伟达已经发布了 Nemotron 3 系列，包括 3 月发布的 Nemotron 3 Super（1200 亿参数、120 亿激活参数），以及 8 月刚发布的 Nemotron 3.5 Lightning，一个可以在单张 GPU 上运行的轻量级开源模型。</p>
+<p>黄仁勋亲自站台为开源模型辩护。</p>
+<p>今年 7 月，他在 X 上发了自己的第一条帖子，公开力挺开源 AI，正值美国政界因 Moonshot AI 的 Kimi K3 模型引发的国安争论甚嚣尘上。他的态度很明确：「免费的 AI 对硬件来说是好事。免费的 AI 对芯片来说是好事。」</p>
+<p><strong>说白了，英伟达推开源的底层逻辑和 G",rss
+"Thu, 27 Aug 2026 14:56:52 +0000",TechCrunch AI,"Hugging Face is selling a cute $399 open source duck robot, Microduck",https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/,,,"Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",rss
+2026-08-27T09:44:00-04:00,The Verge AI,Hugging Face’s new robot is an adorable rollerskating duck,https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot,,,"Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the little robot ""before Christmas 2026."" Video demos of the [&#8230;]",rss
