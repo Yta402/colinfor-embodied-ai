@@ -1,0 +1,41 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+2026-08-28 16:00:03+00:00,IEEE Spectrum Robotics,Video Friday: Meet Microduck,https://spectrum.ieee.org/video-friday-microduck-robot,,,"<p><span>Video Friday is your weekly selection of awesome robotics videos, collected by your friends at </span><em>IEEE Spectrum</em><span> robotics. We also …</span></p>",rss
+"Fri, 28 Aug 2026 06:13:59 +0000",量子位,Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了,https://www.qbitai.com/2026/08/480487.html,,,Claude觉醒超体,rss
+"Sat, 29 Aug 2026 08:32:32 +0800",极客公园,Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃,http://www.geekpark.net/news/369549,,,"<p style=""text-align: center;""><img height=""392"" src=""https://imgslim.geekpark.net/uploads/image/file/0a/31/0a31f65afef4345b3251094d787e2379.png"" /></p>
+<h2 style=""text-align: left;""><span style=""font-weight: bold;"">消息称 Anthropic 最早 10 天后公布招股书</span></h2>
+<p style=""text-align: left;"">据知情人士称，Anthropic 计划在美国劳动节（9 月 7 日）后公布其 IPO 招股说明书，并可能在 9 月下旬或 10 月初在美上市。</p>
+<p style=""text-align: left;"">该公司拟允许现有股东在 IPO 中出售股份，部分股东的禁售期可能超过 180 天，这将降低 IPO 后的抛售压力。</p>
+<p style=""text-align: left;"">报道称，Anthropic 希望在 IPO 中筹集至少 1300 亿美元以扩张算力，这将超过 6 月上市的 SpaceX，当时其筹集了 860 亿美元。（来源：财联社）</p>
+<p style=""text-align: center;""><img height=""392"" src=""https://imgslim.geekpark.net/uploads/image/file/21/c5/21c50e38b3d62aea871c906511c70d20.png"" /></p>
+<h2 style=""text-align: left;""><span style=""font-weight: bold;"">腾讯发布混元 Hy4 preview 模型</span></h2>
+<p style=""text-align: left;"">8 月 28 日，腾讯发布并开源混元 Hy4 preview。</p>
+<p style=""text-align: left;"">这是继 Hy3 正式版之后，腾讯推出的新一代大模型：总参数从 295B 增加到 770B，激活参数从 21B 增加到 49B，上下文长度也从 256K 扩展至 1M。模型已经同步进入 WorkBuddy、CodeBuddy、元宝和 ima，并可通过腾讯云 TokenHub 及 OpenRouter 调用。</p>
+<p style=""text-align: left;"">Hy4 preview 继续走普惠的高性价比路线。根据公布的价格信息，Hy4 preview 输入 6 元/百万 tokens，输出 18 元/百万 tokens，缓存命中 0.3 元/百万 tokens。</p>
+<p style=""text-align: left;"">相比 Hy3，Hy4 preview 把优化重点进一步推向软件工程、办公分析、游戏开发和科学研究等生产力任务。</p>
+<p style=""text-align: left;"">腾讯称，Hy4 preview 首次参与了自身训练方法、数据策略、评估体系和底层算子的优化，并通过多轮实验将推理吞吐相较基线提升 31.8%。（来源：极客公园）</p>
+<p>&nbsp;</p>
+<h2 style=""text-align: left;""><span style=""font-weight: bold;"">美团二季度净利扭亏为盈，王兴：美团不做 Token 工厂</span></h2>
+<p style=""text-align: left;"">8 月 28 日，美团发布 2026 年第二季度业绩报告。</p>
+<p style=""text-align: left;"">二季度美团实现收入 1046 亿元，同比增长 14.4%。净利润为 21.6 亿元，同比增长 490%。美团一季度净亏损为 68.3 亿元，环比实现扭亏为盈。</p>
+<p style=""text-align: left;"">美团表示，随着行业竞争趋于理性，叠加二季度旺季效应，公司各项业务恢复稳健增长，经营利润环比由负转正。</p>
+<p style=""text-align: left;"">王兴在财报业绩会上谈到 AI 时表示：「对我们而言 AI 发展的核心并非单纯比拼大模型本身的参数与性能，而是借助 AI 重塑企业组织模式、产品形态与全业务工作流程。」他强调，美团不会去竞争成为「Token 工厂」，重点是用模型和 AI 产品强化核心业务，改善用户和商户体验，提高内部运营效率。（来源：第一财经、财联社）</p>
+<p>&nbsp;</p>
+<h2",rss
+"Fri, 28 Aug 2026 21:02:58 +0800",极客公园,Coding 自由之后，人开始成为最大的瓶颈,http://www.geekpark.net/news/369547,,,"<p style=""text-align: left;"">过去，一个人有了一个产品想法，首先遇到的问题可能是：我会不会编程？我要不要组一个团队？甚至，要不要先去融一笔钱？</p>
+<p style=""text-align: left;"">但 AI Coding 正在改变这条路径。</p>
+<p style=""text-align: left;"">在 TRAE AI 创造力大赛现场，极客公园创始人张鹏和科技创作者小狮日记、参赛选手不憨，以及 TRAE 核心开发者天猪坐到了一起。</p>
+<p style=""text-align: left;"">小狮日记用一周时间做出了帮助老人记录一生的「人生之书」；不憨用两天做出了可以挥舞双手、在空气中创作音乐的「空气指挥家」。过去可能因为成本、技术或者需求过于小众而止步于想法的东西，现在正在迅速成为可以运行的产品。</p>
+<p style=""text-align: left;"">于是，一个新的问题出现了：</p>
+<p style=""text-align: left;""><span style=""font-weight: bold;"">当「做出来」越来越容易之后，什么才真正决定一个产品的价值？当 Coding 不再是创造最大的门槛，我们又会遇到什么新的门槛？</span></p>
+<p style=""text-align: left;"">以下是这场对谈的整理。</p>
+<h1 style=""text-align: center;""><span style=""font-weight: bold; font-style: italic; color: #000000;"">01</span></h1>
+<p style=""text-align: center;""><span style=""font-weight: bold;"">当一个想法可以在两天、</span></p>
+<p style=""text-align: center;""><span style=""font-weight: bold;"">一周内变成产品</span></p>
+<p style=""text-align: left;""><span style=""font-weight: bold; color: #9ebbfe;"">张鹏： 今天看了很多很有创造力的产品，我自己一个很强烈的感受是，过去如果有一个想法，想把它变成产品，不会编程可能就是最大的阻碍。你还要建团队，甚至要找融资。但现在，很多阻碍正在消失。你想到一个东西，可能真的就可以把它做出来。而且今天很多产品的出发点，也不是传统意义上的「先判断市场有多大、商业价值有多高，再决定要不要做」，而是很简单：我喜欢，我愿意，我想把它做出来。</span></p>
+<p style=""text-align: left;""><span style=""font-weight: bold; color: #9ebbfe;"">这可能就是 AI 和 Coding 能力带来的一种解放。</span></p>
+<p style=""text-align: left;""><span style=""font-weight: bold; color: #9ebbfe;"">所以我特别想聊一个问题：Coding 的能力被解放之后，创造力还能被释放到什么程度？小狮先介绍一下你这次做的产品吧。</span></p>
+<p>&nbsp;</p>
+<p style=""text-align: left;""><span style=""font-weight: bold; color: #9ebbfe;"">小狮日记： </span>我以前是程序员，做手机端应用开发，现在是一名科技自媒体创作者。最近我做了一个产品，叫「人生之书」。它想解决的问题是，怎么帮助老人更自然地把自己的回忆录写下来。</p>
+<p style=""text-align: left;"">很多老人其实很喜欢讲过去的事情，但家里未必总有人有时间、有耐心一直听。于是我就想，能不能让 AI 以一个晚辈的身份和老人聊天？老人不需要学习写作，也不需要整理材料，可以聊几句话，也可以聊一两个小时。每次聊完以后，AI 会把他提到的往事整理出来，按照时间顺序慢慢补充。可能聊上一两个月，一本关于这个老人的人生传记就逐渐形成了。</p>
+<p style=""text-align: center;""><img height=""720"" src=""https://imgslim.geekpark.net/uploads/image/file/94/6d/946d32321204d79bc664cbfdd0d9b4f9.png"" /></p>
+<p style=""text-align: lef",rss
