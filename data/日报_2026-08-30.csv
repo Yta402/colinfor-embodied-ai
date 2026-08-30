@@ -1,0 +1,23 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+"Sun, 30 Aug 2026 08:28:43 +0800",极客公园,OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元,http://www.geekpark.net/news/369551,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/b0/f5/b0f504a146afcd9e792c826793c48d8b.png"" /></p>
+<h2>OpenAI 终止与 Cursor 合作</h2>
+<p>8 月 29 日消息，OpenAI 以「无法信任 SpaceX 遵守服务条款」为由，终止向已被 SpaceX 收购的 AI 编程工具 Cursor 提供模型支持。Cursor 对 OpenAI 模型的直接访问权限将于 11 月 12 日终止。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/aa/71/aa71b411f4db075d85c76977fffbb90a.jpg"" /></p>
+<p>OpenAI 在其官方网站发布的公告中明确表示，终止合作的决定「归根结底在于信任问题」。</p>
+<p>OpenAI 列举了两起具体事件作为依据：</p>
+<p>第一，Twitter（现已成为 SpaceX 的一部分）在马斯克收购后违反了与 OpenAI 的合同条款。相关诉讼至今仍是双方纠纷的背景。</p>
+<p>第二，xAI（同样已并入 SpaceX）在今年早些时候，马斯克在宣誓作证时承认 xAI 违反了 OpenAI 的服务条款&mdash;&mdash;通过蒸馏（distillation）技术使用 OpenAI 数据训练模型。</p>
+<p>OpenAI 与 Cursor 签署的定制协议中明确规定：在公司控制权发生变更后，OpenAI 拥有在限定期限内终止协议的权利。</p>
+<p>随着人工智能能力的不断演进，我们也承担着更高标准的责任，必须确保即将推出的新模型 Astra 能够严格遵循我们的条款合规使用。</p>
+<p>综合以上考虑，我们决定在合规允许的前提下将合同终止日顺延至最晚时间，但未来将不再向 Cursor 提供后续新模型。</p>
+<p>马斯克与 Altman 在 AI 编程、大模型研发等赛道上的全面对垒，这场由昔日合伙人上演的 AI 争霸战，远未到终局时刻。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/55/b0/55b0ee3fcc0fbf76ebeffc5f8e5f7570.png"" /></p>
+<h2>索尼音乐与华纳音乐出版起诉 Anthropic 索赔金额或达数十亿美元</h2>
+<p>索尼音乐与华纳音乐出版已向美国加利福尼亚北区联邦地区法院提起诉讼，指控人工智能公司 Anthropic 未经授权使用数万部受版权保护的作品，用于开发和运营其 Claude 系列人工智能模型。</p>
+<p>两家公司要求 Anthropic 就每部作品最高赔偿 15 万美元，并就每次可确认的版权信息被删除的行为额外索赔最高 2.5 万美元。如果法院最终支持原告主张并判处最高赔偿额，案件涉及的总金额可能达到数十亿美元。</p>
+<p>原告在诉状中将相关行为称为「历史上规模最大、最公然持续进行的知识产权盗窃之一」，指责 Anthropic 及其创始人达里奥&middot;阿莫代伊和本杰明&middot;曼发起大规模非法下载、抓取和传播版权作品的行动，以训练人工智能模型并从中获得巨额利润。</p>
+<p>诉讼不仅将 Anthropic 列为被告，也将阿莫代伊和曼列为个人被告。诉状称，曼曾通过 BitTorrent 下载超过 500 万本盗版书籍，Anthropic 员工还至少从 Pirate Library Mirror 下载了另外 200 万本作品。原告还指控 Anthropic 从 MusixMatch、LyricFind 等网站抓取歌词，而这些网站已经向音乐公司支付费用以获得相关内容的授权。</p>
+<p>这起诉讼是 Anthropic 近期面临的一系列版权纠纷中的最新一起。该公司此前刚与出版业就版权诉讼达成和解，支付金额为 15 亿美元。此外，环球音乐集团、Concord 和 ABKCO 也曾分别对 Anthropic 提起诉讼，BMG 和 Round Hill Music 则另行发起了相关法律行动。（来源：cnBeta）</p>
+<p>&nbsp;</p>
+<h2>AI 会冲垮软件行业？Anthropic CEO 阿莫迪：我们无意摧毁任何人</h2>
+<p>据《商业内幕》今天报道，Anthropic 首席执",rss

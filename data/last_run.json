@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-29",
-  "collected": 58,
-  "deduped": 58,
+  "date": "2026-08-30",
+  "collected": 57,
+  "deduped": 57,
   "tagged": 0,
   "report": {
     "sources": [
@@ -12,10 +12,6 @@
       {
         "name": "IEEE Spectrum Robotics",
         "count": 28
-      },
-      {
-        "name": "量子位",
-        "count": 1
       },
       {
         "name": "极客公园",
