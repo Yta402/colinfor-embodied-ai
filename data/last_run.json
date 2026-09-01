@@ -1,17 +1,29 @@
 {
-  "date": "2026-08-31",
-  "collected": 53,
-  "deduped": 53,
+  "date": "2026-09-01",
+  "collected": 65,
+  "deduped": 65,
   "tagged": 0,
   "report": {
     "sources": [
+      {
+        "name": "艾邦机器人",
+        "count": 8
+      },
       {
         "name": "IEEE Spectrum Robotics",
         "count": 28
       },
       {
+        "name": "InfoQ 机器人",
+        "count": 1
+      },
+      {
+        "name": "量子位",
+        "count": 2
+      },
+      {
         "name": "极客公园",
-        "count": 21
+        "count": 23
       },
       {
         "name": "TechCrunch AI",
@@ -23,7 +35,7 @@
       },
       {
         "name": "The Verge AI",
-        "count": 2
+        "count": 1
       }
     ],
     "errors": []
