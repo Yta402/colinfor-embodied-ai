@@ -2393,3 +2393,27 @@
 <p style=""text-align: left;""><span style=""font-weight: bold;"">Bronson 的观察是，模型似乎把自己的认知分成了两个「频道」&mdash;&mdash;一个是内部推理的「分析频道」，一个是给用户看的「输出频道」。 </span>而「craft」就是从分析频道到输出频道的动词，类似于「让我组装一个要交给外面的答案」。模型经常写出「let's craft message to final」这样的句子。</p>
 <p style=""text-align: left;"">这意味",rss
 "Mon, 31 Aug 2026 02:34:00 +0000",TechCrunch AI,"The US is building barriers around drones and robots, but China has scale to get around them",https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/,,,The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.,rss
+"Tue, 01 Sep 2026 15:00:00 GMT",InfoQ 机器人,通过操作 DRAM 控制器寄存器可突破 CPU 内存隔离机制,https://www.infoq.cn/article/G5CDMcK3tU0h71LzUlyo?utm_source=rss&utm_medium=article,,,"<div align=""right""><a href=""https://www.infoq.cn/article/G5CDMcK3tU0h71LzUlyo?utm_source=rss&amp;utm_medium=article"">点击查看原文></a></div>",rss
+"Wed, 02 Sep 2026 01:07:13 +0000",量子位,李飞飞发布：全球首个多模态世界模型,https://www.qbitai.com/2026/09/482586.html,,,一张图补全3D世界，还能给机器人造训练场,rss
+"Tue, 01 Sep 2026 05:12:30 +0000",量子位,自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning,https://www.qbitai.com/2026/09/482337.html,,,参数冻结，能力暴涨,rss
+"Wed, 02 Sep 2026 08:13:21 +0800",极客公园,苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线,http://www.geekpark.net/news/369690,,,"<p>​<img src=""https://imgslim.geekpark.net/uploads/image/file/52/7f/527f97f1531226a8d779223d7e7bd4f2.png"" /></p>
+<h2>苹果新任 CEO 约翰&middot;特努斯在 X 平台发布首条动态向关注者问好</h2>
+<p>苹果首席执行官约翰&middot;特努斯正式加入社交平台 X，并发布了个人账号的首条动态。正如外界预料的那样，这条仅有「hello」五个字母的简短消息迅速获得大量关注。苹果历任首席执行官通常都具备一定的社交属性，而在当代，这往往也意味着拥有社交媒体账号。因此，随着特努斯正式接任苹果掌舵人，他也开设了自己的 X 账号。</p>
+<p>目前，账号 @johnternus 已经上线，并在特努斯担任苹果首席执行官的首个正式工作日公开亮相。根据账号资料显示，该账号早在 2026 年 6 月便已私下创建，但目前只发布过一条动态，内容是全部使用小写字母书写的「hello」。</p>
+<p>尚不清楚特努斯是在谨慎尝试进入社交媒体，还是有意借鉴苹果在用户启用新设备时使用问候语的传统。考虑到他此前几乎没有社交媒体活动记录，这两个原因可能兼而有之。</p>
+<p>这条只有五个字母的动态，在发布后极短时间内便为账号带来了巨大关注。截至报道发布时，这条动态上线约 35 分钟，已经获得约 74.8 万次浏览、3.1 万次点赞、3600 次转发和 5000 条评论。（来源：cnBeta）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/6c/ba/6cbaa366147b5b9c210f43b9b7443602.png"" /></p>
+<h2>谷歌发布 TimesFM-3，3.3 亿参数即可进行零样本多变量时间序列预测</h2>
+<p>9 月 1 日消息，谷歌发布 TimesFM-3 模型，这是该公司时间序列基础模型系列的第三代产品。拥有原生多变量预测、双注意力机制、连续补丁掩码等特性，可进行零样本多变量时间序列预测。</p>
+<p>据了解，TimesFM-3 拥有 3.3 亿个参数，并在包含超 1 万亿个时间点的真实世界和合成时间序列语料库进行预训练。TimesFM-3 继承前代的高效性和零样本泛化能力，以零样本形式增强复杂多元场景支持。</p>
+<p>同时，该模型可联合预测多个共同演化的时间序列，捕捉其中的依赖关系，提升整体准确率，无需针对特定任务微调，该模型原生支持特性如下：多目标预测：同时预测多个相关时间序列（例如联合预测不同品牌的冰淇淋）。该模型支持所有目标的点预测和分位数预测；过去协变量：纳入仅从历史角度已知的特征（例如过去人流量）；过去-未来（动态）协变量：利用已知的未来事件来指导预测（例如计划促销活动或天气预报）。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1</h2>
+<p>9 月 2 日消息，当地时间 9 月 1 日，Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1 模型。该公司称这两款模型为「全球最先进的编程与知识工作模型」。</p>
+<p>Fable 5.1 与 Mythos 5.1 采用相同的基础模型，区别在于安全防护等级不同&mdash;&mdash;Fable 5.1 面向所有用户开放，Mythos 5.1 仅通过可信访问计划向经过审核的网络安全和生命科学领域的机构提供。</p>
+<p>性能方面，Anthropic 披露的基准测试数据显示，Fable 5.1 在多项测试中超过了前代 Fable 5、Opus 5 以及 OpenAI 的 GPT-5.6 Sol。（来源：IT 之家）</p>
+<p><img src=""https://imgslim.geekpark.net/uploads/image/file/57/43/57433146ec1114e2a95464e4741f70c2.png"" /></p>
+<h2>知情人士回应抖音突发算法推荐错乱：原因为服务器异常</h2>
+<p>9 月 1 日消息，最近，「抖音崩了」及「抖音推荐难看」等热搜词条引发关注。据《科创板日报》援引知情人士消息称，推荐算法错乱是因为抖音平台突发服务器异常。</p>
+<p>报道称，据大量网友反馈，此次服务异常主要表现为三大技术故障：其一，推荐算法机制疑似失灵，用户刷到的内容与日常偏好严重不符，大量推送不感兴趣、低相关度的视频，甚至出现",rss
+"Tue, 01 Sep 2026 22:08:24 +0000",TechCrunch AI,"AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/,,,"AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",rss
