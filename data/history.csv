@@ -2417,3 +2417,122 @@
 <p>9 月 1 日消息，最近，「抖音崩了」及「抖音推荐难看」等热搜词条引发关注。据《科创板日报》援引知情人士消息称，推荐算法错乱是因为抖音平台突发服务器异常。</p>
 <p>报道称，据大量网友反馈，此次服务异常主要表现为三大技术故障：其一，推荐算法机制疑似失灵，用户刷到的内容与日常偏好严重不符，大量推送不感兴趣、低相关度的视频，甚至出现",rss
 "Tue, 01 Sep 2026 22:08:24 +0000",TechCrunch AI,"AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/,,,"AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",rss
+"Thu, 03 Sep 2026 00:51:16 +0000",量子位,今年最难的机器人Demo，“机器人含量”为0,https://www.qbitai.com/2026/09/483351.html,,,遥操，可能真的危险了,rss
+"Wed, 02 Sep 2026 06:06:50 +0000",量子位,前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局,https://www.qbitai.com/2026/09/483097.html,,,9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能,rss
+"Wed, 02 Sep 2026 02:06:08 +0000",量子位,香港首个真实开放场景服务机器人落地兰桂坊,https://www.qbitai.com/2026/09/482855.html,,,在香港兰桂坊，一位特殊的“酒保”正式上岗,rss
+"Thu, 03 Sep 2026 08:03:32 +0800",极客公园,马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道,http://www.geekpark.net/news/369745,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/c8/d1/c8d1d46a5af0ea688554acb5be7c6554.png"" /></p>
+<h2>谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景</h2>
+<p>9 月 2 日消息，谷歌在 Google DeepMind 网站低调上线了 Gemini 3.8 Flash 模型。其基于 Gemini 3.7 Flash，拥有在软件工程和智能体知识工作流方面的性能提升，并持续支持可定制的努力水平，以控制质量、成本和延迟的组合。</p>
+<p>Gemini 3.8 Flash 基于 Gemini 3.7 Flash，具有最高 1M 的 token 上下文窗口，文本支持 64K token 输出。官方还公布了多项基准测试评估结果，涵盖编程、知识处理、多模态处理能力、长上下文处理、计算机使用能力以及科学推理能力。</p>
+<p>截至 2026 年 9 月的结果如下：</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/8f/5d/8f5d702c43b9ac999feff7271175da53.jpg"" /></p>
+<p>根据介绍，Gemini 3.8 Flash 面向个人用户、开发者和企业，适合以较低成本大规模部署通用型、可直接用于生产环境的智能体，典型用途包括软件工程、智能体任务以及复杂的知识处理流程。</p>
+<p>Gemini 3.8 Flash 的知识截止日期为 2026 年 3 月。部分领域的信息可能更新得更晚，另一些领域的知识则可能仍停留在 2025 年 1 月，与 Gemini 3 模型家族一致。（来源：IT 之家）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/88/32/883282321b6d52d24a4f236a22d3f580.png"" /></p>
+<h2>马斯克：如果猎鹰 1 号第四次发射也失败，SpaceX 就没了</h2>
+<p>9 月 2 日消息，埃隆 &middot; 马斯克近日再次提到一个关于 SpaceX 创业历程的事实：如果「猎鹰 1 号」（Falcon 1）第四次发射也失败，SpaceX 就不会存在了。这番话回应了彼得 &middot; 戴曼迪斯的一则推文&mdash;&mdash;在连续三次发射失败后，SpaceX 当时只剩下最后一次尝试的资金。</p>
+<p>彼得 &middot; 戴曼迪斯在 X 上表示，如今人们对 SpaceX 成功的认可，并不能抹去这家公司早期经历的艰难。他写道：「几乎没人记得，埃隆的第一枚火箭连续失败了三次，而当时的资金只够再尝试一次。」</p>
+<p>马斯克回应道：「如果第四次发射失败，SpaceX 就不会存在。」</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/12/bb/12bb713ac4447ea0f48f05d36144eec8.png"" /></p>
+<p>（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>GoPro 拟 2.85 亿美元卖身光学公司</h2>
+<p>当地时间 9 月 1 日，GoPro 宣布，公司将被美国光通信公司 Starman Optical 用 2.85 亿美元现金收购，这笔钱将帮助 GoPro 还清约 9200 万美元的债务。交易完成后，Starman 将拿到 GoPro 90% 的股份，现有股东持有剩余的 10% 股份。GoPro 不会退市，股票继续留在纳斯达克交易。</p>
+<p>根据协议条款，GoPro 股东将合计获得 2.85 亿美元现金，折合每股 1.14 美元。两家公司董事会均已批准该交易，预计于今年年底前完成，尚待监管机构及 GoPro 股东审议通过。</p>
+<p>两家公司在联合声明中表示，该交易将更好地帮助依赖于消费市场的 GoPro，利用其超过 2500 项美国专利（包括光学和成像解决方案），进军商用、国防和 AI 市场。</p>
+<p>GoPro 创始人兼首席执行官 Nicholas Woodman 表示，此次合并将推动 GoPro 成为「一家领先的美国成像与",rss
+"Wed, 02 Sep 2026 14:54:16 +0800",极客公园,从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价,http://www.geekpark.net/news/369719,,,"<section>
+<section>
+<section><strong>作者｜苏子华</strong><strong><br /></strong></section>
+<section><strong>编辑｜靖宇</strong></section>
+<section><strong>&nbsp;</strong></section>
+</section>
+</section>
+<p>极客公园最近发现，婴儿床这个品类正在被 AI，或者说被「具身智能」重新定价。<strong>从一张几百元的价格，直接抬升到一万元。</strong></p>
+<p>婴儿床是少有的被技术「忽略」的家居品类。100 年来，它的形态几乎没有变过。四根立柱、一圈围栏、一张床垫。</p>
+<p>关键变化发生在过去五年。</p>
+<p>传感器、算法、电机第一次被装进一张床，价格随之跳升：美国智能婴儿床 SNOO 售价 1695 美元（约 1.2 万元人民币），Cradlewise 售价 1999 美元；而在今年年初的 CES 上，<span class=""wx_text_underline"">中国公司</span><span class=""""><span class=""wx_text_underline"">亲宝宝</span></span><span class=""wx_text_underline"">展示的 AI 睡眠舱，官方定价 8999 元人民币。</span></p>
+<p>目前只要打上「智能」的旗号，仅仅做到温度控制、视频记录，在电商平台上售卖 4000 元起步的也有大把存在。</p>
+<p>在海外，SNOO、Cradlewise 等初创品牌已经用产品证明了：婴儿床可以被卖到一万元人民币以上，而且卖得动。</p>
+<p>巨头们正在加速入场。德国工业巨头博世也发布了 AI 婴儿床 Revol，传统的母婴巨头厂商 HALO、Graco 也在全线跟进。</p>
+<p>让婴儿睡得安全，解放父母夜里的睡眠时间和看护焦虑&mdash;&mdash;这个小众品类已经从边缘走向台前。<strong>而且，现在它正在被贴上「具身智能」的标签，变成一个越来越多玩家入局的早期创业赛道。</strong></p>
+<p>关键是，这只是营销噱头，还是全新的品类机会？以及，谁有机会拿下这个赛道？</p>
+<section></section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section></section>
+</section>
+</section>
+</section>
+</section>
+<h2><strong>一张上万元的婴儿床，多了什么？<br /></strong></h2>
+</section>
+</section>
+<p>&nbsp;</p>
+<p>讨论智能婴儿床，入局最早的 SNOO 和 Cradlewise 是绕不开的名字，也算是这个品类的开创者。</p>
+<p>SNOO 是由儿科医生哈维&middot;卡普（Harvey Karp）创办，出版过畅销书《The Happiest Baby on the Block》。</p>
+<p><strong><span class=""wx_text_underline"">SNOO 的核心是三件套：摇晃、白噪音、自带襁褓包裹&mdash;&mdash;睡袋扣在床体两侧的卡扣上，保证宝宝只能仰睡。</span></strong></p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/8c/04/8c0452b1f6cc73761652cfd296cb7179.png"" /></p>
+<p><span>为了模拟子宫环境，Snoo 让父母用附带的睡袋将宝宝紧紧包裹起来，床体会轻轻摇晃婴儿，并播放持续的白噪音哄其入睡｜图片来源：insidebook</span></p>
+<p>&nbsp;</p>
+<p>宝宝一哭闹，传感器会识别哭声的强度，床以递增的四档强度自动摇晃安抚，官方称多数情况下不到一分钟就能平息哭闹，让婴儿每晚平均多睡 1-2 小时。</p>
+<p>不过，它只适用 0-6 个月的婴儿，售价 1695 美元，也可以按月租赁（159-499 美元/月），还配备了 7 天 24 小时在线的睡眠顾问。SNOO 至今仍是唯一被 FDA 批准用于保持婴儿仰睡的婴儿床&mdash;&mdash;这是它区别于所有竞品的最大资本，也让它成了二手市场流通最快的婴儿床。</p>
+<p><strong>Cradle",rss
+"Wed, 02 Sep 2026 14:49:04 +0800",极客公园,硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文,http://www.geekpark.net/news/369718,,,"<section>
+<section>
+<section><strong>作者｜苏子华</strong><strong><br /></strong></section>
+<section><strong>编辑｜靖宇</strong></section>
+<section></section>
+</section>
+</section>
+<p>现场体验过 <span class="""">Violoop</span> 之后，很多关于未来的「AI 助手」该长什么样、能做些什么、能力的极限究竟在哪的困惑，可能都会迎刃而解。</p>
+<p>因为 Violoop 已经把它们变成了现实。</p>
+<section>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/a7/29/a729d491f093f6d8d4d72750b623a0b8.png"" /></p>
+<p>&nbsp;</p>
+<p><strong>Violoop 实物图｜图片来源：Violoop</strong></p>
+</section>
+<p>&nbsp;</p>
+<p><span class=""wx_text_underline"">Violoop 是一款巴掌大小的硬件，即插即用，V4 版本通过一根 Type-C 线连在电脑上，不挤占电脑的 CPU/GPU 资源。它可以通过实时读取电脑屏幕上的全局信息，获得用户全部的上下文，实现主动式的 AI 助手。</span></p>
+<p>极客公园获悉，Violoop 半年内完成了亿元级天使轮及 Pre-A 轮融资。联想创投、中金保时捷、蓝驰创投、元生资本、启赋资本和 Zero2IPO Ventures 共同投资。</p>
+<p>Violoop 的 CEO 何佳霖 是一位连续创业者，毕业于 <span class="""">UC San Diego</span> 的 CS 专业，曾入选过 YC 创业营。CTO King Zhu 是一位天才学霸，曾在 MIT 的 EECS 专业用 3.5 年完成本硕，同届最快毕业，后来在微软的 Xbox、HoloLens、Surface 等多个业务线担任核心工程师。</p>
+<p><img class=""rich_pages wxw-img"" /></p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/47/cd/47cd47c77cf270e05bffd38253ee710f.png"" /></p>
+<p>左为何佳霖，右为 King Zhu｜图片来源：受访者</p>
+<p>&nbsp;</p>
+<p>何佳霖向极客公园演示了 Violoop 的一个使用场景：</p>
+<p>你在微信里跟同事聊事，对方甩来一句：「把你上次那个简历发我一下。」</p>
+<p>你不需要切回桌面翻文件夹&mdash;&mdash;电脑屏幕的角落，一个小框自己跳了出来：</p>
+<p>「要帮你把张三的简历发过去吗？1.要；2.不要。」</p>
+<p>你按下键盘上的 1。一秒钟左右，AI 已经自己打开文件夹、找到文件、把简历贴进了对话框。</p>
+<p>没写一个字的提示词，也没打开任何 AI 软件。</p>
+<p>这就是 Violoop 想让人们习惯的新工作方式，将整台电脑变成一个眼里有活、主动帮你干活的助手。</p>
+<p>&nbsp;</p>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section>
+<section></section>
+</section>
+</section>
+</section>
+</section>
+<h2><strong>全局主动式 AI，是如何工作的？</strong></h2>
+<p><strong>&nbsp;</strong></p>
+</section>
+</section>
+</section>
+<p>Violoop 的形态很简单，最新版本用一根 Type-C 线连上电脑，把视频采集和控制合并到一个口，再插一根电源。Mac、Windows、Linux 都能用。</p>
+<p>它的工作方式，可以拆成三步。</p>
+<p>第一步是「看」。硬件盒子里内置了一套自研的端侧模型，实时读取屏幕画面，读懂你此刻在干什么。</p>
+<p>第二步是「判断」。当它觉得你可能需要帮忙，就主动弹出一个框，给你几个选项。</p>
+<p>第三步是「动手」。你确认之后，它通过模拟真",rss
+"Wed, 02 Sep 2026 22:24:09 +0000",TechCrunch AI,"TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/,,,"On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",rss
+"Wed, 02 Sep 2026 16:04:10 +0000",TechCrunch AI,Wonderful more than doubles its valuation to $5B in under 6 months,https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/,,,"Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",rss
