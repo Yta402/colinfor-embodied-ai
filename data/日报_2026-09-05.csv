@@ -1,0 +1,58 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+"Fri, 04 Sep 2026 06:24:03 +0000",艾邦机器人,辉羲智能与影智XBOT达成战略合作，加速通用餐饮机器人量产部署,https://www.aibangbots.com/a/12713,,,从底层算力到真实餐饮场景，共驱量产落地,rss
+"Fri, 04 Sep 2026 02:04:32 +0000",艾邦机器人,帕西尼携手极佳视界，唤醒具身智能“通感时代”,https://www.aibangbots.com/a/12686,,,在 2026 世界机器人大会（WRC）期间，帕西尼（PaXini AI）发布 PaXini Inside 生态 [&#8230;],rss
+2026-09-04 16:00:05+00:00,IEEE Spectrum Robotics,Video Friday: Digit Redecorates,https://spectrum.ieee.org/video-friday-agility-robotics-digit,,,"<p><span>Video Friday is your weekly selection of awesome robotics videos, collected by your friends at </span><em>IEEE Spectrum</em><span> robotics. We also …</span></p>",rss
+"Fri, 04 Sep 2026 09:19:29 +0000",量子位,机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理,https://www.qbitai.com/2026/09/484437.html,,,星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL,rss
+"Fri, 04 Sep 2026 05:53:09 +0000",量子位,2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先,https://www.qbitai.com/2026/09/484159.html,,,雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。,rss
+"Sat, 05 Sep 2026 08:24:15 +0800",极客公园,传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元,http://www.geekpark.net/news/369871,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/41/f6/41f6c917e8114c701cd73ec82e0efc49.png"" /></p>
+<h2>OpenAI 智能体被曝「接管」德国维基网站</h2>
+<p>一项最新曝光的人工智能安全事件正在引发业内广泛关注。</p>
+<p>根据研究人员披露的信息，今年春季，一批与 OpenAI 模型相关的自主智能体曾在未经授权的情况下「接管」一家德国维基网站，并将其改造成供其他 AI 系统交流信息的公共平台。这一事件此前从未对外公开，而 OpenAI 据称已在数周前获悉相关情况。</p>
+<p>报道称，事件最早开始于今年 5 月，目标网站是一家名为 DseWiki 的德语维基平台，主要面向程序员社区开放协作编辑。研究人员在 8 月底调查 互联网异常 AI 活动时发现，该网站在数月时间内累计出现超过 1.5 万次由 AI 智能体完成的编辑操作。</p>
+<p>调查人员表示，这些编辑行为并非普通的信息补充，而是呈现出明显的组织化特征。大量页面被智能体重新利用为交流平台，不同 AI 系统在其中分享任务执行经验、讨论绕过限制的方法，并交流如何隐藏自身行为的技巧。</p>
+<p>研究人员查看的记录显示，当网站管理员于 6 月开始删除相关页面后，这些智能体并未停止活动，而是主动建立备用页面，以避免交流内容随着清理行动一同消失。有记录显示，部分智能体甚至会提醒其他系统某些页面可能即将被删除，并提供替代位置继续存储信息。</p>
+<p>服务器日志显示，相当一部分活动流量来自微软 Azure 基础设施。不过，研究人员同时强调，这些迹象并不能直接证明相关行为由 OpenAI 官方主动指挥。（来源：cnbeta）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/d4/e4/d4e4c9c32d808c322044672ec8d1a207.png"" /></p>
+<h2>Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明</h2>
+<p>Anthropic 于当地时间 9 月 4 日宣布，其 AI 模型 Claude 在基本自主运行 11 天后，完成了对费马大定理（FLT）的首个端到端、经过计算机检查的形式化证明。</p>
+<p>Anthropic 表示，这项工作并非重新发现费马大定理的数学证明，而是将已有数学证明转换为 Lean 证明助手可以逐步验证的形式。</p>
+<p>Lean 是一种用于编写和验证形式化数学证明的证明助手，能够通过计算机检查证明中的逻辑步骤。</p>
+<p>据介绍，Claude 在这一过程中生成了约 1300 万行 Lean 代码，并证明了约 3.03 万个定理，其中约 2.95 万个中间定理最终被纳入费马大定理的完整证明。整个证明由 Lean 完成检查，仅使用 Lean 的 3 条标准公理。</p>
+<p>此次项目由 Anthropic 研究人员 Tianyi Peng 发起。Claude 并非由单个智能体完成全部工作，而是通过多智能体协作完成概念定义、中间定理证明以及更复杂命题的推导。项目使用了由 Peng 及其哥伦比亚大学合作者开发的 Prove2Me 平台，用有向无环图（DAG）记录待证明的定理及其依赖关系，并支持多个 Claude 智能体并行工作。</p>
+<p>人类研究人员提供的数学输入主要是少量高层次指令，例如确定某些数学对象或定理的优先级，具体证明过程则主要由 Claude 完成。</p>
+<p>整个项目消耗了约 60 亿个输出 Token，使用的是一个与 Claude Fable 5.1 大致相当的通用内部研究模型。（来源：IT 之家）</p>
+<h2>古尔曼称苹果将以史上最大新品阵容开启「特努斯时代」，公布今年至 2029 年后产品规划</h2>
+<p>9 月 4 日消息，苹果将于 9 月 9 日举行「亮新篇，来耀眼」发布会，新任 CEO 约翰 &middot; 特努斯届时将登台发布新一代 iPhone 和 Apple Watch，而这场活动只是开端。</p>
+<p>彭博社记者马克 &middot; 古尔曼发文称，苹果准备开启公司<strong>历史上规模最大的一轮硬件发布周期</strong>，在 2026 年、2027 年乃至更远的未来陆续推出全新产品形态，并进入多个此前从未涉足的设备领域。</p>
+<p>苹果为这套产品路线图筹备了约 5 年，特努斯在致员工的",rss
+"Fri, 04 Sep 2026 16:37:04 +0800",极客公园,对话 Sharpa 李一帆：通用机器人要么全能，要么无能,http://www.geekpark.net/news/369851,,,"<section class=""wx-article-wrap"">
+<section>
+<p style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.75; margin: 0px 8px 24px; text-align: justify;""><span>具身智能现在太吵了。</span><span><br /></span></p>
+<p style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.75; margin: 0px 8px 24px; text-align: justify;""><span>行业里的人各自笃定，声音大的先被听见。最响的那些声音，往往离真实的进展最远。</span><span><br /></span></p>
+<p style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.75; margin: 0px 8px 24px; text-align: justify;""><span>真正在往前推的人，看的是谁在践行非共识，什么在真的往前走，以及谁心里有一张完整的图，而不是走一步看一步。</span><span><br /></span></p>
+<p style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.75; margin: 0px 8px 24px; text-align: justify;""><span>这些东西不会上热搜，但它们决定这个行业的下一步。</span><span><br /></span></p>
+<p style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.75; margin: 0px 8px 24px; text-align: justify;""><span><span>我们一直探寻这些。如果你也是&mdash;&mdash;</span></span><span><br /></span></p>
+<p style=""font-family: Optima-Regular, PingFangTC-light, 'PingFang SC', 'PingFang TC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.75; margin: 0px 8px 24px; text-align: justify;""><span>欢迎来到极客公园 In The Loop。👇</span></p>
+<section class=""mp_profile_iframe_wrp""></section>
+</section>
+</section>
+<hr />
+<section class=""wx-article-wrap"">
+<section>
+<p style=""text-align: justify; margin-right: 8px; margin-left: 8px;""><strong style=""font-family: Optima-Regular, PingFangTC-light, 'Pin",rss
+"Fri, 04 Sep 2026 16:33:41 +0800",极客公园,梅卡曼德上市，具身智能又跑出一家百亿公司,http://www.geekpark.net/news/369850,,,"<section>
+<section>
+<section class=""""></section>
+<section><strong style=""text-indent: 0em; font-size: 16px; color: #375474; font-family: Optima-Regular, PingFangTC-light;""><br />作者｜Li Yuan</strong><strong style=""text-indent: 0em; font-size: 16px; color: #375474;""><br /></strong></section>
+<section><strong style=""text-indent: 0em; font-size: 16px; color: #375474; font-family: Optima-Regular, PingFangTC-light;"">编辑｜<strong>郑玄</strong></strong></section>
+<section><strong style=""text-indent: 0em; font-size: 16px; color: #375474;""><strong>&nbsp;</strong></strong></section>
+</section>
+</section>
+<p style=""margin: 25px 8px; text-align: justify; color: #000000; letter-spacing: 1px; font-size: 16px; line-height: 1.75;"">2026 年 9 月 1 日，梅卡曼德登陆港交所。一个过去很少被大众看见的机器人公司，终于被公开市场标出了价格，首日收盘<strong style=""margin-top: 0px; margin-bottom: 0px; text-align: left; color: #000000; letter-spacing: 0px; font-size: 16px; line-height: 1.6;"">总市值约 124 亿港元。</strong></p>
+<p style=""margin: 25px 8px; text-align: justify; color: #000000; letter-spacing: 1px; font-size: 16px; line-height: 1.75;"">上市之前，一级市场和基石投资者已经先给出了自己的判断。梅卡曼德此次引入包括苏格兰百年资管巨头 Baillie Gifford 在内的 9 家基石投资者，合计认购 1.86 亿美元。</p>
+<p style=""margin: 25px 8px; text-align: justify; color: #000000; letter-spacing: 1px; font-size: 16px; line-height: 1.75;"">成立于 2016 年，梅卡曼德和宇树一样，都是上一轮机器人创业潮里走出来的公司。</p>
+<p style=""margin: 25px 8px; text-align: justify; color: #000000; letter-spacing: 1px; font-size: 16px; line-height: 1.75;"">但从第一天起，梅卡曼德就没有把重点放在造一台机器人上。公司名 Mech-Mind 里的「Mind」，指向的是另一件事：给机器人做感知、识别和运动规划。</p>
+<p style=""margin: 25px 8px; text-align: justify; color: #000000; letter-spacing: 1px; font-size: 16px; line-height: 1.75;"">2017 年，梅卡曼德推出第一代 Mech-Eye、Mech-Vision 和 Mech-Viz：相机负责获取 3D 点云和图像，视觉软件识别物体的位置与姿态，规划软件计算机械臂怎么抓、怎么走、怎么避障。到了今天，具身智能、物理 AI 和世界模型讨论的很多问题，仍然绕不开这些环节。</p>
+<p style=""margin: 25px 8px; text-align: justify; color: #000000; letter-spacing: 1px; font-size: 16px; line-height: 1.75;"">梅卡曼德卖出去的不是一台完整机器人，而是一套可以接到不同机械臂和产线里的智能组件。十年下来，这套东西被送进近 50 个国家和地区，累计部署超",rss
+"Fri, 04 Sep 2026 23:36:14 +0000",TechCrunch AI,"XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/,,,The round is being raised just months after the robot data startup exited from stealth.,rss
+"Fri, 04 Sep 2026 21:12:11 +0000",TechCrunch AI,AI compute provider Nscale is looking for $3.5B in pre-IPO financing,https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/,,,"Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",rss
