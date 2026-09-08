@@ -1,21 +1,17 @@
 {
-  "date": "2026-09-07",
-  "collected": 64,
-  "deduped": 64,
+  "date": "2026-09-08",
+  "collected": 57,
+  "deduped": 57,
   "tagged": 0,
   "report": {
     "sources": [
-      {
-        "name": "艾邦机器人",
-        "count": 6
-      },
       {
         "name": "IEEE Spectrum Robotics",
         "count": 27
       },
       {
         "name": "量子位",
-        "count": 4
+        "count": 3
       },
       {
         "name": "极客公园",
