@@ -2879,3 +2879,55 @@
 <p>你的产品或许可以调用世界上最好的模型，但创业者自己的「模型」，无处调用。只能看「历史数据集」的积累，和行进中「强化学习」的效率。</p>
 <p>环境当然不断在变化，但变化中才体现「创业者」三个字的含金量。创业者永远值得信赖的「种族天赋」其实就是一点：<strong>只要</strong><strong>你要解决的问题是真的，能专注、</strong><strong>活够细，</strong><strong>你就永远</strong><strong>有机会。</strong></p>",rss
 "Fri, 04 Sep 2026 23:36:14 +0000",TechCrunch AI,"XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/,,,The round is being raised just months after the robot data startup exited from stealth.,rss
+"Tue, 08 Sep 2026 03:22:17 +0000",量子位,深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座,https://www.qbitai.com/2026/09/485784.html,,,近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。,rss
+"Wed, 09 Sep 2026 08:37:42 +0800",极客公园,折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道,http://www.geekpark.net/news/370026,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/42/74/4274f5b9e7a48eafe6b38b65bab75de0.png"" /></p>
+<h2>消息称苹果折叠屏 iPhone 初期产量受限，每日仅数百部</h2>
+<p>9 月 8 日，据日经中文网报道，根据多位知情人士指出，市场期待已久的首部苹果折叠 iPhone，由于苹果极为严格的质量管控标准，初期生产量每天仅有「数百部」，而苹果及其供货商正全力加快产量爬坡。</p>
+<p>熟悉情况的供应链主管向《日经亚洲》透露：「苹果设定了极高的质量标准，在正式量产之前，8 月又追加了一轮试产」。该人员表示：「截至 8 月下旬日产量仅数百部。按这样的初期产能计算，有可能难以满足市场需求」。</p>
+<p>《日经亚洲》先前报导，苹果计划今年内生产 800 万~1000 万部折叠屏 iPhone，并希望凭借这款全新外型设计的机型激发市场需求，进而推升营收。（来源：DoNews）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/6c/6a/6c6afced36fd779269cff2b35c44e290.png"" /></p>
+<h2>OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图</h2>
+<p>9 月 9 日，OpenAI 官宣发布 ChatGPT Images 2.5，图像生成延迟最多降低 50%，并新增 Sketch 草图参考、模板库、图片内评论标注等实用功能，是该公司当前最先进的图像生成模型。</p>
+<p>相比较 2026 年 4 月发布的 Images 2 模型，Images 2.5 重点降低了图像生成延迟，在细节锐度、自然光照和纹理丰富度方面均有提升的情况下，延迟最多降低 50%。</p>
+<p>功能方面，ChatGPT Images 2.5 引入 Sketch 功能。用户可通过输入「@Sketch」调用该功能，用户可在对话中直接绘制草图，再补充风格和细节描述，让模型将草图转化为完整图像。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/47/bf/47bf096564cae7ebd67f7374149907d8.png"" /></p>
+<p>产品还新增海报、商品等常见创作格式的模板，降低创作门槛。用户可以直接在图像上添加批注，以聚焦具体修改区域，并可在分享图像时附带原始提示词。</p>
+<p>在 API 调用模型方面，OpenAI 提供了两款模型：</p>
+<ul class="" list-paddingleft-2"">
+<li>
+<p>GPT-Image-2.5 Flare：面向多数 API 图像生成应用，适用于创作者内容、社交内容、产品体验、视觉搜索、快速原型和高批量生成等场景。</p>
+</li>
+<li>
+<p>GPT-Image-2.5 Sunburst：则面向对编辑控制要求更高的工作流。OpenAI 建议将其用于成品级营销素材和精修产品图等场景，但其生成时间更长。</p>
+</li>
+<li>
+<p>API 支持多种分辨率，包括 1024&times;1024、2048&times;2048、3840&times;2160（4K 横向）等，单边最长不超过 3840 像素，总像素数介于 655,360 至 8,294,400 之间。（来源：IT 之家）</p>
+</li>
+</ul>
+<h2>&nbsp;</h2>
+<h2>微软发布 Opal：用户只需提目标，AI 跑全流程交付成品</h2>
+<p>9 月 7 日，微软首席执行官萨提亚 &middot; 纳德拉在 X 平台发布推文，宣布为 Microsoft 365 Copilot 推出全新 AI 功能 Project Opal，定位是在可控的安全环境中，让用户规划和执行复杂、长周期任务的 AI 智能体。</p>
+<p>微软表示 Project Opal 的核心，是在可控制、可追踪的环境内，是让 AI 从处理快速问题，逐步覆盖委派型工作和长期运行的自动化任务。用户交代任务后，它可连续工作数小时或数天，自动完成「找素材、做表格、生成 PPT、发给同事」的完整流程。</p>
+<p style=""text-align: center;""",rss
+"Tue, 08 Sep 2026 15:29:19 +0800",极客公园,IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上,http://www.geekpark.net/news/370007,,,"<section>
+<section>
+<section><span>本文转载自 Hardwire，欢迎关注，共同看见硬件行业新风向 👇</span></section>
+<section class=""mp_profile_iframe_wrp""></section>
+</section>
+</section>
+<hr />
+<section>
+<section>
+<section><span>&nbsp;</span></section>
+<section><img alt=""图片"" class=""rich_pages wxw-img"" src=""https://imgslim.geekpark.net/uploads/image/file/ce/a3/cea3aa6b04607fcc03c36968087c533d.jpeg"" /><img class=""rich_pages wxw-img"" /></section>
+<section class="""">屏幕消失不是做减法，是把「显示」换成了「采集」。</section>
+<section><strong style=""text-indent: 0em; font-size: 16px; color: #375474; font-family: Optima-Regular, PingFangTC-light;""><br />作者｜张勇毅</strong><strong style=""text-indent: 0em; font-size: 16px; color: #375474;""><br /></strong></section>
+<section><strong style=""text-indent: 0em; font-size: 16px; color: #375474; font-family: Optima-Regular, PingFangTC-light;"">编辑｜<strong>靖宇</strong></strong></section>
+<section><strong style=""text-indent: 0em; font-size: 16px; color: #375474;""><strong>&nbsp;</strong></strong></section>
+</section>
+</section>
+<p style=""margin: 25px 8px; text-align: justify; color: #000000; letter-spacing: 1px; font-size: 16px; line-height: 1.75;"">IFA 开幕前一天，小米在柏林把手环 11 端了出来。还是 1.72 英寸的屏幕，亮度从上一代的 1500 尼特提到 2000 尼特，国内 289 元起，9 月 7 日首售。官方通稿的第一个卖点，就是这块屏幕在太阳底下有多清楚。</p>
+<p style=""margin: 25px 8px; text-align: justify; color: #000000; letter-spacing: 1px; font-size: 16px; line-height: 1.75;"">同一周的同一个展馆里，另一批穿戴设备正在把屏幕拆掉。</p>
+<p style=""margin: 25px 8px 0px; text-align: justify; color: #000000; letter-spacing: 1px; font-size: 16px; line-height: 1.75;""><img alt=""图片"" class=""rich_pages wxw-img js_img_placeholder wx_img_placeholder"" src=""https://imgslim.geekpark.net/uploads/image/file/66/9f/669fe09ee949011c4fb2d87699d49c56.jpeg"" /><img class=""rich_pages wxw-img"" /></p>
+<p style=""margin: 0px 8px 25px; text-align: justify; color: #000000; letter-spacing: 1px; font-size: 16px; line-height: 1em;""><span>会场对面地铁站附近，Plaud 的广告｜图片来源：极客公园</span></p>
+<p style=""margin: 25px 8px; text-align: justify; color: #000000; letter",rss
