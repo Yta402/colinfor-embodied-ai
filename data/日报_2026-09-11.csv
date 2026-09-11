@@ -1,0 +1,98 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+"Fri, 11 Sep 2026 01:36:27 +0000",艾邦机器人,机器人触觉怎么实现？一文看懂五大技术路线,https://www.aibangbots.com/a/12794,,,机器人触觉传感器主要形成了五条技术路线：压阻式、压电式、电容式、光学式和磁感应式,rss
+"Thu, 10 Sep 2026 04:23:53 +0000",艾邦机器人,知行具身首发千赫兹视触觉传感器 Imprint X,https://www.aibangbots.com/a/12738,,,知行具身推动了视触觉感知领域从“一帧一帧看”，转向“变化发生就能捕捉”的神经拟态触觉感知，成为行业首家事件驱动/神经拟态视触觉传感器走出实验室进入市场的公司，而 Imprint X 也与市场主流视触觉传感器形成了代际差异。,rss
+2026-09-10 18:22:35+00:00,IEEE Spectrum Robotics,Robots Are Learning to Feel,https://spectrum.ieee.org/tactile-data-robots,,,<p>Dexterous manipulation remains one of the biggest barriers keeping robots from successfully tackling a wide range of everyday tasks. A …</p>,rss
+"Thu, 10 Sep 2026 19:28:14 GMT",InfoQ 机器人,破除人形崇拜！京东用“狼族”军团重做物理AI,https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ?utm_source=rss&utm_medium=article,,,"<div align=""right""><a href=""https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ?utm_source=rss&amp;utm_medium=article"">点击查看原文></a></div>",rss
+"Thu, 10 Sep 2026 17:10:55 GMT",InfoQ 机器人,把 FDE 送进企业之后：谁救火，谁背责，谁赚钱？,https://www.infoq.cn/article/uQvqV8VlMl5g8OqQKwDG?utm_source=rss&utm_medium=article,,,"<div align=""right""><a href=""https://www.infoq.cn/article/uQvqV8VlMl5g8OqQKwDG?utm_source=rss&amp;utm_medium=article"">点击查看原文></a></div>",rss
+"Thu, 10 Sep 2026 08:17:05 +0000",量子位,全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口,https://www.qbitai.com/2026/09/486900.html,,,9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。,rss
+"Thu, 10 Sep 2026 07:44:00 +0000",量子位,这个新开源的世界模型只有1.3B，单卡就能实时跑！,https://www.qbitai.com/2026/09/486716.html,,,轻量版LingBot-World 2.0,rss
+"Thu, 10 Sep 2026 04:55:38 +0000",量子位,一周连发6个模型！这家公司把具身智能的闭环跑通了,https://www.qbitai.com/2026/09/486625.html,,,模型可以开源，部署经验不能,rss
+"Thu, 10 Sep 2026 01:39:13 +0000",量子位,打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果,https://www.qbitai.com/2026/09/486436.html,,,9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行,rss
+"Fri, 11 Sep 2026 08:31:05 +0800",极客公园,DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道,http://www.geekpark.net/news/370157,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/02/46/02461570cef3be0765e22e7338d372d3.png"" /></p>
+<h1>DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，最高降价 60%</h1>
+<p>9 月 10 日消息，深度求索今日正式发布<strong>DeepSeek V4.1 Flash 模型</strong>。这是其全新模型结构系列中的最小尺寸的模型，具备原生多模态视觉理解能力。</p>
+<p>新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。</p>
+<p><strong>DeepSeek V4.1 Flash 为 552B 参数的 MoE 模型</strong>，采用了全新的 Causal-Encoder-Decoder 结构，输入和输出不对称，输入激活只有 8B，输出激活 16B，成本显著低于已知的同尺寸模型。同时，V4.1 Flash 还采用了新的预训练方式、经过了更大规模的强化学习后训练，在基准测试中，成功超越了包括 DeepSeek V4 Pro 在内的一众旗舰模型的智能水平。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/94/0d/940d70424a34fcbbd7893bd4a52a566d.jpg"" /></p>
+<p>▲ DeepSeek-V4.1-Flash 与主流前沿模型在 Agentic Benchmark 上的性能对比</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/0e/a4/0ea4e422f3ec9f17985b8aa44dfb0c9a.jpg"" /></p>
+<p>此外，新一代模型大幅减少了 KV Cache 缓存的大小，与上一代模型相比，<strong>对 HBM 的需求减少到 1/4，对 SSD 的需求减少到 1/8</strong>。</p>
+<p>在 Agent 使用场景中，缓存命中的费用往往占比较高，对 KV Cache 的压缩大幅降低了 Agent 类任务的使用成本。</p>
+<p>如图展示了 DeepSeek 在减少上下文存储方面的持续进展。相对于初代模型，KV Cache 是原来的 1/437。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/20/de/20defb68efc52dae05fd91aa9e74c9a5.jpg"" /></p>
+<p>DeepSeek V4.1 Flash 已同步上线 DeepSeek API，原生支持多模态，<strong>将模型名称更改为 deepseek-flash 即可调用最新的 V4.1 Flash 模型</strong>。</p>
+<p>旧版本模型 V4 Flash 与 V4 Flash Vision Exp 现已下线，出于兼容考虑，模型名 deepseek-v4-flash、deepseek-v4-flash-vision-exp 将被暂时路由到 V4.1 Flash。（来源：CnBeta）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/cf/12/cf12b95a1f18da3725c01d6a730815e1.png"" /></p>
+<h1>罗永浩狂喷苹果首款折叠屏手机 iPhone Duo，屏下摄像头、阔屏比例、内外屏无缝等全是「抄的」</h1>
+<p>9 月 10 日消息，罗永浩今日在微博发文，以个人视角点评苹果旗下首款折叠屏手机 iPhone Duo。</p>
+<p>罗永浩表示，这台手机的折叠机形态、屏下摄像头、矮胖的阔屏比例、侧面 Dock 栏、外屏 / 内屏无缝接力、多角度悬停、钛合金 3D 打印铰链盖全是「抄的」。</p>
+<p>他还认为，苹果搞不定内屏折痕问题，所以不惜降低屏幕体验用雾面屏掩饰。这部分确实是原创的，但这又导致前摄在雾面屏下会糊，只好在雾面屏上单独磨亮前摄那一小块，<strong>导致本来要",rss
+"Thu, 10 Sep 2026 21:39:07 +0800",极客公园,走出聊天框，Agent 开始进入现实世界,http://www.geekpark.net/news/370064,,,"<p style=""text-align: center;"">&nbsp;</p>
+<p>头图来源：小度</p>
+<p>Agent 正在寻找自己的「身体」。</p>
+<p>过去一年，智能体的主要工作对象是文件、网页和软件。它们可以搜索资料、分析数据、制作 PPT，也可以打开浏览器、调用工具，把一句需求推进成一份可供交付的结果。衡量一个 Agent 能力的方式，也集中在任务能不能做完、执行路径是否稳定、生成结果是否可用。</p>
+<p>但屏幕里的 Agent 仍然与现实世界隔着一层。</p>
+<p>它可以替人整理一周的工作记录，却不知道会议室里刚刚讨论了什么；能够生成一套家庭计划，却看不到孩子有没有开始写作业；可以给出老人用药的注意事项，却无法确认提醒是否被听见。文件、网页和软件提供的是结构化信息，现实世界则充满持续变化的人、物品、声音和空间。Agent 想从数字工具变成更普遍的行动者，首先要获得感知和触达这些信息的入口。</p>
+<p>硬件由此进入 AI 公司的视野。</p>
+<p>9 月 2 日，腾讯在 WorkBuddy 生态发布会上展示了九款联名智能硬件，覆盖智能眼镜、录音卡、麦克风、耳机和桌面陪伴设备。它们承担声音、图像等现实信息的采集，WorkBuddy 负责后续的理解、规划和执行。海外市场也在发生相似变化：Google 将 Gemini for Home 带入音箱、摄像机、门铃和家庭应用，Amazon 则借助 Alexa+连接智能家居、外部服务与多种终端。</p>
+<p>Agent 的竞争开始越过聊天框，进入设备与现实场景。</p>
+<p>9 月 8 日，在 2026 小度新品发布会上，小度也给出了自己的方案。百度搭子全面落地小度添添闺蜜机 Ultra、小度智能屏 X9 Ultra、小度智能摄像机 C1500 和小度智能音箱 Pro Max。百度搭子提供需求理解、任务规划、工具调用和执行反馈等能力，超能小度则依托小度的硬件体系，对这些能力进行家庭化适配。</p>
+<p>家庭只是这次被摆到台前的场景。更值得关注的问题是，当 Agent 获得摄像头、麦克风、屏幕、传感器以及设备控制能力之后，它会怎样改变人与硬件之间的关系？</p>
+<p><strong>一、Agent 为什么需要一个硬件载体</strong></p>
+<p>软件世界为 Agent 提供了一套相对清晰的操作规则。</p>
+<p>网页有链接和按钮，文件有明确格式，应用提供接口，任务结果也容易检查。用户让 Agent 搜集资料、整理表格或者制作演示文稿，它可以把目标拆成多个步骤，再借助浏览器、代码环境和各类工具逐项完成。即便执行中途出错，也能够撤回、修改或重新生成。</p>
+<p>现实世界的任务往往更加模糊。</p>
+<p>一个人说「帮我看着孩子写作业」，其中可能同时包含坐姿、专注度、休息时间和作业进度；一句「照看一下老人」，背后涉及活动情况、用药提醒和突发风险。人类能够结合环境和常识理解这些要求，传统智能设备却只能等待一句准确的指令，或者按照提前设定的规则运行。</p>
+<p>过去的智能音箱和智能家居已经解决了部分连接问题。用户可以开灯、播放音乐、查看摄像头，但交互通常围绕单次命令展开。设备听见「打开空调」，完成动作后任务便告结束。Agent 带来的变化，是把一次设备控制放入更长的任务过程中：先理解用户想解决什么问题，再结合环境信息规划步骤，调用合适的设备，并根据执行结果调整后续动作。</p>
+<p>于是，硬件对于 Agent 的意义也发生了变化。摄像头提供视觉，麦克风提供声音，屏幕负责呈现信息，传感器描述环境，家电和服务构成可被调用的行动端。硬件让 Agent 接触到软件之外的信息，也让它拥有影响现实环境的可能。</p>
+<p>这正是百度搭子需要硬件载体的原因。</p>
+<p>百度搭子此前强调「交付即惊艳」，希望把办公任务从回答问题推进到生成可直接使用的成果。但无论报告、网页还是应用，其交付终点依然位于软件内部。小度拥有智能屏、摄像机、闺蜜机和智能音箱等多种设备，可以为同一套 Agent 能力提供视觉、语音、内容和控制入口。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/89/cc/89ccddb4e856d26b6739bad752324ee6.png"" /></p>
+<p>图片来源：小度</p>
+<p>双方的分工也相对清晰。百度搭子负责理解目标、拆解任务、调用工具和处理反馈；超能小度负责识别家庭成员、连接设备，并将通用能力转化为家庭可以理解和使用的产品功能。用户不必研究每台设备能做什么，只需要表达自己希望完成的事",rss
+"Thu, 10 Sep 2026 19:41:33 +0800",极客公园,对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑,http://www.geekpark.net/news/370150,,,"<p style=""text-align: left;"">在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。</p>
+<p style=""text-align: left;"">2025 年被认为是「消费级外骨骼元年」。今年，这个行业迅速涌入了上百个新玩家。</p>
+<p style=""text-align: left;"">极壳 Hypershell 去年的全球出货量超过了 3 万台，是这个细分领域里公认的头号玩家。创始人孙宽认为，这仍然是一个相对早期和小众的品类，现有的产品体验还有大量提升的空间。</p>
+<p style=""text-align: left;"">在孙宽看来，竞争并不是当下驱动行业创新的核心动力。他希望跨越鸿沟，把外骨骼产品的目标用户从户外、老年等几个特定群体，推向「国民级」的消费市场。</p>
+<p style=""text-align: left;"">9 月，极壳在 IFA 发布了行业首个髋膝一体化的下肢外骨骼新品 Halo。这个项目的研发起始于 2023 年，但很长一段时间里没有满意的进展。孙宽告诉我们，核心变化来源于团队今年的一次调整，「还是同样的研发团队，聚焦目标之后，之前做了两年多的东西，很快就看到了突破」。</p>
+<p style=""text-align: left;"">对这位 90 后创始人来说，考验不只是死磕研发和技术。这是一个全新的品类，没有先例可循。他要带着一个还在不断扩大的组织，在竞争越来越激烈的赛道里，朝确定的目标前进。</p>
+<p style=""text-align: left;"">以下是 Hardwire 和极壳创始人孙宽的访谈，经编辑整理。</p>
+<p style=""text-align: left;"">&nbsp;</p>
+<p style=""text-align: left;"">访谈、整理 | siqi</p>
+<p style=""text-align: left;"">编辑 | 郑玄</p>
+<p>&nbsp;</p>
+<h2 style=""text-align: left;""><span style=""font-weight: bold;"">Part.1：创业进入「深水区」</span></h2>
+<p>&nbsp;</p>
+<p style=""text-align: left;""><span style=""font-weight: bold;"">Hardwire：听说最近非常忙，主要是为新品（Halo）发布做准备吗？</span></p>
+<p style=""text-align: left;""><span style=""font-weight: bold;"">孙宽</span>：大部分工作跟新品有关，也有一些其他思考。相较于上次我们见面的时候，感觉创业逐渐走到了深水区。</p>
+<p>&nbsp;</p>
+<p style=""text-align: left;""><span style=""font-weight: bold;"">Hardwire：怎么理解「深水区」？</span></p>
+<p style=""text-align: left;""><span style=""font-weight: bold;"">孙宽</span>：今年之前，公司的核心目标是验证品类的 PMF。需要我们找到对可穿戴外骨骼产品有需求的用户，并且让他们高频地使用，我觉得第一阶段我们做得不错。</p>
+<p style=""text-align: left;"">今年的目标是推动这个品类从早期的极客用户走向大众市场，走进更多人的生活。这带来了很多方面的挑战，需要我们对用户、商业、增长有更多了解，要想办法把用户了解产品、体验产品的阻力变得更低，所以我们近期也开了线下店。</p>
+<p>&nbsp;</p>
+<p style=""text-align: left;""><span style=""font-weight: bold;"">Hardwire：产品方面的变化有哪些？</span></p>
+<p style=""text-align: left;""><span style=""font-weight: bold;"">孙宽</span>：消费级外骨骼是一个非常新的品类，所以当下的产品，从构型到软硬件，肯定还有很多不完善的地方。我们想推动品类往前走，就需要迭代产品、提升体验。这需要非常关注技术发展，同时足够了解用户。</p>
+<p>&nbsp;</p>
+<p style=""text-align: left;""><span st",rss
+"Tue, 08 Sep 2026 08:34:54 +0800",极客公园,传字节开发实时空间视频生成模型；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机,http://www.geekpark.net/news/369965,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/7b/88/7b881b35c114cb2ce3eefd6857067a31.png"" /></p>
+<h2>消息称字节正开发实时空间视频生成 AI 模型：最快下个月发布</h2>
+<p>9 月 7 日消息，据彭博社报道，字节跳动正准备推出一款实时空间视频生成 AI 模型。该模型计划最早于下月发布。</p>
+<p>知情人士指出，发布时间尚未最终确定，计划仍可能发生变动。</p>
+<p>据介绍，该模型基于字节跳动现有的电影级视频生成 AI 模型 Seedance 构建，将允许用户面向直播、短剧和游戏创建交互式虚拟世界。字节跳动发言人未回应置评请求。</p>
+<p>知情人士称，字节跳动此次将空间视频模型定位为驱动整个生态的「飞轮（Flywheel）」&mdash;&mdash;该模型能够将用户置于高度沉浸的三维虚拟环境中，功能与谷歌的 Genie 类似。字节跳动得以将其自研 AI 模型、云计算底层资源，与旗下的内容平台以及 XR 业务分支 Pico 的硬件终端深度串联、协同发力。</p>
+<p>字节跳动最新的模型旨在生成能够响应 Pico 头显用户语音或动作的虚拟世界。该模型致力于将生成空间内容这一计算密集型任务完全转移至云端，从而显著降低 VR 技术的初始使用成本。这一架构能够大幅减少头显设备本身的算力要求，为推出造价更低、配置更简化的硬件终端铺平道路。</p>
+<p>同时，高速的内容生成能力还将推动行业竞争重心发生转移&mdash;&mdash;争夺用户的战线有望从比拼硬件参数规格，转向大型 AI 模型、算力基础设施以及内容分发平台。（来源：IT 之家）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/c8/73/c873c0358cfd96c397831500dc52c3be.png"" /></p>
+<h1>微信内测「AI 社交」功能</h1>
+<p>9 月 7 日消息，据报道，微信正在小范围内测一项名为「小微 AI 社交」的全新功能。用户只需向自己的 AI 助手「小微」下达指令，它就能直接找到好友的「小微」进行对话，代为完成约饭、协调日程等社交沟通。</p>
+<p>与传统的「代发微信消息」不同，「小微 AI 社交」的核心是两个 AI 先聊，用户仅在授权与决策环节介入。具体流程为：用户向自己的「小微」提出诉求，由它前往好友的「小微」沟通；对方授权确认后，两个「小微」先行交流，再将结果带回，其间需要用户拍板时会提醒其确认。</p>
+<p>这种机制尤其适用于社交意愿较低或对人际沟通存在顾虑的用户。日常中诸多细碎事务、初步意向试探、时间协调等环节，均可交由 AI 分身先行处理，有效降低面对面或即时文字沟通带来的心理负担。（来源: TechWeb）</p>
+<h1>消息称三星进入人形机器人赛道，计划在明年 CES 2027 首秀</h1>
+<p>9 月 7 日消息，据韩媒 sedaily 消息，三星电子正加快其人形机器人原型机的研发，计划在明年 1 月于美国拉斯维加斯举办的 CES 2027 上，首次公开其自主研发的人形机器人。</p>
+<p>据悉，三星 DX 部门首席技术官兼总裁尹长贤（Janghyun Yoon）目前正同时挂帅机器人 RX 部门旗下的硬件与人工智能软件两大研发团队，全力推进产品迭代。报道称，在业内由单一核心高管统筹掌管负责机械驱动的硬件团队与负责感知决策的 AI 软件团队，极为罕见。</p>
+<p>三星内部与业界普遍认为，在研发初期便将掌管机器人「AI 软件大脑」与「硬件本体」的技术负责人合二为一，是三星意在全面压缩研发周期的战略布局。究其原因，若继续沿用软硬件分别独立研发再行拼装的传统模式，将根本无法跟上当前人工智能技术的指数级演进速度。</p>
+<p>为加速人形机器人的商业化落地，三星电子已密集布局并锁定了多项核心专利，涵盖人形机器人运动骨架核心的髋关节设计技术、下一代高灵巧度机械手，以及基于 AI 的运动控制技术。（来源：IT 之家）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/02/00/0200ae7d148119a23645b00d2c880f28.png"" /></p>
+<h1>宇树科技新突破！全球首次世界模型实时驱动全自主人形机器人格斗</h1>
+",rss
+"Thu, 10 Sep 2026 14:17:37 +0000",TechCrunch AI,Maven Robotics wants to steal your robot deployment deal,https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/,,,Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.,rss
