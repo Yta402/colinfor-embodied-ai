@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-13",
-  "collected": 65,
-  "deduped": 65,
+  "date": "2026-09-14",
+  "collected": 67,
+  "deduped": 67,
   "tagged": 0,
   "report": {
     "sources": [
@@ -15,15 +15,19 @@
       },
       {
         "name": "量子位",
-        "count": 2
+        "count": 3
       },
       {
         "name": "极客公园",
-        "count": 22
+        "count": 23
       },
       {
         "name": "TechCrunch AI",
-        "count": 5
+        "count": 4
+      },
+      {
+        "name": "The Verge AI",
+        "count": 1
       }
     ],
     "errors": []
