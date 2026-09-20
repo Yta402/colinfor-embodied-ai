@@ -3604,3 +3604,47 @@
 <p style=""text-align: center;""><img height=""608"" src=""https://imgslim.geekpark.net/uploads/image/file/42/eb/42ebc62047c0e170a669c41ef1949086.png"" /></p>
 <p style=""text-align: left;""><span style=""color: #bbbfc4;"">速度对比，3 秒时间 Jev 这边已经腹泻版吐出 Token（左）｜图片来源：TypeSafe</",rss
 "Fri, 18 Sep 2026 20:18:14 +0000",TechCrunch AI,World model companies are keeping a lot of secrets,https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/,,,"Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",rss
+"Sun, 20 Sep 2026 08:36:42 +0800",极客公园,Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与,http://www.geekpark.net/news/370615,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/a5/37/a53798f6b0e1e6993951ea0b91e042e1.png"" /></p>
+<h1>传 Anthropic 计划在 IPO 前夕推出新一代 AI 模型助力资本市场信心</h1>
+<p>据路透社援引多名知情人士消息透露，全球顶尖人工智能初创企业 Anthropic 正考虑在公开首次募股（IPO）之前，正式发布其最新的旗舰级人工智能模型。这一战略举措旨在进一步巩固其在生成式 AI 领域的市场领先地位，同时在关键的资本市场亮相节点前，向潜在投资者展示其强劲的技术迭代能力与商业化前景。</p>
+<p>知情人士指出，作为 OpenAI 的强劲对手以及 Claude 系列大模型的开发商，Anthropic 目前正在对这款新模型进行最后的内部测试与性能调优。尽管具体的发布时间表与模型技术细节仍存在根据市场反馈调整的可能，但公司内部高层倾向于在提交 IPO 申请或启动路演前的关键窗口期将该模型推向市场，以塑造更为有利的估值环境。（来源：cnBeta）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/d0/6f/d06f46221c56ab44c9424dd002dc0b6f.png"" /></p>
+<h1>Meta 个人 AI 助手 Muse 击败 ChatGPT 登顶美国 App Store</h1>
+<p>Meta 推出的个人 AI 代理应用 Muse 正在迅速成为人工智能市场的新焦点。上线仅一周时间，这款产品便登上苹果美国 App Store 免费应用排行榜第一位，超越长期占据领先地位的 ChatGPT，成为当前美国市场下载量最高的免费应用之一。</p>
+<p>这一成绩被视为 Meta「个人超级智能」战略获得市场认可的重要信号。与传统聊天机器人主要负责回答问题不同，Muse 被设计成能够代表用户执行实际任务的人工智能代理。</p>
+<p>根据 Meta 介绍，Muse 不仅能够完成信息查询，还能够帮助用户填写表格、在线购物、预订餐厅、寻找宠物照看服务，并与邮箱、日历、Spotify、Instagram 以及 OpenTable 等服务进行连接。系统会逐步学习用户偏好，在获得授权后代替用户处理各种事务。（来源：cnBeta）</p>
+<p>&nbsp;</p>
+<h1>谷歌 AI 首次「越狱」：Gemini 在测试中入侵三家企业</h1>
+<p>谷歌的 Gemini 模型在一次网络安全能力测试中访问了互联网并入侵了其他公司，这是该公司人工智能系统自主实施此类行为的首个已知案例。</p>
+<p>谷歌周五证实，这些黑客行为发生在 5 月，是 Irregular 公司进行的一次测试的一部分。Irregular 也曾参与 OpenAI、Anthropic 和 Meta 披露的类似事件。</p>
+<p>在其中一起案例中，该模型不断猜测密码，直到获得对一个受保护系统的访问权限。在另外两起案例中，该模型在公共代码库中找到了凭证，从而得以访问受保护的系统。谷歌表示，在每起案例中，模型在确定自己访问的是真实公司的系统后，都终止了入侵。</p>
+<p>谷歌和 Irregular 表示，Irregular 在 7 月底将黑客行为通知了谷歌，当时正值 OpenAI 的智能体入侵 AI 软件公司 Hugging Face 的事件被曝光之后。谷歌直到媒体本周就此询问时才披露这些黑客行为。（来源：环球市场播报）</p>
+<p>&nbsp;</p>
+<h1>AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元</h1>
+<p>9 月 19 日消息，金融时报（FT）近日发布博文，称获得一份演示文稿，显示 OpenAI 公司预计 2026 年至 2030 年累计产生 2,780 亿美元（约合 1.87 万亿元人民币）负自由现金流，此外计划在算力和基础设施上投入约 8,560 亿美元（约合 5.75 万亿元人民币）。</p>
+<p>自由现金流（Free Cash Flow）是企业在支付经营成本、资本支出及必要投资后，可自由用于偿债、分红、回购或继续投资的现金余额。</p>
+<p>自由现金流为负，通常表示企业当期经营与投资活动消耗的现金高于产生的现金，需依赖现有现金、融资或资产处置补充资金。</p>
+<p>根据该演示文稿，OpenAI 公司的支出将远远超过收入，存在较大的资金缺口，在未来 5 年需要通过融资不断「烧",rss
+"Sat, 19 Sep 2026 12:10:23 +0800",极客公园,对拿下一轮投资最有效的沟通，是「思想履约」,http://www.geekpark.net/news/370611,,,"<p>最近有个创业者找我交流的时候，聊到团队接下来还要做进一步的融资，很认真地问了我一个问题：这次做对外传播也是希望能对融资有帮助，你有什么建议？</p>
+<p>我当时听完，先跟他说了两个目睹了好几代创业者后的观察：</p>
+<p>首先，咱要个心理预期：绝大部分情况下，第一笔投资是你最好拿的那笔钱。</p>
+<p>第二，凡是能被公关轻易影响的投资人，大概率都不是对你未来最至关重要的投资人。</p>
+<p>真正愿意笃定你，给你出大钱的机构，以及真正愿意押上青春和自身能力的顶级人才，从来都不是被 PR 搞定的。</p>
+<p><strong>看过那么多创业者的历程后，我发现那些优秀</strong><strong>投资人</strong><strong>要被打动，</strong><strong>底层</strong><strong>其实</strong><strong>有个「A-B-C 连线」的方法论</strong>。然后我就给他讲了当年王兴的故事。</p>
+<p>回到当年千团大战最热的时候，所有对手都在疯狂投站台广告、发补贴、烧钱抢地盘，甚至当时的「领头羊」拉手网都自信到倒排出了上市日期。王兴却说：「团购投广告和烧钱这事算不过账，商业模式跑不通，不能这么花。」</p>
+<p>那时候整个行业包括他公司内部都是一片质疑：你不烧钱，别人一统江湖了，你账上留着钱有什么用？大家都觉得美团在这场竞争中悬了。</p>
+<p>后来王兴甚至为了证明公司不是没钱烧，被逼得发布会上直接亮出了银行流水单&mdash;&mdash;账上确实趴着 7000 万，证明他真不是没钱，是真的不烧。</p>
+<p>结果拉手网倒在上市前三个月，原因很简单，因为算不过账，商业模式跑不通。最后是美团一统了团购的江湖。</p>
+<p>在这个转折点发生之前，王兴说什么，外界都打着大大的问号，但在这个转折点发生之后，似乎全世界都服了&mdash;&mdash;大家发现，全世界都错了，王兴是对的。</p>
+<p>王兴自此拿到了高维度的信任资产。</p>
+<p>所以等美团面临外卖大战时，即便后来阿里进场力挺饿了么，王兴却换了一套和当年截然相反的逻辑：「今天要把钱给到最有效率的人去烧。比如我。」结果投资人认了，给钱让他直面阿里的炮火，结果他就是拿下了市场老大的地位。</p>
+<p>所以为什么那时候投资人信他？这 100% 不是 PR 做得有多好，而是因为他此前积累下的那个「信用」，大家真的信他了。</p>
+<p>讲完王兴的故事，我跟这位创业者拆解了下背后的逻辑：<strong>真正决定你能不能拿到深层信任的，不是单点的公关发声，而是你在时间轴上的「A-B-C 连线」。</strong></p>
+<p><img src=""https://geek.feishu.cn/space/api/box/stream/download/asynccode/?code=YTFhYTdjNjJkZjM0NzljNjAzYWEyZDQzNDQ2NWIzYjFfa2dVa3U5a3VXWVhBajJ3MDhkbWVIbWlGRFY3Q2lDMzdfVG9rZW46RVNuSGJOR2ZIb2o3UGh4UmZuN2NSdDk1bnVjXzE3ODk3OTA4Njc6MTc4OTc5NDQ2N19WNA&amp;add_watermark=true&amp;scene_type=CCM"" /></p>
+<p><strong>A 点（历史决策）：</strong>&nbsp;你在充满不确定性、大家甚至看不懂的时候，下了什么注？为什么这么选？</p>
+<p><strong>B 点（客观结果）：</strong>&nbsp;经过一段时间的验证，你当初「吹过的牛」、算过的账，有没有拿到扎实的兑现？</p>
+<p><strong>C 点（未来判断）：</strong>&nbsp;站在今天，基于前面的逻辑，你下一步要带大家去哪儿？</p>
+<p><strong>没有 A 点的 B 点，</strong><strong>有可能会被看作</strong><strong>侥幸。</strong>&nbsp;你不提前把逻辑和下注讲清楚，就算拿到了结果，别人也会觉得你只是撞上了大运或行情托举。</p>
+<p><strong>没有 B 点的 A 点，叫画饼。</strong>&nbsp;如果只有口号没有兑现，那 PR 往往不是助力，反而是给未来埋下的一颗「雷」。</p>
+<p><strong>只有当 A 点跨越时间、扎扎实实落到了 B 点，这个闭环才叫「思想履约」。</strong></p>
+<p>你判断得对、兑现得好，一次、两次，别人就不用天天替你重算一遍账了。这就好比我们今天用 AI 写代码，为什么用到最后你连生成的代",rss

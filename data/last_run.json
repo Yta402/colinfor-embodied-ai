@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-19",
-  "collected": 63,
-  "deduped": 63,
+  "date": "2026-09-20",
+  "collected": 61,
+  "deduped": 61,
   "tagged": 0,
   "report": {
     "sources": [
@@ -16,10 +16,6 @@
       {
         "name": "InfoQ 机器人",
         "count": 1
-      },
-      {
-        "name": "量子位",
-        "count": 2
       },
       {
         "name": "极客公园",
