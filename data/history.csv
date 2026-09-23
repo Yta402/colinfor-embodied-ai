@@ -3887,3 +3887,53 @@
 <p>此前的 Helix 02 从一个已经完成预训练的视觉语言模型出发，再使用机器人数据学习动作。它虽然可以连续完成洗碗、物流分拣等长时程任务，但训练数据来自机器人最终工作的环境。机器人学会的是在这个厨房里洗碗、在这条产线上搬运；换一个地方，往往还要重新采集数据。</p>
 <p>Helix 2.5 则从随机初始化开始，先在 Figure AI 的人类行为数据集 Index 上完成预训练，再使用任务数据分别适配整理玩具、折叠毛巾和铺床三种行为。</p>
 <p>完成训练后，Figure AI 把机器人运进旧金山湾区 30 套住宅。",rss
+"Wed, 23 Sep 2026 01:47:13 +0000",艾邦机器人,宇树发布Dex5-S灵巧手：单手22自由度 真手1:1尺寸，3.99万元起,https://www.aibangbots.com/a/13160,,,拿取勺子、用剪刀裁纸、抛接柠檬不在话下,rss
+"Wed, 23 Sep 2026 01:44:56 +0000",艾邦机器人,拆解宇树 G1：人形机器人的“关节”里，藏着什么？,https://www.aibangbots.com/a/13149,,,人形机器人热度不减，但真正决定它能不能走稳、能不能干活、还能不能降本的，往往是藏在关节里的那几样,rss
+"Wed, 23 Sep 2026 01:42:26 +0000",艾邦机器人,数据采集手套全系列正式发布 墨现科技亮相IROS 2026,https://www.aibangbots.com/a/13144,,,数据采集手套全系列正式发布｜墨现科技亮相 IROS 2026,rss
+2026-09-22 14:00:04+00:00,IEEE Spectrum Robotics,Barbara Mazzolai Wants to Build a New Field of Robotics,https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai,,,"<p>Throughout her career, roboticist <a href=""https://www.iit.it/people-details/-/people/barbara-mazzolai"" rel=""noopener noreferrer"" target=""_blank"">Barbara Mazzolai</a> has turned to nature for inspiration. Now she wants to ensure the technology she …</p>",rss
+"Wed, 23 Sep 2026 08:39:09 +0800",极客公园,OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布 AI 手机全栈解决方案 | 极客早知道,http://www.geekpark.net/news/370829,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/b7/5d/b75dfe9bbfc5cd557a074a2651c93de7.png"" /></p>
+<h2>OpenAI 发布 GPT-6 Sol 和 Luna 模型，API 价格大降 50%</h2>
+<p>9 月 23 日消息，OpenAI 今日发布 GPT-6 系列模型的最新成员 GPT-6 Sol 和 GPT-6 Luna。</p>
+<p>OpenAI 官方表示，两款模型采用与 GPT-6 Astra 类似的方法进行训练，将 Astra 在专业工作、事实性、编码、计算机使用和对齐等方面最先进的性能带入更快、更经济的模型。</p>
+<p>GPT-6 Sol 和 Luna 模型的 API 价格相比 GPT-5.6 促销价降低 50%。不过 OpenAI 官方也表示，GPT-6 Astra 依然是其整体上最优秀的模型，如果你想要最佳效果和无妥协的体验，还是建议选择 GPT-6 Astra。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/64/53/6453a50961395c9fab0101c003bc1b84.png"" /></p>
+<p>性能方面，在 AutomationBench 的跨应用业务流程测试中，GPT-6 Sol 在 xhigh 强度下表现优于 Claude Opus 5，成本仅为 Opus 5 每任务成本的 9%。在 high 强度下，GPT-6 Luna 比前代提升了 5.4%，且每项任务成本降低了 58%。</p>
+<p>在评估智能体的 Last Exam 测试中，GPT-6 Sol 在 max effort 状态下得分为 56.4%，高于 Claude Opus 5 在评估中的最高分，每任务成本也降低 60%。</p>
+<p>OpenAI 还将 GPT-6 Astra 改进后的沟通风格带到了 Sol 和 Luna。官方认为新模型在技术和编程对话中会更清晰、使用更少的术语、更少奇怪的措辞、更少的低价值细节，以及缩短整体回答，同时不会失去实质内容。</p>
+<p>除了价格降低，OpenAI 还帮助基于 GPT-6 的开发者在应用重复利用的上下文部分节省更多费用。官方改进了 GPT-6 的提示缓存，默认提供更高的缓存命中率，帮助智能体重用更多上下文，实现更快响应。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>云栖大会开幕，吴泳铭提出「思考力商品化」</h2>
+<p>9 月 22 日，2026 杭州云栖大会正式开幕，阿里巴巴集团 CEO 吴泳铭发表开场主旨演讲，抛出「思考力商品化」核心观点，重新定义 AI 时代的经济逻辑。他类比工业革命将动力变成商品，认为当下 AI 正在把思考变成可规模化供给的商品，未来机器产生的思考总量或将达到人类思考总量的 1000 倍以上。</p>
+<p>吴泳铭提出 AI 重塑供需关系：供给端，AI 智能体可以不眠不休完成复杂科研任务，稀缺的顶级思考不再是奢侈品；需求端，智力消耗不再受人口限制，个体能够借助 AI 获得巨大智力杠杆。</p>
+<p>吴泳铭提出机器智能时代三大基石：AI 芯片、AI 模型与 AI 云，三者构成完整的思考力生产、流通、消费链条。平头哥芯片负责算力生产，通义千问 Qwen 模型提升思考质量，阿里云则搭建输送思考力的全球「智能电网」，目标 2032 年数据中心规模超 20GW。</p>
+<p>阿里同步面向 Agent 做全栈优化，从硬件、存储到 MaaS 平台、Agent Studio 全线调优，解决长任务可靠性、算力成本难题。吴泳铭判断，当前 AI 产品仍处在「电灯时代」，原生 AI 应用尚未诞生，阿里正提前布局 AI 基础设施，为未来智能应用搭建底层土壤。（来源：极客公园）</p>
+<p>推荐阅读：<a href=""https://mp.weixin.qq.com/s/BsWPkZ_Ecx9YpRwSIsPnWg"">拆解下阿里的 AI 经济学，与它的下注</a></p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/5b/8c/5b8c09d4e69ec97e780fc9dce38e2988.png"" /></p>
+<h2>曝理想汽车推进芯片子公司融资，投前估值约 150 亿元</h2>
+<p>",rss
+"Tue, 22 Sep 2026 12:01:13 +0800",极客公园,Meta 个人 AI 助手刚火 13 天，Amazon 就拉闸了,http://www.geekpark.net/news/370797,,,"<p>9 月 21 日，一条弹窗开始出现在试图用 Meta Muse 在 Amazon 上购物的用户屏幕上：「未经授权的 AI Agent 继续访问，将违反 Amazon 使用条款。」</p>
+<p>这距离 Muse 正式上线，仅仅过了 13 天。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/a9/32/a932fabc7565362d1d26065480b16a4f.png"" /></p>
+<p>Meta 推出的个人 AI 助手 Muse 最近爆火｜图片来源：Meta</p>
+<p>Meta 在 9 月 8 日发布了 Muse，把它定义为「<strong>全球第一款，为所有人打造的个人 AI Agent</strong>」。和 ChatGPT、Claude 这些聊天机器人不同，Muse 不只是回答问题，它能打开浏览器、登录你的邮箱、填表格、订机票，甚至直接替你下单买东西。</p>
+<p>效果立竿见影，Sensor Tower 的数据显示，Muse 上线 13 天累计下载超过 250 万次，<strong>9 月 18 日登顶美国 App Store 免费榜第一</strong>，把 ChatGPT、Gemini、Claude 全压在身后。</p>
+<p><strong>但显然，面对爆火的个人 AI 助手，传统互联网巨头，并不想惯着它。</strong></p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>「不看广告」的 Agent</strong></p>
+<p>在拒绝 Muse 的信中，Amazon 的声明措辞很客气，逻辑却很硬。Meta 从未提前告知 Muse 会访问 Amazon 的商店；Agent 在浏览时不表明自己的 AI 身份；而且它似乎会捕获并存储用户登录凭证。</p>
+<p>Amazon 把 Muse 类比为外卖平台和在线旅行社：「这些第三方应用在代替用户从其他商家购买商品时，都应当公开透明地运作，并尊重服务提供商是否参与的决定。」</p>
+<p>话说得体面，但真正的痛点藏在财报里。</p>
+<p><strong>Amazon 去年的广告收入超过 680 亿美元。</strong>这笔钱的来源非常具体，用户在搜索栏输入关键词，滑过赞助商品，被推荐算法引导，最终点击购买。整个链条的前提是人在浏览。</p>
+<p>AI Agent 不浏览，它不滚动页面，不看赞助商品，不被推荐算法「种草」。它只做一件事：找到用户要的东西，然后结账。</p>
+<p><strong>在 Agent 发起的交易里，广告失去了存在的意义。</strong></p>
+<p>这不是 Amazon 第一次对 AI 购物 Agent 动手。2025 年 11 月，Amazon 就起诉了 Perplexity，理由是其 Comet 浏览器的 AI Agent 冒充普通用户登录 Amazon 账户代为购物。2026 年 3 月，联邦法官批准了初步禁令，封杀了 Comet 对 Amazon 密码保护区域的访问。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/38/b6/38b6865bf1db8e3b469021324601fe6c.png"" /></p>
+<p><span style=""font-size: 14px;"">AI 并不会「逛街」｜图片来源：techspot</span></p>
+<p>但故事在 8 月出现了转折。</p>
+<p>第九巡回上诉法院撤销了这一禁令，理由很有意思：根据现有证据，是用户在访问 Amazon 的系统，不是 Perplexity。法官的逻辑是，《计算机欺诈和滥用法》本质上是一部反黑客法律，用户授权 Agent 代为操作的场景，不在它的打击范围内。</p>
+<p><strong>法律武器失效后，Amazon 转向了一个更古老也更有效的手段&mdash;&mdash;服务条款。</strong></p>
+<p>从 7 月起，Amazon 悄悄开始了一系列「加固」动作，从确认邮件中删除具体商品名称，让 AI Agent 更难解析购买记录；扩展 robots.txt 文件，屏蔽了 47 个 AI 爬虫。等到 Muse 真正上门，Amazon 只需要亮出一行弹窗，就把门关上了。</p>
+",rss
+"Tue, 22 Sep 2026 14:30:00 +0000",TechCrunch AI,TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage,https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/,,,"Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",rss
+"Tue, 22 Sep 2026 12:23:05 +0000",TechCrunch AI,Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again,https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/,,,The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.,rss
+2026-09-22T12:34:08-04:00,The Verge AI,"Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy,,,"Venture capital firm Andreessen Horowitz (a16z) is creating an ""academy"" positioned as a pipeline for young people to build or join a Silicon Valley startup. The ""Horowitz Andreessen Academy"" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. [&#8230;]",rss
