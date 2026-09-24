@@ -1,0 +1,24 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+"Wed, 23 Sep 2026 09:20:28 +0000",艾邦机器人,机器人关节设计中光电编码器、磁编码器和电感编码器到底有什么区别？,https://www.aibangbots.com/a/13198,,,关节模组的三样核心部件里，减速器决定力矩密度，电机决定功率密度，编码器则几乎单独决定了关节的定位精度上限、速度,rss
+"Wed, 23 Sep 2026 09:12:26 +0000",艾邦机器人,视触觉传感器技术解析：原理、演进与产业前景,https://www.aibangbots.com/a/13180,,,具身全光深度解析 随着人形机器人产业从行走验证阶段进入操作能力建设阶段，触觉感知已成为制约机器人落地应用的核心 [&#8230;],rss
+"Wed, 23 Sep 2026 06:09:32 +0000",艾邦机器人,DeepSkin：从一层皮肤，到身知万物,https://www.aibangbots.com/a/13173,,,DeepSkin是变格科技旗下柔性触觉电子皮肤品牌。,rss
+"Wed, 23 Sep 2026 02:01:27 +0000",艾邦机器人,具身智能数采设备怎么选？硬指标、口径陷阱与主流设备对比,https://www.aibangbots.com/a/13167,,,具身智能数采设备怎么选？,rss
+"Wed, 23 Sep 2026 22:09:09 GMT",InfoQ 机器人,人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷,https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8?utm_source=rss&utm_medium=article,,,"<div align=""right""><a href=""https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8?utm_source=rss&amp;utm_medium=article"">点击查看原文></a></div>",rss
+"Wed, 23 Sep 2026 09:46:57 +0000",量子位,达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”,https://www.qbitai.com/2026/09/496494.html,,,打造算电协同领域“Windows”级操作系统,rss
+"Wed, 23 Sep 2026 08:54:04 +0000",量子位,它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段,https://www.qbitai.com/2026/09/496481.html,,,它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力,rss
+"Wed, 23 Sep 2026 13:55:58 +0800",极客公园,从单卡到千卡互联，平头哥真武 V900 背后的 AI 算力变局,http://www.geekpark.net/news/370864,,,"<p style=""text-align: left;""><span style=""font-weight: bold; color: #000000;"">作者｜Cynthia</span></p>
+<p style=""text-align: left;""><span style=""font-weight: bold; color: #000000;"">编辑｜郑玄</span></p>
+<p style=""text-align: left;"">9 月 22 日的 2026 杭州云栖大会，平头哥少见地被完整推到了主论坛台前。</p>
+<p style=""text-align: left;"">当天上午，吴泳铭完成主旨演讲后，千问大模型、多模态模型负责人依次登场，随后就是平头哥副总裁高慧。她的演讲题目是「Agentic 时代卓越算力基石」。</p>
+<p style=""text-align: left;"">平头哥带来的产品，则从一颗最新得真武 V900 芯片，一直延伸到 ICN Switch 互联芯片、磐脉智能网卡、镇岳 SSD 主控、倚天 CPU 路线图，以及下一步的算、存、网全栈协同的超节点服务器。</p>
+<p style=""text-align: center;""><img height=""416"" src=""https://imgslim.geekpark.net/uploads/image/file/2e/d3/2ed37526247a4cce0e13996239b489ab.png"" /></p>
+<p style=""text-align: left;"">发布「产品全家桶」地背后，是 Agentic 时代的负载变化：算力需求已经从训练为主进一步走向推理增长，应用从单轮请求变成连续的多步任务， <span style=""font-weight: bold;"">硬件的竞争也从一颗芯片的指标扩展到整个计算系统的协同。</span></p>
+<h1 style=""text-align: center;""><span style=""font-weight: bold; font-style: italic; color: #000000;"">01</span></h1>
+<p style=""text-align: center;""><span style=""font-weight: bold;"">真武V900，平头哥最新一代AI训推芯片</span></p>
+<p style=""text-align: left;""><span style=""font-weight: bold;"">这次发布里，平头哥新一代训推一体 AI 芯片真武 V900 仍然是分量最重的产品。</span></p>
+<p style=""text-align: center;""><img height=""416"" src=""https://imgslim.geekpark.net/uploads/image/file/59/0f/590f92eee68e4f62e32aeb360ac7b82d.png"" /></p>
+<p style=""text-align: left;"">这颗芯片搭载 216GB 显存，片间互联带宽达到 1200GB/s，单芯片性能是上一代真武 M890 的 3 倍， <span style=""font-weight: bold;"">是目前中国算力性能最强的 AI 芯片。精度上， </span>该芯片原生支持 FP8 和 FP4，可覆盖高精度训练以及低精度、超低精度推理。</p>
+<p style=""text-align: left;"">按照平头哥公布的计划，V900 将在 2027 年第一季度进入量产销售。此后，2028 年 Q3，真武 J900 也将正式推出。</p>
+<p style=""text-align: left;"">而此时，离上一代真武发布，其实只过去了几个月。2026 年 5 月，平头哥 M890 首次亮相。这颗芯片拥有 144GB 显存和 800GB/s 片间互联带宽，性能达到上一代 810E 的 3 倍，并支持从 FP32 到 FP4 的多种数据精度。到了 V900，性能再次提升 3 倍，显存从 144GB 增加到 216GB，互联带宽也从 800GB/s 提高到 1200GB/s。</p>
+<p style=""text-align: left;"">再向前看一代，2024 年的真武 810E 也已经从早期的单一推理芯片走向训推一体，采用自研并行计算架构和互联技术，并配套 SAIL 软件栈。</p>
+<p style=""text-align: left;""><span style=""font-weight: bold;"">8",rss
