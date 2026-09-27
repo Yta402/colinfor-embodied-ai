@@ -4079,3 +4079,27 @@
 <p>从界面来看，它已经是一套相当完整的 G",rss
 "Fri, 25 Sep 2026 18:33:59 +0000",TechCrunch AI,"Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/,,,"The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",rss
 "Fri, 25 Sep 2026 15:40:03 +0000",TechCrunch AI,Anthropic’s founders seek voting control ahead of IPO,https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/,,,Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.,rss
+"Sat, 26 Sep 2026 11:49:43 +0000",量子位,索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准,https://www.qbitai.com/2026/09/498478.html,,,“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。,rss
+"Sun, 27 Sep 2026 08:38:29 +0800",极客公园,接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲,http://www.geekpark.net/news/371039,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/ca/00/ca00605e5fcbbd3ff660b0ac8833e619.png"" /></p>
+<h2>接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练</h2>
+<p>9 月 27 日消息，随着有关 OpenAI 模型突破限制、攻击网站以及整体行为失控的报告不断增加，该公司决定暂停训练旗下能力最强的模型。</p>
+<p>这一决定是在一款处于沙盒环境中测试的模型利用漏洞获得互联网访问权限后作出的。该事件发生于 9 月 20 日。截至当地时间 9 月 25 日星期六晚间，OpenAI「所有涉及工具使用的训练、评估和推理工作」仍处于暂停状态。</p>
+<p>此外，OpenAI 周五披露，其智能体曾不当将 ChatGPT 用户的 53 张图片上传至图片托管网站。该公司尚未说明这些图片究竟是 AI 生成的图像、用户拍摄的照片，还是包含可识别身份的人物。</p>
+<p>OpenAI 同日还透露，其模型曾尝试攻击美国教育部网站，并从美国人口普查局（Census Bureau）和美国证券交易委员会（SEC）获取数据。</p>
+<p>这些披露属于 OpenAI 正在进行的一项模型行为审查。此前发生 Hugging Face 遭攻击事件后，OpenAI 开始深入检查相关记录，并发现越来越多「意料之外或令人担忧的行为」。</p>
+<p>这些事件不仅表明，随着 AI 智能体能力不断增强，对其进行控制正变得越来越困难，也凸显出追踪其行为所面临的挑战。这也导致越来越多研究人员、业内人士，甚至一些公司 CEO 呼吁放缓 AI 技术发展的速度。（来源：IT 之家）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/f3/e0/f3e0d5f6c976c5a438320d8b32cff946.png"" /></p>
+<h2>消息称 Anthropic 谈判租赁最高 1GW 算力，预计相关投资至少 400 亿美元</h2>
+<p>据 The Information 报道，Anthropic 计划从一家由阿波罗全球管理公司控股的数据中心开发商处，租赁最高 1 吉瓦（Gigawatt，GW）算力，目前正处于早期谈判阶段。</p>
+<p>据知情人士透露，Anthropic 计划直接作为承租方，入驻由 Stream Data Centers（一家拥有 27 年历史、基础设施遍布全美的公司）开发的园区，并在这些数据中心内全部署由博通和谷歌联合设计的 TPU。</p>
+<p>数据中心开发商指出，无论采取哪种方案，建设 1 吉瓦的算力容量都需要至少 400 亿美元（IT 之家注：现汇率约合 2,689.86 亿元人民币）的资本支出。</p>
+<p>目前，Anthropic 绝大多数的算力获取，依然依赖于向亚马逊云科技 AWS、谷歌以及 SpaceX 等云服务商租赁芯片服务器。</p>
+<p>除了直接租赁数据中心基础设施外，Anthropic 还开启了向芯片商直接租赁算力芯片的模式。今年早些时候，该公司公布了与 AMD 的合作协议，锁定规模达 2 吉瓦的芯片供应；同时，它还达成了一项价值 350 亿美元（现汇率约合 2,353.62 亿元人民币）的协议，通过阿波罗与黑石联合设立的特殊目的实体租赁 TPU。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>苹果侵犯专利一波三折：被判赔付 57 亿美元</h2>
+<p>据财联社消息，美国圣地亚哥联邦陪审团近日裁定，苹果公司因侵犯 Taction 科技公司的振动技术相关专利，需支付超 57 亿美元的赔偿，该专利技术被应用于多款 iPhone 和 Apple Watch 产品中。</p>
+<p>陪审团认定苹果侵犯了 Taction 的两项触觉反馈专利，但裁定该侵权行为不构成蓄意侵权。Taction 于 2021 年就该专利对苹果提起诉讼，涉案专利描述的是「可通过触觉感知的低频振动触觉换能器」技术。</p>
+<p>最新消息显示，苹果公司在声明中表示，强烈反对「今天的裁决及所判定的赔偿金额，这些完全缺乏事实依据」。「苹果并未使用 Taction 的技术，我们将提起上诉，」公司在声明中称。（来源：快科技）</p>
+<p>&nbsp;</p>
+<h2>OpenAI 和 Anthropic 正在调查数万起 AI 相关安全事件</h2>
+<p>9 月 27 日消息，据 Axios 报道，OpenAI、A",rss
