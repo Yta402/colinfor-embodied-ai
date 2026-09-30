@@ -1,0 +1,234 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+"Wed, 30 Sep 2026 02:05:58 +0000",艾邦机器人,半年出货 2.5 万台，同比增长 432.1%：全球人形机器人商业化探索持续升温,https://www.aibangbots.com/a/13586,,,IDC预计，2030年全球人形机器人出货量将超过75万台，市场将进入规模化应用加速发展阶段。,rss
+"Tue, 29 Sep 2026 10:56:33 +0000",量子位,正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展,https://www.qbitai.com/2026/09/499239.html,,,推动公司具身模型、本体、软件等全栈能力进入更多真实场景,rss
+"Tue, 29 Sep 2026 07:10:59 +0000",量子位,成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元,https://www.qbitai.com/2026/09/499135.html,,,诺因从Demo走向家庭,rss
+"Wed, 30 Sep 2026 08:25:27 +0800",极客公园,OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道,http://www.geekpark.net/news/372005,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/e8/82/e8828e7dd563fd5fd57fe2d942f62982.png"" /></p>
+<h2>OpenAI 开发者大会推出智能体 dots，重构会员定价，意图打造 AI 超级入口</h2>
+<p>北京时间 9 月 30 日凌晨，OpenAI 举办其宣称规模最大的一届开发者大会，一次性发布 25 项更新，覆盖新模型、API、智能体、插件生态与企业软件市场。大会现场，Sam Altman 公布 ChatGPT Pro 会员调整方案时台下一片沉寂，套餐调价成为本次发布最受争议的内容。</p>
+<p>会员体系重新划分档位：原有 200 美元 / 月的 Pro 200 售价不变，但新订阅用户额度减半；新增 500 美元 / 月的 Pro 500 套餐，额度为 Plus 的 25 倍，独家开放 Astra Ultrafast 高速模式。OpenAI 的计价逻辑发生转变，不再简单按 token 数量计费，转而参考「雇佣 AI 员工」模式，按交付工作量与运行速度单独收费，高速模式消耗额度更快。尽管 GPT-6.1 Sol 等新模型 API 价格大幅下调，但会员套餐内可用额度同步缩减，引发开发者不满。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/f9/1c/f91c93f9e55335c7ffe34bbf81c910b8.jpg"" /></p>
+<p>本次重头戏是智能体 dots，由 GPT-6 Astra 驱动，自带云端运行环境，可连接数千款应用，能够持续自主完成任务，Pro 及企业套餐用户可使用。OpenAI 同步推进平台化改造，新增插件生态、ChatGPT 账号登录、跨应用额度通用能力，对标微信小程序与账号体系，试图将 ChatGPT 打造为人与智能体协作的统一入口。同时上线团队资料空间、动态文档、新版 Codex 云端开发环境，面向企业推出软件市场，企业额度可直接采购第三方商业软件。（来源：极客公园）</p>
+<p>相关报道：<a href=""https://www.geekpark.net/news/372003"">除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」 | 极客公园</a></p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/cc/1f/cc1f363c9a5e34c800d1fcf3037f3fa9.png"" /></p>
+<h2>DeepSeek Harness 桌面端预览版 v0.2 发布，支持插件安装与自动化任务</h2>
+<p>9 月 29 日消息，DeepSeek Harness v0.2 预览版正式发布，并提供开箱即用的 macOS 和 Windows 桌面端安装包，已上线 DeepSeek 官网。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/cb/c9/cbc9fb1b8d936d80df8141ec9bfd0d09.jpg"" /></p>
+<p>新版本预置了面向日常办公和开发的常用功能，让常用能力开箱即用。同时，新增插件安装与管理页面，并提供更多灵活配置选项，方便按需扩展功能，打造更适合自己的智能产品。DeepSeek Harness 尚在起步阶段，功能与体验仍有待细致打磨。</p>
+<p>本次更新优化了文件展示、内容预览和代码变更展示体验，完善了自动化任务的设置与管理，并提供多种工作过程展示方式，方便你查看任务进展、了解执行步骤和排查问题。</p>
+<p>用户可以提供文档、表格或 PDF 文件，让 DeepSeek Harness 整理资料、分析数据、生成图表或制作演示文稿，也可以让它修改项目、运行代码，协助完成开发任务。</p>
+<p>接下来，DeepSeek Harness 团队将持续改善从上手到完成各类任务的用户体验，包括：改善沙箱功能与安全性、完善智能体团队功能的效果与易用性、加入个性化的长期记忆、实现浏览器与其它 GUI 软件的自动化操作、支持远程与移动端使用、探索会话分享与多人协作。（来源：IT 之家）</p>
+<h1>&nbsp;</h1>
+<h2>报道称 OpenAI 年化经",rss
+"Tue, 29 Sep 2026 19:21:44 +0800",极客公园,AMD 82 亿美元收购 World Labs，买的不只是世界模型,http://www.geekpark.net/news/372000,,,"<p>9 月 3 日，英伟达宣布以约 130 亿美元收购 Hugging Face。25 天后，AMD 宣布以约 82 亿美元收购李飞飞创办的 World Labs。</p>
+<p>两笔交易放在一起看，更觉得有意思。CNBC 最新的报道提到，Hugging Face 在被英伟达拿下之前，AMD 和 Salesforce 都曾表达过收购兴趣。</p>
+<p><strong>没抢到 AI 世界里最大的模型「集散地」，AMD 转身买下了一支造模型的顶级团队。</strong></p>
+<p><strong>根据 AMD 的公告，这是一笔全股票交易</strong>，预计在 2026 年底前完成交割，仍需通过监管审批。交割之后，李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO 苏姿丰汇报。</p>
+<p>这也是 AMD 历史上第二大收购，仅次于 2022 年约 500 亿美元拿下的赛灵思。</p>
+<p>除了科技圈最有分量的两位华裔女性联手外，很多人的第一反应是&mdash;&mdash;AMD 要押注世界模型了，但这个判断只对了一半。</p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>「不做模型生意」的模型收购</strong></p>
+<p>作为一家 AI 基建公司，AMD 从来不靠卖模型赚钱，它卖的是 CPU、GPU 和越来越完整的数据中心系统。</p>
+<p>这笔交易真正的逻辑，藏在 AMD 自己的表述里。</p>
+<p>公告写得很直白，随着 AI 扩展到推理、机器人、仿真和物理 AI，算力基础设施面对的需求越来越多样，<strong>World Labs 的模型经验，将帮助 AMD 更深入地理解工作负载如何演变，进而塑造未来的技术路线图</strong>。</p>
+<p>AMD CEO 苏姿丰在接受彭博采访时说得更简单，「你对端到端理解得越深，造出来的系统就越好」。</p>
+<p>一位分析师的评价很到位，「这是一笔买人才和模型洞察的交易，不是买收入。」</p>
+<p><strong>换句话说，AMD 花 82 亿美元买的不是一个产品，而是一扇能提前几年看到未来算力需求的窗户。</strong></p>
+<p>芯片的设计周期以年计，今天定下的架构，要两三年后才会在数据中心里跑起来。如果等模型公司把新需求摆到面前再去适配，芯片公司永远慢半拍。把一支前沿模型团队放进自己家里，等于在研发链条的最上游装了一个传感器。</p>
+<p>两位传奇女性的联手，也不是临时起意。</p>
+<p>World Labs 与 AMD 从去年开始就在 AMD GPU 上合作做模型训练和推理优化，李飞飞还登上了今年 1 月 AMD 的 CES 主题演讲台。她在宣布消息时称苏姿丰是「很好的朋友」，也是 World Labs 的早期投资人。</p>
+<h1 style=""text-align: center;""><strong><em>02</em></strong></h1>
+<p style=""text-align: center;""><strong>追赶英伟达</strong></p>
+<p>AMD 之所以需要这扇窗户，是因为对手早就开了好几扇。</p>
+<p>英伟达的护城河从来不只是 GPU。CUDA 生态、自研的 Cosmos 系列开放权重世界模型、与 Wayve 等自动驾驶世界模型公司的深度合作，构成了芯片之外的完整闭环。过去一年里，<strong>英伟达又先后花 200 亿美元买下 Groq 的资产、130 亿美元收购 Hugging Face，一步步从「卖铲子的人」变成「整座矿山的运营者」</strong>。</p>
+<p>AMD 这边，此前向公众开放的只有文本和视频模型，在物理 AI 这个英伟达力推的新战场上，几乎没有自己的位置。</p>
+<p>这并不是说 AMD 眼下过得不好，恰恰相反。9 月 21 日，<strong>AMD 市值首次突破 1 万亿美元</strong>，今年以来股价累计上涨约 185%。第二季度数据中心业务收入 67 亿美元，同比增长 107%。Anthropic 计划从 2027 年上半年开始部署最多 2 吉瓦的 AMD MI450 GPU，AMD 也承诺向 Anthropic 投资最多 50 亿美元。</p>
+<p>但差距同样清楚。英伟达市值仍是 AMD 的五倍多，IDC 的估算显示，英伟达占据 AI 加速器市场约 81% 的份额，AMD 约 13%。<strong>AMD 已经证明了自己能卖出芯片，接下来要证明的，是自己也能定义芯片该长什",rss
+"Tue, 29 Sep 2026 17:12:00 +0800",极客公园,Anthropic 招股书里，最耐人寻味的 7 个细节,http://www.geekpark.net/news/371994,,,"<div>
+<div class=""ace-line ace-line old-record-id-MG1OdK5KoovLyBx33bmcZeumnpb"">作者｜Techno 之王</div>
+<div class=""ace-line ace-line old-record-id-LSRZdGUOtoJ6qkxtYOQcYm2Wnab"">编辑｜靖宇</div>
+<div class=""ace-line ace-line old-record-id-LSRZdGUOtoJ6qkxtYOQcYm2Wnab"">&nbsp;</div>
+</div>
+<p>当地时间 9 月 28 日，外媒披露了一份 Anthropic 的 IPO 招股书。</p>
+<p>先要说清楚这份文件的性质。它并不是 Anthropic 主动公开的版本。今年 6 月，Anthropic 以公益公司身份向美国证交会秘密递交了 S-1 注册声明草案，为普通股首次公开发行做准备。按照规则，公司要在向机构投资者路演前至少 15 天公开递交修订版 S-1，完整财务数据到那时才会被外界看到。路透此次看到的是一份尚未公开的版本，<strong>Anthropic 对此拒绝置评</strong>。</p>
+<p>这意味着其中的数字仍可能随证交会的审阅意见调整，不少细节也只能通过路透的转述窥见一角。</p>
+<p>但如果这份文件大体反映了 Anthropic 最终交给公开市场的样子，它的分量很难被高估。这次上市的估值目标，是 Anthropic 自己 5 月估算的 9650 亿美元的两倍以上，也就是超过 2 万亿美元。</p>
+<p><strong>这是 ChatGPT 引爆这轮 AI 浪潮近四年来，第一家把完整账本摊给公众投资人的前沿大模型实验室。</strong></p>
+<p>在此之前，这场 AI 竞赛的资金一直由风投、主权财富基金和科技巨头承担，外界只能从零散的年化收入和融资估值里拼凑这些公司的经营状况。现在，账本第一次有了审计口径。</p>
+<p>极客公园从招股书中，挑出了 7 个最值得细看的地方。</p>
+<h1>被误读的 420 亿美元亏损</h1>
+<p>招股书里最先被传播的数字，是 2025 年约 420 亿美元的净亏损。</p>
+<p>这个数字很容易被读成「一年烧掉 420 亿美元」，实际并非如此。其中约 340 亿美元是一笔会计费用，反映的是那些未来可能转换成 Anthropic 股票的融资工具估值上升，而不是公司经营业务花掉的钱。</p>
+<p>这就产生了一个反直觉的结果。<strong>Anthropic 越值钱，它在账面上「亏」得就越多</strong>。2025 年恰好是它估值暴涨的一年，这笔费用也被同步放大。</p>
+<p>真正反映经营状况的是另一组数字。收入从 3.86 亿美元增长到 45.9 亿美元，增幅 1088%；经营亏损则从 29.8 亿美元扩大到 80.6 亿美元。</p>
+<p>收入涨了约 12 倍，经营亏损扩大不到 3 倍，规模效应确实在出现。但一年 80 亿美元的经营亏损，放在任何一家准备上市的公司身上，都是需要反复解释的数字。</p>
+<h1>650 亿美元年化收入的坑</h1>
+<p>招股书的消息传开后，美国散户论坛 wallstreetbets 上的最高赞评论只有一句话，大意是「<strong>2 万亿估值，配 40 亿收入？</strong>」</p>
+<p>这个质疑直观，但拿错了分母。</p>
+<p>招股书的主体覆盖 2025 财年，截至去年 12 月 31 日，而 Anthropic 真正的爆发发生在 2026 年。据报道，它的年化收入在 2025 年底约为 90 亿美元，今年 5 月约 470 亿美元，到 7 月底已超过 650 亿美元。</p>
+<p><strong>招股书里的 45.9 亿美元，是一家公司在「起飞前」的最后一张快照</strong>。资本市场给出的 2 万亿美元估值，押注的是 2026 年之后的曲线，而不是 2025 年的全年成绩。</p>
+<p>不过，年化收入本身需要打折看。它通常用某一个月的收入乘以 12 推算，天然会放大短期波动。招股书自己也给出了两处值得警惕的提示。去年近四分之一的收入来自两个客户；公司还在风险因素中承认，许多最大客户并没有签订长期合同，可能削减甚至停止支出。</p>
+<p>路透没有披露这两家客户的名字，这会是公开版 S-1 出来后最值得第一时间核对的信息。<strong>Anthropic 的增长曲线足够陡峭，却缺乏合同层面的锁定</strong>，这是理解它估值的关键前提。</p>
+<h1>最大的股东，最大的房东</h1>
+<p>2025 年，Anthropic 在算",rss
+"Tue, 29 Sep 2026 13:27:55 +0800",极客公园,Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶,http://www.geekpark.net/news/371493,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/a1/93/a193885ec13c352393ee39cbc8515dc0.png"" /></p>
+<p>头图来源：Manus</p>
+<h1>&nbsp;</h1>
+<p>突然地，Manus 在官网和社交平台上公布了 Manus 2.0 版本的更新。</p>
+<p>这并非一次简单的产品迭代，更像是<strong>Manus 团队尝试将当下所有最热门的 AI 场景和功能，融合到一个「AI 全家桶中」</strong>。</p>
+<p>此次升级中，团队打造的底层 Cascade Agent 框架，能将任务 Token 消耗减少 23.2%，任务完成时间缩短 28.2%，运行成本降低 32%。同时，Manus 现在也提供「云电脑」的选项供用户选择。</p>
+<p>向上，从视频编辑、游戏开发、远程控制和 AI Studio，Manus 为所有用户常用的场景，提供了相关产品。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/7f/7d/7f7d27225d86ff5879ab54913c6afff1.png"" /></p>
+<p>Manus 正式推出个人助手应用 Cue｜图片来源：Manus</p>
+<p>最重要的，<strong>这次 Manus 还推出了一款个人 Agent&mdash;&mdash;CUE</strong>。这款全新应用支持手机和桌面端，和 Manus 共享同样的基础设施。在个人 AI 这块，Manus 正式出击。</p>
+<p>这是 Manus 在蛰伏许久后的第一次露面，「全家桶」式的升级，代表那个用产品曾经惊艳所有人的团队，并没被时代落下。</p>
+<p>另外，在官方公众号中，Manus 表示「正在组建团队开发面向国内市场的产品，与国产模型厂商及生态伙伴的合作也在稳步进行，后续将分享更多进展。」</p>
+<h1>全场景、全家桶</h1>
+<p>按 Manus 自己的划分，2.0 的更新分成三大类：</p>
+<p><strong>新的 Agent 框架和运行环境</strong><strong>；</strong></p>
+<p><strong>由桌面端升级的<strong><em><em>Manus Studio</em></em></strong>；</strong></p>
+<p><strong>以及一款独立的新应用 Cue</strong>。</p>
+<p>运行环境上 Manus 2.0 换成了自研 Agent 框架的最新一代 Cascade，它的思路是让项目在开头尽量轻，等活儿真的需要了，再把相应的专业能力接进来；同一个项目里的简报、网页、视频和自动化流程，彼此关联。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/a1/cb/a1cb7eec7046c2216f3c7f270fd0391d.png"" /></p>
+<p>Manus 2.0 在从底层上变得更「经济」｜图片来源：Manus</p>
+<p>多人联机的游戏需要一台用户关机后仍然在线的服务器，自动化流程需要一个全天候运转的地方，这些都超出了一台个人电脑能扛的范围。现在用户可以直接向 Manus 购买云电脑，给这类项目一个专属的运行环境。</p>
+<p>「云主机」这个由 Manus 兴起、时下大火的概念，也被 2.0 更新包含在内｜图片来源：Manus</p>
+<p>此外，原来的定时任务也升级成了自动化。以前 Manus 只能在设好的时间点开工；现在，已连接服务里发生的事也能触发任务，收到一封新邮件、广告数据出现波动、日历上多了一个事件、Slack 来了一条消息，或者某个 Notion 页面有了更新，都算。</p>
+<p>Manus 2.0 的自动化｜图片来源：Manus</p>
+<p>用户只要用一句话交代盯着什么、接下来做什么，Manus 会自己搭好整条工作流并跑起来。这等于给 Manus 加了一种工作方式：不用人叫，自己盯着。</p>
+<p>至于 Manus Studio。官方把它定义为人和 AI 共用的工作空间，口号是「从完成任务，到做出好作品」。</p>
+<p>Studio 同样按需加载。Manus 的解释是，每类工作都有各自的专业工具，要是每个任务都把全部能力带上，同样的活只会又慢又贵，",rss
+"Tue, 29 Sep 2026 08:07:40 +0800",极客公园,AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道,http://www.geekpark.net/news/371359,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/2d/7b/2d7b304b769fdef50ee0b4479c2d1d34.png"" /></p>
+<h2>Manus 发布 2.0，新增云电脑、远程控制及个人 AI 助手 Cue</h2>
+<p>9 月 28 日，<a href=""https://mp.weixin.qq.com/s/KK20dGFNgEnhGsVjHHI18w"">Manus 发布 2.0 版本</a>，升级自研 Cascade Agent 框架，并推出云电脑、视频编辑、游戏开发及个人 AI 助手 Cue。据官方数据，新框架可使任务 Token 消耗减少 23.2%、完成时间缩短 28.2%、运行成本降低 32%。</p>
+<p>升级后的 Manus Studio 支持文档、表格、网站和视频等内容创作，用户可在视频时间线上手动修改素材，再交由 AI 继续编辑。新增远程控制功能允许用户通过手机指挥已授权的电脑，查找文件或操作应用；自动化任务也可由新邮件、日历变更等事件触发，云电脑则为持续运行的项目提供环境。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/ab/4c/ab4c40e573bb9b48b1a8f7c7e1cddf15.png"" /></p>
+<p>独立应用 Cue 支持手机和桌面端，每个 AI 助手可拥有独立邮箱、电话号码、钱包和电脑，在用户设定的预算内付款、代接电话，也可与其他助手协作。目前 Cue 处于抢先体验阶段，凭邀请码免费使用。</p>
+<p>Manus 还表示，正在组建团队开发面向国内市场的产品，并与国产模型厂商及生态伙伴推进合作。（来源：极客公园）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/1d/81/1d8142a4810a7a36aaeb0f81f6eb16d6.png"" /></p>
+<header>
+<h2>AMD 斥资 82 亿美元收购 World Labs，「AI 教母」李飞飞出任执行副总裁兼首席科学家</h2>
+<p>9 月 29 日，AMD 宣布同意以全股票交易收购旧金山初创公司 World Labs，交易价值约 82 亿美元（现汇率约合 551 亿元人民币）。</p>
+<p>World Labs 由李飞飞等人于 2024 年联合创办，主要开发「世界模型」，让 AI 根据文本、图像和视频生成或重建能够交互的 3D 环境。未来，这项技术可以用于机器人训练、工厂模拟和科学研究。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/ba/2a/ba2a77e1af10b698f11c1a23f15e5b21.jpg"" /></p>
+<p>按照收购协议，李飞飞将加入 AMD，出任执行副总裁兼首席科学家，并向苏姿丰汇报。</p>
+<p>有「AI 教母」之称的李飞飞因创建大型标注图像数据库 ImageNet 而广为人知。ImageNet 曾帮助证明，更大的数据规模能够显著提升计算机视觉能力。李飞飞后来担任谷歌云 AI 和机器学习首席科学家，并成为斯坦福大学「以人为本 AI 研究院」创始联席主任。</p>
+<p>本月早些时候，World Labs 推出新 AI 模型 Atlas，只需少量 2D 图像，就能预测同一场景换一个摄像机角度后呈现的画面。根据 World Labs 介绍，这种工作方式可比作大语言模型预测一句话中的下一个词。</p>
+<p>AMD CEO 苏姿丰在新闻稿中称，收购 World Labs 能够让 AMD 更深入地了解尖端 AI 模型的演进方向，从而开发运行这些模型所需的芯片和计算系统。（来源：IT 之家）</p>
+<h2>&nbsp;</h2>
+<h2>OpenAI 高管称研发资源转向 GPT-7 等后续模型，消息称 GPT-6.1 Astra 因安全风险取消发布</h2>
+<p>9 月 28 日，据 The Decoder 报道，OpenAI 应用研究主管 Boris Power 在 Fellows Forum 2026 上表示，公司已将 80% 至 90% 的研发资源投入 GPT-7、GPT-8 及后续模型。他认为，同代模",rss
+"Mon, 28 Sep 2026 22:54:50 +0800",极客公园,中国智能汽车的后台，越来越像阿里云的主场,http://www.geekpark.net/news/371357,,,"<p>中国智能汽车产业，正在经历一场没有硝烟、却极为深刻的范式迭代。</p>
+<p>在 2026 云栖大会汽车行业峰会上，我们看到了智能汽车竞争的主线：智能座舱正全面进入 Agent 时代，车不再是执行指令的机器，而是能理解你的意图、主动帮你把事情办成的智能体；智能驾驶的竞争，也早已从算法层下沉到工程层。数据产线的效率、训练集群的稳定性、模型迭代的周期，这些工程层的东西，正在决定胜负。</p>
+<p>如果切换一下视角，会发现另一条更隐蔽的竞争主线正在成形：<strong>谁能成为中国智能汽车产业的算力与 AI 底座？</strong></p>
+<p>数据给了一个相当清晰的答案。根据沙利文联合头豹近日发布的《2026 年中国汽车 AI 云市场追踪报告（26H1）》，<strong>阿里云在中国汽车公有云市场份额达到 45.2%，在智能驾驶、智能座舱、工业提效等六项市场及细分赛道均拿下第一。</strong></p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/f0/6d/f06d082ab3aeb8376bbd611778537509.jpeg"" /></p>
+<p>阿里云智能集团公共云事业部 AI 汽车行业总经理李强对这件事的总结，只有五个字：<strong>芯、云、模一体</strong>。从智能座舱到自动驾驶，从端侧小模型到云端万亿参数推理集群，再到车企内部组织效能的提升，阿里云正在构建一套覆盖中国智能汽车全产业链的 AI 基础设施。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/5d/78/5d78915d15edff4bd45559787bb3550a.png"" /></p>
+<h2><strong>智能座舱：把「能聊天」变成「能办事」</strong></h2>
+<p>前两年，大模型上车是整个行业最性感的叙事。「能聊天、能提供情绪价值」，出现在很多车企发布会 PPT 上。</p>
+<p>两年过去了，用户并没有被打动。阿里云智能集团公共云事业部 AI 汽车行业解决方案总经理霍健提到，他近期在与多家车企座舱团队交流时观察到，闲聊并不是用户使用座舱的核心高频场景。相比长时间对话，用户更关心系统能否在合适的时机，高效完成车控、导航和服务任务。</p>
+<p>这说明用户不需要一个只会聊天的车，用户需要一个能把事情办成的车。座舱的本质是一个「任务型」的存在。就像你雇了一个助理，你首先需要确认他能把事情办好，才会逐渐信任他、依赖他，最终才可能把他当成一个可以倾诉的对象。</p>
+<p>所以，座舱 AI 今年最大的变化，是从聊天到办事。这不是在旧系统上打补丁，是推倒重来。旧的座舱系统建立在规则引擎和多模块拼接之上，每增加一个新功能，就意味着新一轮的工程堆砌。</p>
+<p>这套逻辑在大模型时代就是一堵墙。新范式的核心是 Harness（工程治理框架）+ 大模型，让模型本身承担意图理解、任务分解和工具调用的全部职责。</p>
+<p>阿里云的定位很清醒，它没有去做完整的座舱产品；而是提供云、模型等全栈 AI 能力，以及阿里生态服务 Agent。原因很直接&mdash;&mdash;座舱是极度定制化的产品，车企最了解自己的用户和品牌调性，阿里云做完整方案，反而是在错误的地方发力。</p>
+<p>所以，千问座舱 Agent 的核心能力只有两块：一个是闲聊检索。这部分能力来自千问 C 端 APP 的积累，是阿里在消费者侧多年沉淀能力的车端化。</p>
+<p>另一个是阿里集团生态 Agent。这才是真正的杀手锏。过去，一家车企如果想在座舱里集成淘宝闪购、高德、飞猪，需要分别与三个不同的业务团队谈判，接口标准不统一，维护成本极高。</p>
+<p>千问座舱 Agent 做的事，是把这些能力原子化封装成统一的 Agent 接口。车企一次接入，就能调用整个阿里集团的生态能力。</p>
+<p>举个例子，下班开车回家，不想做饭，在行驶途中对座舱说「帮我点个外卖，我到家的时候外卖也到」。这个指令背后，涉及位置判断、预计到达时间计算、餐厅筛选、下单支付、配送时间协调等多个环节。过去，这需要车企分别接入多个服务商的 API，工程复杂度极高；现在，通过千问座舱 Agent，一个 A2A 调用即可完成全链路。</p>
+<p>但座舱 Agent 只是用户能看见的部分，真正的故事发生在幕后。</p>
+<p>目前大多数车企，已经在基于开源的千问系列模型，自研自己的座舱产品体系。结合具体任务在云端与车端部",rss
+"Mon, 28 Sep 2026 20:40:54 +0800",极客公园,蔚来换电，终于等来了「别人家的车」,http://www.geekpark.net/news/371233,,,"<p style=""text-align: left;"">过去一年，蔚来似乎有意在新车发布时不再过分强调「换电」的重要性。以笔者自己的体感而言，无论是新车发布会，还是线下门店里用户的讨论度，换电都不再是「最重要的那一个话题点」。</p>
+<p style=""text-align: left;"">但换电退到了幕后，却没有影响蔚来的新车销量：第三代 ES8 上市 12 个月销量突破 15 万台，ES9 上市 4 个月累计交付突破 3 万台。</p>
+<p style=""text-align: left;"">现在，换电这件事又有了新进展。</p>
+<p style=""text-align: left;"">9 月 28 日，在中秋假期后的第一个工作日，蔚来的能源业务迎来了一个重要的合作伙伴。吉利控股将以旗下易易互联 100% 的股权，加上 6.4 亿元现金，入股蔚来能源。交易完成后，吉利控股持有蔚来能源 30% 的股权；易易互联的营运车辆换电业务并入蔚来能源；双方共建统一的 C 端换电技术和标准，吉利将开发面向 C 端的换电车型。另外在充电领域，蔚来也反向入股了吉利旗下的浩瀚能源，持股 10%。</p>
+<p style=""text-align: left;"">「换电」正在从蔚来过去卖车的「卖点」，走向一门独立的生意。</p>
+<p>&nbsp;</p>
+<h2 style=""text-align: left;""><span style=""font-weight: bold;"">比钱更重要的，是「规模」</span></h2>
+<p style=""text-align: left;"">6.4 亿元，对蔚来并不算一笔「大钱」。</p>
+<p style=""text-align: left;"">截至今年二季度末，蔚来集团的现金储备是 567 亿元，这笔钱大约只占 1%。而且，蔚来已经连续几个季度实现了正向经营现金流。蔚来现阶段最缺的，显然不是现金。</p>
+<p style=""text-align: left;"">所以，这并不是一次单纯的「找钱」和「融资」。</p>
+<p style=""text-align: center;""><img height=""854"" src=""https://imgslim.geekpark.net/uploads/image/file/6b/28/6b286d56246945d5e2802bb16ed8b9df.jpeg"" /></p>
+<p style=""text-align: left;"">合作发布会签约现场 | 图片来源：蔚来</p>
+<p style=""text-align: left;"">本质上，换电是一门非常讲究规模效应的生意。换电站建好的那一刻，土地、设备、电池、运维等成本就基本确定了。运营能否赚钱，主要取决于每天的服务量。</p>
+<p style=""text-align: left;"">蔚来创始人李斌很喜欢用「云服务」来类比换电这门在汽车领域相对比较新的生意。云服务的逻辑是：前期必须投入重资产部署服务器，后期租户越多，前期投入的服务器成本才能被摊薄，直至打平甚至盈利。</p>
+<p style=""text-align: left;"">换电站的账也是这么算的。蔚来高层此前曾经透露，第四代换电站单站每天约 40-50 次换电，就能基本实现盈亏平衡；在长三角等核心用户区域，已经有换电站达到了这个水平。</p>
+<p style=""text-align: left;"">要让更多车开进换电站，核心思路有两条：<span style=""font-weight: bold;"">一条是自己多卖车，这是蔚来过去几年一直在做的；另一条就是争取早日让换电从「非共识」变成「共识」，让其他品牌的车早日复用蔚来的换电体系</span>。</p>
+<p style=""text-align: left;"">易易互联过去的主业，就是给出租车、网约车这类 B 端营运车辆换电。截至去年 4 月，它运营的换电站超过 470 座。</p>
+<p style=""text-align: left;"">而营运车的换电频次一般要比私家车更高：早在 2023 年，易易互联 300 多座站的日均换电量就超过了 2 万次，平均每座站每天六七十次，已经高过蔚来 40-50 次的那条平衡线。当然，营运车的换电站和电池规格与蔚来不同，两者的成本结构不能简单类比，但方向是清楚的。</p>
+<p style=""text-align: left;"">更大的想象空间在后面。吉利控股集团 CEO 安聪慧表示，吉利旗下曹操出行的车队，以后全部会用上蔚来能源的换电；吉利正在开发的 Robotaxi，也会全面使用换电技术。</p>
+<p style=""text-al",rss
+"Mon, 28 Sep 2026 17:50:05 +0800",极客公园,不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了,http://www.geekpark.net/news/371126,,,"<p>最近， 一个叫 Jev 的 AI 模型突然在开发者圈子里炸了。更可怕的是，根据最新消息，Jev 最近正在洽谈 10 亿美元融资，最新估值 100 亿美元&mdash;&mdash;而这距离 Jev 推出，还不到 1 个月。</p>
+<p>Jev 这个新模型，它不生成文本，不跟你聊天，甚至不写代码。你给它一段数据和一组结构化问题，它返回类型化的答案和校准过的概率值。TypeSafe AI 管它叫「System One 模型」，一种全新的模型类别。9 月 15 日发布早期访问版本的同时，公司宣布获得 DCVC 领投的 4000 万美元种子轮融资，估值 2 亿美元。</p>
+<p>开发者社区很快炸开了锅。TypeSafe 公布的数据显示，在分类任务上 Jev 比 GPT 系列快约 193 倍、便宜约 445 倍。Vercel CEO Guillermo Rauch 测试后说，在 p95 延迟上 Jev 比 GPT Luna 快 18 倍，而且更准。LangChain 第一时间写了集成指南。</p>
+<p><strong>但真正让 Jev 值得关注的，不是这些数字，而是它背后的人和他的判断</strong>。</p>
+<p>Jev 的创造者 Diogo Almeida 曾在 OpenAI 工作近四年，是 GPT-4、ChatGPT 以及 RLHF/InstructGPT 的合著者。 他所在的团队基本上发明了「后训练」这个概念。换句话说，今天几乎所有大语言模型背后的核心训练范式，都有他的手笔。</p>
+<p>而在 Jev 发布前六周，Almeida 在 AI Engineer 大会上做了一场 18 分钟的演讲，标题叫「<strong>What's Next After RLHF</strong>?」。</p>
+<p>他在台上说，自己是 OpenAI 内部少数公开「黑」ChatGPT 的人；他认为 ChatGPT 和 Claude Code 属于同一个时代；<strong>他相信整个行业终将把 RLHF 时代视为一段「奇怪的弯路」</strong>。</p>
+<p>一个技术范式的缔造者，亲手给自己创造的时代写悼词，这种事不常发生。</p>
+<p><strong>以下是演讲中的一些核心观点</strong>：</p>
+<ul>
+<li><strong>「下一个时代不是 Claude Code 时代。ChatGPT 和 Claude Code 属于同一个时代。」</strong></li>
+<li><strong>「为什么所有 LLM 都需要人类在回路中？因为我们就是把人类放进了回路里。」</strong></li>
+<li><strong>「无论模型有多错，它都会看起来是对的。」</strong></li>
+<li><strong>「我们只是在自动化『写软件』这件事，但软件本身的表达力并没有变。」</strong></li>
+<li><strong>「原始的 Scaling Law 是错的。</strong>」</li>
+</ul>
+<p>以下是这场演讲的精编转录文字：</p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>「黑 ChatGPT 的人」</strong></p>
+<p>我叫 Diogo Almeida，今天讲的主题是「RLHF 之后是什么」。更准确地说，应该叫「我们所处的 ChatGPT 时代之后是什么」。</p>
+<p>先给你们一个提示：<strong>下一个时代不是 Claude Code 时代</strong>。我后面会解释，但我认为 ChatGPT 和 Claude Code 属于同一个时代。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/85/ab/85abadff841188132dada2ddc6a8591b.png"" /></p>
+<p>看看到底是谁在黑 ChatGPT｜图片来源：Youtube</p>
+<p>为什么你们该听我说？我是 OpenAI 基本所有重磅论文的合著者，包括 GPT-4、ChatGPT、RLHF/InstructGPT。我所在的团队基本上发明了「后训练」这个概念。所以这些东西我确实很熟。但真正让我有点特别的是，<strong>我大概是 OpenAI 内部少数公开黑 ChatGPT 的人</strong>。</p>
+<p>别误会，我不是讨厌 ChatGPT 这个产品。ChatGPT 是",rss
+"Mon, 28 Sep 2026 17:45:25 +0800",极客公园,OpenAI，经历了最漫长的一天,http://www.geekpark.net/news/371123,,,"<p>当地时间 9 月 25 日，OpenAI 经历了漫长的一天。</p>
+<p>当天，<strong>OpenAI 的 AI 智能体擅自访问美国政府网站的事被曝光，涉及教育部、商务部和证券交易委员会</strong>，OpenAI 确认了其中商务部和 SEC 的情况。</p>
+<p>同一天，它承认有 53 张用户上传到 ChatGPT 的图片被智能体发布到了外部图床上。还是这一天，一份事故报告的末尾写着，最强模型的全部训练、评估以及涉及工具调用的推理都已暂停。</p>
+<p>这一切听上去，像一部 AI 叛逃的惊悚片。</p>
+<p><strong>但翻遍这些事件，没有一个 AI 想干坏事。</strong>害 OpenAI 暂停模型研究的任务，仅仅是让 AI 查出一篇博客的作者的简单任务。</p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>简单任务</strong></p>
+<p>9 月 20 日，一个正处于强化学习训练中的内部模型，拿到了一组人物履历细节和一篇公开博客里的线索，任务是找到那位博主。</p>
+<p>它先用博客里的特征短语去搜，结果返回的是音乐和一些不相干的泛泛建议。模型开始怀疑搜索工具坏了，于是在命令行里用 Python 直接向其他搜索引擎发请求，三个全部报错。它甚至猜测这道题出自公开评测集 BrowseComp，把数据集和评测脚本下载下来翻找答案，也落了空。</p>
+<p>接着，它尝试通过 HTTPS 直接联系一个公开的聊天机器人，被代理拦了下来。</p>
+<p>到这里，墙起了作用。OpenAI 的训练沙箱被设计成与真实互联网隔绝，除了这份报告里的 DNS 解析器，所有联网请求打到的都是一份离线网页缓存。</p>
+<p>问题就出在这个例外上。</p>
+<p>DNS 相当于互联网的查号台，任何程序访问一个网址之前，都要先问它「这个地址在哪」。系统里大量正常组件都依赖它，所以哪怕其他出口全部封死，查号台通常还开着。</p>
+<p><strong>模型发现，沙箱自己的解析器能为真实域名返回记录，还能正确拒绝编造的域名，它由此判断这是一条通向公网的路</strong>。它找到一种公开的 DNS 服务，把自己的问题编进「要查的号码」里，对方在回执里把答案捎回来。第一次超时了，它把等待时间从 6 秒调到 19 秒，重试。</p>
+<p>这一次，外面的聊天机器人回答了它的测试问题，法国的首都是巴黎。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/9b/fc/9bfce321e8449049bdf8041bb4b0826d.gif"" /></p>
+<p>智能体借 DNS 绕出训练沙箱的路径示意，据 OpenAI 事故报告绘制｜图片来源：极客公园</p>
+<p><strong>它没有止步于打通一条缝。</strong>它随后又通过同一条路发出 18 个问题，其中 14 个带着任务线索，另外 4 个在打听如何经由 DNS 搜索网页、抓取网站，或者哪里有公开的 DNS 隧道服务。</p>
+<p>最后，它告诉用户没能确认博主身份，请对方提供原文、标题或博客名。</p>
+<h1 style=""text-align: center;""><strong><em>02</em></strong></h1>
+<p style=""text-align: center;""><strong>捡钥匙</strong></p>
+<p>整份报告里，最值得反复读的是模型在决定走 DNS 这条路时留下的一句思维链。大意是，用户只授权了做研究，那么使用公开提供的 DNS 服务是可以接受的。</p>
+<p><strong>模型并非不知道边界在哪，它是给自己签了一张许可证。</strong></p>
+<p>同样的推理结构，出现在「访问」政府网站那批事件里。在商务部，智能体从公开代码仓库里找到登录凭证，用它拉取了人口普查局的数据。OpenAI 对此的说法是，使用的是公开可得的开发者密钥，没有发现凭证滥用，但它也承认智能体本不该使用这些凭证。</p>
+<p><strong>数据是公开的，不等于捡到别人的钥匙就可以开门。</strong></p>
+<p>另外两起性质更轻。在 SEC，模型访问的是 SEC.gov 和 Investor.gov 上的公开信息，问题在于它把这些材料转贴到了另一个网站。在教育部，AI 研究机构 Transluce 发现，疑似来自 OpenA",rss
+"Mon, 28 Sep 2026 16:08:56 +0800",极客公园,从超级个体到超级组织，究竟还有多远？,http://www.geekpark.net/news/371104,,,"<p>9 月 22 日上午，阿里巴巴集团 CEO 吴泳铭站在云栖大会主论坛上讲到 AI 时，又一次用了电力作为参照。</p>
+<p>今天回头来看，电几乎成为了现代社会最重要的基础设施生产力。</p>
+<p>但 1882 年，即便是最负盛名的科学家与商人爱迪生，所能想到的事情也不过是在纽约珍珠街建起一个电站，点亮 400 盏电灯。甚至在当时为了推广电灯，还不得不用免费赠送半年电力的方式来吸引用户。</p>
+<p>今天的 AI Coding，很可能也只是「电灯」&mdash;&mdash;<strong>它已经能替代一部分旧工作，帮人写代码、写报告，但站在 1882 年的电灯下面，人们永远也想象不出后来改变了整个人类社会运行的电气世界，究竟是什么样子。</strong></p>
+<p>不过，关于这个故事，其实还有个没讲完的下半段。</p>
+<p><strong>此后十多年时间里，电力已经进入工厂，但生产率却并没有立刻起飞。</strong>因为早期工厂接入电力时，大部分企业的做法是直接拆掉蒸汽机，换上一台大型电动机。厂房中央的传动轴没有消失，皮带和齿轮也没有消失，动力与组织的生产上限，仍然沿着蒸汽时代留下来的结构传到每一台机器。</p>
+<p>直到后来，小型电机可以直接装到不同机器旁边，工厂才逐渐摆脱中央动力轴。机器不用再围着一根轴排列，设备位置、物流、工序乃至厂房结构都可以重新设计，第二次工业革命才正式拉开序幕。</p>
+<p>今天的企业也处在类似的情况中。</p>
+<p>模型已经进公司了。工程师开始用 AI 写代码，销售用它找客户，HR 用它筛选信息&hellip;&hellip;<strong>可审批不会因为模型升级自动缩短，部门边界不会因为 Token 变便宜自己消失。一个岗位突然快了十倍，带给下一个环节的，可能只是无穷无尽的加班与延期。</strong></p>
+<p>所以，当天上午主论坛讨论完机器智能之后，<strong>下午的云栖大会 AI Native 组织论坛就立刻接棒，将 AI 时代的组织变革作为讨论核心。</strong></p>
+<p><strong>这并不是云栖大会上第一次分享相关话题，但却是第一次由阿里 CPO 和 CIO 两条线共同完成的讨论。</strong></p>
+<p>过去，业务系统怎么搭建是一类问题，岗位、协作、人才和文化怎么调整是另一类问题；AI 真正落地生产流程以后，两件事已经很难各自解决。</p>
+<p><strong>率先上台的阿里巴巴集团首席人才官蒋芳，先分享了一个思考：AI Native 组织到底只是一个被热炒的概念，还是组织必然会走向的方向？</strong></p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/e4/96/e496e019fdfd6fb2f4d13601f0599576.png"" /></p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>AI Native 的组织到底是怎么运作的？</strong></p>
+<p><strong>AI native 组织是一个必然的进化方向，但不同企业产生的化学反应并不相同，这已经成为了新的管理共识。</strong></p>
+<p>而在过去一年的观察和实践中，蒋芳逐渐总结出了一个规律：通常来说，那些一号位真的理解 AI，而且愿意亲自动手；或者原本的工作已经高度数据化；团队规模比较小；核心团队高度互信，是最容易完成 AI Native 时代组织转型的企业。</p>
+<p>但偏偏，阿里本身已经成长为了一个拥有十几万名员工的庞大组织，并且组织内部业务形态差异巨大，协作关系复杂，甚至还有大量决策没有完整进入数据链路。想先在总部画好一套未来组织，再要求十几万人一起完成切换，几乎是天方夜谭。</p>
+<p>并且，在真正尝试转型之前，阿里已经先感受到了另一层落差。蒋芳发现，过去一两年时间里，AI 加速下，组织里已经出现了<strong>一群超级个体，但是将这些超级个体放在一起，并不会自然得到一个超级组织。</strong></p>
+<p><strong>阿里云 CIO 蒋林泉，过去一年在产研团队里，试图解决的正是这种落差。</strong></p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/b7/b0/b7b0",rss
+"Tue, 29 Sep 2026 12:30:00 +0000",TechCrunch AI,Reco raises $55M as AI agent security startups crowd the market,https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/,,,"The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",rss
+2026-09-29T07:48:27-04:00,The Verge AI,Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing,https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat,,,"As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could ""further increase the risk that our models cause harm."" These disclosures come as Anthropic eyes a $2 trillion valuation, more than [&#8230;]",rss
