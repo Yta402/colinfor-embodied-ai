@@ -1,0 +1,16 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+"Sun, 04 Oct 2026 08:33:38 +0800",极客公园,苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道,http://www.geekpark.net/news/372073,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/98/b7/98b70ec4d8f526d4dce6c7b2137fb702.png"" /></p>
+<h1>苹果确认：美版 iPhone 18 Pro Max 有问题</h1>
+<p>北京时间 10 月 3 日，彭博社报道称，苹果公司表示，AT&amp;T 的问题已导致部分 iPhone 18 Pro Max 用户无法拨打电话、访问数据或在联网时收发短信。目前尚不清楚有多少人遇到此问题。受影响的用户发现，除非连接到 Wi-Fi 网络，否则他们的设备基本无法使用。</p>
+<p>苹果公司已发布运营商设置更新，并推出了 iOS 操作系统的新版本 27.0.1，以防止该问题进一步蔓延。运营商设置修复程序将在未来 14 天内自动为 AT&amp;T 用户下载，但苹果仍建议消费者立即安装任何可用的软件更新。</p>
+<p>苹果发言人在提供给彭博社的一份声明中表示：「我们已发现一个影响少数 AT&amp;T 网络 iPhone 18 Pro Max 用户的故障，可能导致设备失去服务并无法拨打电话。」报道称，对于已经受到影响的用户，唯一的解决办法是更换手机，使用苹果或 AT&amp;T 提供的新设备。</p>
+<p>报道提到，在美国销售的 iPhone 18 Pro Max 与其他新款机型有一点不同：它搭载的是由高通公司制造的蜂窝基带。包括较小的 iPhone 18 Pro 在内的所有其他版本，均配备苹果自研的 C2 基带。根据用户报告，只有 iPhone 18 Pro Max 受到了 AT&amp;T 这一漏洞的影响。（来源：新浪科技）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/b1/c0/b1c0a7691b78da43484e913b00986632.png"" /></p>
+<h1>英伟达 Vera Rubin NVL72 跑出 4.8 倍 Token 吞吐</h1>
+<p><strong>AI 云服务商 CoreWeave 近日宣布，英伟达 Vera Rubin NVL72 系统已在 CoreWeave Cloud 正式投入生产，AI 软件公司 Cognition 成为首个在该平台运行生产工作负载的客户。</strong></p>
+<p>Cognition 在 Vera Rubin NVL72 上运行 SWE-2 推理任务，<strong>实测总 Token 吞吐量较 GB200 NVL72 提升高达 4.8 倍。</strong>在强化学习场景中，每 GPU 输出 Token 吞吐量也达到 GB200 NVL72 的<strong>3.8 倍</strong>，意味着 Devin 可同时处理更多会话并加速多步推理。<strong>在 DeepSeek-R1 推理基准测试中，Vera Rubin NVL72 每兆瓦 Token 吞吐量达到 GB200 NVL72 的 10 倍，</strong>在相同电力消耗下可产出更多智能输出。</p>
+<p>硬件规格方面，NVL72 系统由 36 颗 Vera CPU 和 72 颗 Rubin GPU 构成，采用<strong>100%全液冷设计</strong>。无缆线模块化托盘设计将安装时间从两小时压缩至五分钟，大幅提升部署效率。（来源：快科技）</p>
+<h1>旗下智能体频繁「闯祸」，OpenAI 每天要烧掉超 50 万美元来调查</h1>
+<p>10 月 3 日消息，据英国《卫报》3 日报道，OpenAI 披露，为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统和 Hugging Face 等事件，公司每天投入<strong>超过 50 万美元（现汇率约合 335.7 万元人民币）</strong>。</p>
+<p>由于需要筛查的数据规模极大，OpenAI 还动用 AI 参与审查。OpenAI 本周在博客中介绍了这项调查的规模：公司需要<strong>检查 50PB 数据</strong>，约合 5000 万吉字节。如果把这些数据全部交给一个人阅读，需要<strong>约 6600 万年</strong>。OpenAI 警告，调查还没有结束，近期可能有更多机构接到通知，被告知曾成为智能体行动的目标。审查重点包括<strong>模型访问或修改网站的记录</strong>，以及涉及密码、应用程序编程接口访问权限和其他敏感凭证的操作。</p>
+<p>Open",rss

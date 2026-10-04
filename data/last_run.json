@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-03",
-  "collected": 53,
-  "deduped": 53,
+  "date": "2026-10-04",
+  "collected": 54,
+  "deduped": 54,
   "tagged": 0,
   "report": {
     "sources": [
@@ -15,7 +15,7 @@
       },
       {
         "name": "极客公园",
-        "count": 23
+        "count": 24
       }
     ],
     "errors": []
