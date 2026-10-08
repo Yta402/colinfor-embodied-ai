@@ -4529,3 +4529,70 @@
 "Mon, 05 Oct 2026 12:00:00 +0000",TechCrunch AI,Can Safeworld convince people that GenAI robots won’t hurt them?,https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/,,,Safeworld is building digital humans to make sure robots don't hurt the real ones.,rss
 "Tue, 06 Oct 2026 20:00:30 +0000",TechCrunch AI,AI computing startup Lambda to raise $4B ahead of planned IPO,https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/,,,"Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",rss
 "Tue, 06 Oct 2026 16:35:00 +0000",TechCrunch AI,Mirror Particle is building a ‘world model’ of human behavior,https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/,,,"Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",rss
+"Thu, 08 Oct 2026 02:59:14 +0000",艾邦机器人,触觉智能企业“灵感机器人”新近完成数千万元天使轮融资,https://www.aibangbots.com/a/13660,,,力合资本、合肥创新投等机构投资，Lux 系列视触觉传感器已实现规模化交付。,rss
+"Thu, 08 Oct 2026 02:43:37 +0000",艾邦机器人,“庐优”，九江诞生江西首个人形机器人自主品牌,https://www.aibangbots.com/a/13644,,,在这里，知九江！九江阅读量最高的公众号！,rss
+"Thu, 08 Oct 2026 02:18:26 +0000",艾邦机器人,强强联合！优必选携手一汽-大众，推进人形机器人在物流场景应用落地,https://www.aibangbots.com/a/13640,,,Dream with Robots,rss
+2026-10-07 13:49:48+00:00,IEEE Spectrum Robotics,HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction,https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/,,,<p><span>This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close …</span></p>,rss
+"Thu, 08 Oct 2026 10:00:00 GMT",InfoQ 机器人,从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海,https://www.infoq.cn/article/akexM07HzNrRJzmjYNml?utm_source=rss&utm_medium=article,,,"<div align=""right""><a href=""https://www.infoq.cn/article/akexM07HzNrRJzmjYNml?utm_source=rss&amp;utm_medium=article"">点击查看原文></a></div>",rss
+"Thu, 08 Oct 2026 09:40:34 +0800",极客公园,造物 100#07   | 给硬盘养个图书馆员、指纹钥匙给 AI 上锁、AI 对讲机住着科幻宇宙,http://www.geekpark.net/news/372099,,,"<p>产品的创新，究竟应该如何定义它的价值？</p>
+<p>上周，华为、小米、苹果在 72 小时内接连发布折叠屏旗舰。华为 Mate XT 2 非凡大师 19999 元起售，小米 18 Fold 10999 元，苹果首款折叠屏 iPhone Duo 市场预计 1.6 万起。与此同时，一组数据冲上热搜，通用内存合约价环比涨超 58%，固态硬盘涨超 70%，主流性能机比去年贵了 2800 到 4500 元。「普通人没必要追求电子产品顶配」登上热搜，年轻人转向二手电脑和标准版机型，不再一味追求顶配功能。</p>
+<p>一边是厂商急需拓展新产品线的渴望，一边是用户日益下探的购买力。当「更贵」不再自动等于「更想要」，创新到底该如何定义价值？消费者真正愿意买单的还有什么？</p>
+<p>上周我们谈到在成熟品类上小创新成为当下造物的一种方式。这周，这个方向仍在不少品类上体现。这些新造物几乎都不是一个完全独立的创新品类，但它们都希望重新定义产品的使用指南。</p>
+<p>智能数据拓展坞 MUZIM L1 结合了桌面交互、拓展坞、内存条盒的基础功能上，基于本地化，重新定义了存储和信息搜索。手机皮肤镜 Lumeria Lumoscope 基于手机和专有摄像头，去解决亲人具体困扰已久的皮肤敏感问题。无线指纹钥匙 immurok IK-1 则是在 Mac 的指纹解锁上，硬件独立化，解决 AI 授权的行为。</p>
+<p>现阶段，硬件或许没办法直接去押注一个「更大」未来时，创新的机会反而变得具体了。你如何将一个旧麻烦的解决方式「优化」得更好，同时还能够为消费者创造意料之外的使用惊喜，或许成为关键。</p>
+<p>以下，是「造物 100」栏目第 7 期推荐的最新造物。</p>
+<h1><strong>智能数据拓展坞 MUZIM L1 :打造本地化的私人图书馆，请一位听得懂人话的 AI 管理员</strong></h1>
+<p>每个人的硬盘里都躺着几万个再也找不到的文件。命名混乱的照片、不知道存在哪层文件夹的合同、手机备份了三次的重复视频。过去，文件的搜索框只认文件名，而你早忘了当初和好友合影的图片编码到底是什么数字。</p>
+<p>MUZIM L1 想把这件事换个解法。硬件上，它是一台桌面数据坞，双 SSD 插槽、16 口扩展、最高支持 24TB 存储，一块 1.6 英寸小屏加主动散热，USB 4.0 连接。但真正的主角是里面跑的 OpenSoul 文件系统，团队管它的核心能力叫 Vibe Search，用一句人话，可以搜到任何文件。「去年冬天在海边拍的那段视频」、「上个月签的那份租房合同」，只要你描述得出来，它就找得到，不仅是图片支持按内容语义搜，视频也可以精确到某一帧的内容，音频也会先被转写再检索。</p>
+<p>它还会自动整理，识别人脸分组、按「宝宝第一次走路」这样的语义把散落文件组织成故事、把相似的废片堆叠起来。甚至还有很细致的时间线，告诉你在什么时间，干了什么事情。比较有意思的是它会记录不同人之间的关系，去揣测全程本地优先，文件不默认上云。</p>
+<p>AI 文件搜索这件事，苹果和微软都在系统层面做，但它们的答案都通向云端订阅。MUZIM 把这套能力塞进一台桌面硬件里，语义搜索在你自己的 SSD 上跑，等于给人做了一台 AI 时代的私人图书馆。</p>
+<p>不过众筹还没正式开跑，语义搜索的实际准确率、大文件库的索引速度都要等实机检验。而且它赌的前提是你的数据需不需要一台专属本地硬件，这个判断对创作者成立，对普通人还需要说服。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/17/46/17461e9043d435287b560a57b0df35ac.png"" /></p>
+<h1><strong>手机皮肤镜 Lumeria Lumoscope：把皮肤科的检测相机，夹到你的手机上</strong></h1>
+<p>Lumeria Lumoscop 的创始人 Anthea Guo 的姐姐被湿疹追着跑了八年，最后查出的元凶是地毯里的灰尘。但这个罪魁祸首，在长达八年的时间里都没人抓到它，很难被人看见。但是皮肤对睡眠、居住环境、护肤品和空气的每一次反应，都没有变成数据。而且每当需要换一个皮肤科医生时候，一切的盘问都从零开始。</p>
+<p>Lumeria 选择打造一个夹在手机镜头上的多光谱皮肤镜。通过 RGB、紫外、偏振光加近红外四种光谱扫描皮肤，把诊所里皮肤镜能看到，但是肉眼看不见的信息都记录下来。再配套上 AI 教练读取扫描历史，追踪变化、判断哪些产品真的有效、提示什么时候该去看医生。团队将其看作，皮肤界的 O",rss
+"Thu, 08 Oct 2026 08:49:27 +0800",极客公园,ChatGPT 推出全新 IUI 智能用户界面；谷歌推出试验性 AI 游戏平台 Playground；苹果被曝联合 LG 开发门锁、摄像头等智能家居配件｜极客早知道,http://www.geekpark.net/news/372090,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/9e/40/9e40f9772b90b2e469e4dc6938518a66.png"" /></p>
+<h2>2026 年诺贝尔化学奖公布：二人因解开不对称有机合成难题获奖，其中一位 96 岁高龄</h2>
+<p>10 月 7 日，2026 年诺贝尔化学奖正式公布，瑞典皇家科学院决定将 2026 年诺贝尔化学奖授予亨利 &middot;B&middot; 卡甘（Henri B. Kagan）和硖合宪三（Kenso Soai），「表彰他们在不对称有机合成中发现非线性效应和自催化现象。」</p>
+<p>有些分子，例如氨基酸，以两种变体形式存在，互为镜像。然而，生物体只包含这些镜像之一。像这样的化学不对称性是如何出现的，长期以来对化学家来说一直是个谜。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/5b/d9/5bd97d3817125c6001163e2501a71a88.png"" /></p>
+<p>亨利 &middot;B&middot; 卡甘和硖合宪三因发现这一难题的解决方案而荣获 2026 年诺贝尔化学奖。</p>
+<p>亨利 &middot;B&middot; 卡甘（1930 年出生于法国，当前 96 岁，隶属法国奥尔赛省巴黎南大学）发现了一种操纵化学反应的新方法，可以创建比之前假设的更多的镜像。他的发现对于化学家来说是革命性的，可以帮助开发用于制造药物、香料、香味和新材料的反应。</p>
+<p>硖合宪三（1950 年出生于日本广岛，当前 76 岁，隶属东京理科大学）设计了首个仅形成其中一个潜在镜像的化学反应。除了生命本身，没有人曾实现过这样的壮举。诺贝尔奖官方表示，Soai 反应是有史以来最壮观的化学实验之一。（来源：IT 之家）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/27/9a/279a24ef9847d73a9b81c853daaacc3e.png"" /></p>
+<h2>黄仁勋：英伟达当初正是因 Windows 而诞生</h2>
+<p>10 月 8 日，在美国旧金山举办的发布会中，英伟达首席执行官黄仁勋表示：「英伟达当初正是因 Windows 而诞生」。</p>
+<p>在本次活动中，微软首席执行官萨蒂亚 &middot; 纳德拉、英伟达首席执行官黄仁勋和白宫前人工智能高级政策顾问斯里拉姆 &middot; 克里希南三人展开了一场对话。</p>
+<p>黄仁勋在开场时表示：「英伟达的创立是因为 Windows 系统。Windows 95 系统让 GPU 连接到 PC 成为可能，DirectX 对 PC 图形技术的早期发展至关重要。」这基本上就是英伟达并行计算平台 CUDA 的起源故事。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/a3/34/a334bce3992fad895438d8f053095246.png"" /></p>
+<p>黄仁勋表示：「我们想要世界上最好的 Blender、世界上最好的 Omniverse、世界上最好的 CUDA&hellip;&hellip; 所有这些都要和 AI 一起运行在同一台电脑上。」</p>
+<p>黄仁勋强调，AI 计算不应只存在于大型数据中心，也将逐步进入开发者和企业用户的桌面环境。随着模型规模扩大以及对隐私、低延迟和本地处理的需求增加，个人设备需要具备更强的 AI 推理和开发能力。</p>
+<p>黄仁勋的讲话也显示，英伟达希望进一步加强与微软 Windows 生态的结合。通过将高性能 GPU、统一内存和 AI 软件栈带到 Windows 设备，开发者可以在熟悉的操作系统环境中构建和运行 AI 应用。（来源：IT 之家）</p>
+<h2>&nbsp;</h2>
+<h2><strong><span class=""text-only"">OpenAI 推出 ChatGPT 全新交互界面：AI 不只回答问题，还能直接生成可操作的工具</span></strong></h2>
+<div>
+<p>10 月 7 日，OpenAI 宣布将 GPT-6 推向更广泛的 ChatGPT 用户，并同步推",rss
+"Wed, 07 Oct 2026 08:39:21 +0800",极客公园,派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude,http://www.geekpark.net/news/372089,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/ed/c1/edc15e1a2981cde354ac7813f71ba265.png"" /></p>
+<h1>2026 诺贝尔物理学奖揭晓：把一立方公里南极冰变成望远镜，打开「中微子天文学」</h1>
+<p>10 月 6 日，2026 年诺贝尔物理学奖授予比利时裔美国物理学家 Francis Halzen，以表彰其「对 IceCube 中微子天文台的决定性贡献，以及发现来自天体的高能中微子」。</p>
+<p>Halzen 领导建设的 IceCube 位于南极，把超过 一立方公里的透明冰层本身变成粒子探测器：5000 多个光学传感器被埋入超过两公里深的冰层，通过捕捉中微子极少数与物质碰撞时产生的微弱光线，反推出粒子的来源。</p>
+<p>与传统望远镜利用光观察宇宙不同，中微子几乎可以不受阻碍地穿过物质，因此能够携带超新星、黑洞等极端宇宙事件的信息。</p>
+<p>IceCube 的成果由此建立了「中微子天文学」这一新的宇宙观测窗口。（来源：NSF、Reuters）</p>
+<h1>距 6 万亿美元仅一步之遥，英伟达市值达 5.8 万亿美元，创历史新高</h1>
+<p>10 月 6 日消息，当地时间上午 9 点 30 分，纳斯达克市场开盘。开盘钟声敲响后的二十分钟左右，英伟达（NVDA）市值达到 5.82 万亿美元（现汇率约合 39.08 万亿元人民币），创下历史新高，同时距 6 万亿美元（现汇率约合 40.29 万亿元人民币）仅有一步之遥。</p>
+<p>今日开盘时，英伟达股价为 242.10 美元（现汇率约合 1,626 元人民币），最高 243.37 美元（现汇率约合 1,634 元人民币），最低 240.76 美元（现汇率约合 1,617 元人民币）。</p>
+<p>同时，英伟达股价于美东时间 10 月 5 日星期一再度刷新历史纪录，收盘报 238.90 美元（现汇率约合 1,604 元人民币），单日上涨 2.12%，连续第三个交易日以收盘价创历史新高。如果继续上涨，英伟达有望成为全球首家市值达 6 万亿美元的公司。（来源：IT 之家）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/59/a3/59a39fc496b5ed9b99dc1791b87f1988.png"" /></p>
+<h1>消息称 DeepSeek 新一轮融资接近锁定至少 800 亿元，腾讯控股和宁德时代重金投入</h1>
+<p>10 月 6 日消息，据彭博社援引知情人士消息称，中国人工智能公司 DeepSeek 最新一轮融资已接近收官，锁定至少 800 亿元人民币（约 120 亿美元），远超其最初设定的约 500 亿元融资目标。根据已签署的投资条款清单，最终融资规模有望逼近 1000 亿元。</p>
+<p>腾讯控股和宁德时代是承诺出资金额最高的投资方。知情人士称，DeepSeek 最初在本轮仅寻求约 500 亿元，但在最新模型顺利发布后，投资者认购热情超出预期，公司最初设定的目标估值约为 5000 亿元。相关交易尚未最终敲定，具体条款仍可能发生变化。</p>
+<p>报道还提到，DeepSeek 正在内蒙古建设数据中心，并部署华为 AI 芯片。</p>
+<p>2026 年 6 月，DeepSeek 完成成立以来首轮外部融资，总额达 510 亿元人民币，投后估值近 4000 亿元，创下当时国内 AI 行业单轮融资规模最高纪录。该轮融资由创始人梁文锋领投，个人出资约 200 亿元，为最大单一出资方。腾讯出资约 100 亿元，宁德时代体系出资约 50 亿元。</p>
+<p>据报道，最新一轮融资落定后，DeepSeek 的下一步是推进公司重组，为 IPO 做准备。据路透社此前报道，DeepSeek 公司已聘请中信证券作为辅导机构，筹备在上海证券交易所科创板上市。（来源: TechWeb）</p>
+<h1>月之暗面完成 IPO 前融资 估值 500 亿美元，拟明年第一季度香港上市</h1>
+<p>10 月 6 日，据彭博社报道，月之暗面已完成最后一轮私募融资，估值约为 500 亿美元，正朝着明年第一季度在中国香港进行首次公开招股 (IPO) 迈进。</p>
+<p>一些知情人士称，月之暗面已开始作准备工作，最早将于本月启动 IPO 早期摸底会议，以评估投资者意向。知情人士此前称，该公司考虑通过此次 IPO 筹集最多 50 亿美元。</p>
+<p>月之暗面是",rss
+"Wed, 07 Oct 2026 20:48:45 +0000",TechCrunch AI,"Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/,,,The developer of Hermes Agent raised a $90 million Series B.,rss
+"Wed, 07 Oct 2026 15:07:08 +0000",TechCrunch AI,Healthleap raises $38M for its AI that flags hospital patients who may need a closer look,https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/,,,"The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",rss
+"Wed, 07 Oct 2026 14:41:38 +0000",TechCrunch AI,Tony Fadell on why the first wave of AI gadgets failed — and what comes next,https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/,,,The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.,rss
