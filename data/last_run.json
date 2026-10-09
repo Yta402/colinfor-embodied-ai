@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-08",
-  "collected": 61,
-  "deduped": 61,
+  "date": "2026-10-09",
+  "collected": 55,
+  "deduped": 55,
   "tagged": 0,
   "report": {
     "sources": [
-      {
-        "name": "艾邦机器人",
-        "count": 6
-      },
       {
         "name": "IEEE Spectrum Robotics",
         "count": 27
       },
       {
         "name": "InfoQ 机器人",
+        "count": 2
+      },
+      {
+        "name": "量子位",
         "count": 1
       },
       {
@@ -23,7 +23,11 @@
       },
       {
         "name": "TechCrunch AI",
-        "count": 5
+        "count": 2
+      },
+      {
+        "name": "The Verge AI",
+        "count": 1
       }
     ],
     "errors": []
