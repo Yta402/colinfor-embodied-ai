@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-13",
-  "collected": 57,
-  "deduped": 57,
+  "date": "2026-10-14",
+  "collected": 62,
+  "deduped": 62,
   "tagged": 0,
   "report": {
     "sources": [
@@ -11,15 +11,23 @@
       },
       {
         "name": "IEEE Spectrum Robotics",
-        "count": 27
+        "count": 26
       },
       {
         "name": "InfoQ 机器人",
-        "count": 2
+        "count": 1
+      },
+      {
+        "name": "量子位",
+        "count": 5
       },
       {
         "name": "极客公园",
         "count": 20
+      },
+      {
+        "name": "TechCrunch AI",
+        "count": 2
       }
     ],
     "errors": []
