@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-20",
-  "collected": 68,
-  "deduped": 67,
+  "date": "2026-10-21",
+  "collected": 64,
+  "deduped": 63,
   "tagged": 0,
   "report": {
     "sources": [
@@ -14,24 +14,16 @@
         "count": 26
       },
       {
-        "name": "InfoQ 机器人",
-        "count": 1
-      },
-      {
         "name": "量子位",
         "count": 3
       },
       {
         "name": "极客公园",
-        "count": 26
+        "count": 25
       },
       {
         "name": "TechCrunch AI",
-        "count": 3
-      },
-      {
-        "name": "The Verge AI",
-        "count": 1
+        "count": 2
       }
     ],
     "errors": []
