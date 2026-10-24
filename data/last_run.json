@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-23",
-  "collected": 64,
-  "deduped": 63,
+  "date": "2026-10-24",
+  "collected": 63,
+  "deduped": 62,
   "tagged": 0,
   "report": {
     "sources": [
@@ -23,11 +23,11 @@
       },
       {
         "name": "极客公园",
-        "count": 23
+        "count": 20
       },
       {
         "name": "TechCrunch AI",
-        "count": 2
+        "count": 4
       }
     ],
     "errors": []
