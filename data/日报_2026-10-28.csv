@@ -1,0 +1,119 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+2026-10-27 16:14:39+00:00,IEEE Spectrum Robotics,Your Robot’s Safety Functions Already Work. What If the Input Lies?,https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone,,,"<p><em>This article is brought to you by <a href=""https://vicone.com/?utm_source=ieee-spectrum&amp;utm_medium=sponsored-content&amp;utm_campaign=2026-10"" rel=""noopener noreferrer"" target=""_blank"">VicOne</a>.</em></p><p><em></em><span>A mobile robot slows for someone in a hallway. A collaborative …</span></p>",rss
+"Mon, 26 Oct 2026 16:06:31 +0000",量子位,刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司,https://www.qbitai.com/2026/10/505551.html,,,地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权,rss
+"Mon, 26 Oct 2026 06:50:44 +0000",量子位,趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付,https://www.qbitai.com/2026/10/505429.html,,,高品质 AI Token 成为行业新风向,rss
+"Tue, 27 Oct 2026 17:24:34 +0800",极客公园,iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」,http://www.geekpark.net/news/373008,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/bc/27/bc278280152ca16346b5eb8f068c3405.jpg"" /></p><p>头图图片来源：iFixit</p><p>2011 年 9 月 30 日，苹果递交了一份名为「Flexible electronic devices」的专利申请。</p><p>它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开着还是合着。</p><p>这份专利 2015 年 1 月获得授权，发明人一共六位，其中一位叫特努斯（John Ternus）。</p><p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/d7/15/d7152d6ad1d31eb9393ae98189cad216.png"" /></p><p>苹果 2011 年递交的折叠设备专利附图｜图片来源：Apple</p><p>十五年后，2026 年 9 月 9 日，当年署名的这位工程师，第一次以苹果 CEO 的身份走上发布会舞台，发布的正是一台可以对折的 iPhone：iPhone Duo。</p><p>巧的是，十二年前的同一天，2014 年 9 月 9 日，库克也在后台等着上台。</p><p>那是他接任 CEO 三年后，第一次发布全新品类的产品 Apple Watch，同场还有大屏的 iPhone 6。</p><p>据彭博商业周刊当时的报道，<strong>开场前，库克戴着耳机，用 iPhone 听 OneRepublic 的《I Lived》给自己打气。</strong></p><p>新 CEO 的第一款重磅产品，从来都是一场大考。</p><p>只是特努斯的这场考试，没有在发布会那天结束。</p><p>10 月 23 日，iPhone Duo 开售。</p><p>当天就有澳洲用户在 Reddit 上发出内屏开裂的照片，之后几天，美国、中国大陆、日本、韩国陆续有人晒图，描述几乎一样：到手开合不到二十次，展开时铰链处有一点阻力，「咔嚓」一声，内屏沿着折痕中线裂开几厘米，旁边亮起一条白线。</p><p>裂开的地方，正是十五年前那份专利里要折起来的那一道。</p><p>真正出问题的机器并不多。<strong>9to5Mac 统计到的独立案例大约 10 起，社交平台上还混着不少 AI 生成的假图</strong>。</p><p>10 月 26 日，苹果通过媒体发了一份声明，承认「少量 iPhone Duo 的内屏出现问题」，用户可以联系 AppleCare 换新，不需要另外购买 AppleCare+。</p><p>但这些裂缝几乎都出现在同一个位置，说明它们大概率出自同一个原因，而不是用户各自摔出来的。</p><p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/c8/df/c8df0df0dd7b3c0850cafcb13fc3a694.png"" /></p><p>Reddit 用户 leftyhyzer16 发布的故障内屏，竖线沿着折痕，横向亮线从交汇处向外延伸｜图片来源：Reddit @leftyhyzer16</p><p>硬件上的难题，大多能靠钱和时间解决。苹果两样都不缺，它在折叠屏上花的时间，比几乎所有厂商都长。</p><p>只是「时间」有两种：一种是实验室里的研发时间，另一种是几百万台机器到了用户手里之后，被真实使用的时间。</p><p>前一种，苹果攒了十五年；后一种，谁都没办法提前攒。</p><h1>Duo 之前的十五年</h1><p>递交那份专利时，特努斯还是苹果硬件工程团队里的一员。</p><p>在接受《时代》采访时，他这样回忆当年的判断：<strong>「当时就很清楚，我们迟早会走到 OLED 屏幕可以弯折的那一步。」</strong></p><p>从专利到产品，中间隔了十五年。</p><p>据彭博社马克·古尔曼的报道，苹果工程师大约到 2016 年才开始认真做折叠设备，项目由特努斯的前任、硬件工程主管丹·里奇奥发起。</p><p>最初试的是一台能展开成大平板的 iPad mini，2020 年前后才转向折叠 iPhone。</p><p>这期间，三星、华为已经先后推出了好几代折叠屏，苹果一直没有跟进。</p><p>《时代》的报道里有一个细节：苹果产品设计副总裁 Richard Dinh 曾问特努斯，屏幕最外层要",rss
+"Tue, 27 Oct 2026 16:55:13 +0800",极客公园,看了招股书，我终于知道为什么 Anthropic 不在乎用户了,http://www.geekpark.net/news/373006,,,"<p>大的，终于来了。</p>
+<p>10 月 26 日，Anthropic 向美国证监会公开递交了 S-1 招股书，准备在纳斯达克全球精选市场挂牌上市，股票代码定为 ANT。媒体报道中，<strong>这家公司的估值讨论区间已经来到了 1.5 万亿至 2 万亿美元</strong>，发行价区间尚未披露。</p>
+<p>24 小时内，这本 300 多页的招股书已经被科技圈和金融圈翻了个底朝天，最抓眼球的几个数字大家都看过了：2026 年上半年营收 162.86 亿美元，去年同期只有 11.63 亿美元；第二季度交出 9.74 亿美元经营利润，迎来公司历史上首个经营盈利的季度；至于账面上高达 807 亿美元的净亏损，大头是 723.88 亿美元的可转债、衍生负债和 SAFE 公允价值变动，属于非现金的会计费用。</p>
+<p>但在这些华尔街叙事之外，国内的开发者和日常使用者有着另一种割裂的体感。在中国大陆用户眼里，Claude 大概是目前市面上封号最多、风控最严苛、用起来最让人恼火的 AI 产品。</p>
+<p><strong>为什么一家做出顶尖大模型的公司，在面对普通个人用户时总是显得如此冷淡</strong>？</p>
+<p>翻完招股书的财务附注和风险提示，答案其实就写在账本上。在 Anthropic 的商业版图里，个人用户贡献的真金白银占比非常小。</p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>不到 20% 的个人用户</strong></p>
+<p>要看懂一家公司真正在乎谁，最直接的办法就是去翻它的收入构成表。在招股书的财报附注 2 里，Anthropic 把营收拆成了两大块，一块是按用量计费的收入，另一块是订阅收入。</p>
+<p>数据对比非常悬殊。2025 年全年，按用量计费的收入是 37.96 亿美元，订阅收入只有 7.89 亿美元，比例大约是 83% 对 17%。到了 2026 年上半年，按用量计费的收入冲到 130.64 亿美元，订阅收入是 32.22 亿美元，前者依然占到 80% 左右，订阅收入只占约 20%。</p>
+<p>更关键的细节藏在订阅收入的构成里。这 20% 里，既有个人用户的 Claude Pro 和 Claude Max，也有企业级的 Team 和 Enterprise 套餐，招股书并没有把个人订阅单独拆出来。<strong>这意味着，个人用户掏腰包买会员贡献的收入，在 Anthropic 总营收里的占比肯定低于两成，甚至可能还要低得多。</strong></p>
+<p>那么，八成的按用量计费收入从哪来？答案是<strong>云厂商渠道和成千上万家企业</strong>。</p>
+<p>通过亚马逊、谷歌、微软这几家云厂商市场卖给客户的收入，占比一路狂飙：2023 年约 11%，2024 年约 32%，2025 年约 47%，2026 年上半年约 48%。几乎半壁江山都是靠三大云巨头的分销管道撑起来的。</p>
+<p>撑起这台印钞机的，是一批迅速膨胀的机构客户。截至 2026 年 9 月 30 日，过去 12 个月贡献收入 10 万美元以上的客户（按独立组织统计），从一年前的 950 多家暴增到 11900 多家。客户结构也很健康，2026 年前 9 个月没有任何单一客户收入占比超过 10%，前五大客户合计约 25%。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/89/2a/892af93f6a96f0362c21f5b12a90e7df.png"" /></p>
+<p><span style=""font-size: 14px;"">招股书中的企业客户增长图：过去 12 个月贡献收入 10 万美元以上的客户，从 2023 年底约 20 家增长到 2026 年 9 月底的 11900 多家｜图片来源：Anthropic</span></p>
+<p><strong>招股书给个人付费用户专门用了一个词叫「prosumers」，定义是订阅 AI 工具来做知识工作的个人用户</strong>，比如研究人员、开发者、分析师和写作者。头衔听起来很专业，但这群人在核心财务指标面前依然处于边缘位置。</p>
+<p>整份 300 多页的招股书，没有披露日活和月活用户数，连付费订阅人数都没有提。</p>
+<p>最能体现这种态度的是净收入留存率。</p>
+<p>截至 2026 年 9 月 30 日，<strong>",rss
+"Tue, 27 Oct 2026 16:49:29 +0800",极客公园,Manus，刚刚悄悄发布了自己的 2.0 宣言,http://www.geekpark.net/news/373004,,,"<p>10 月 26 日，Manus 联合创始人、产品合伙人张涛（网名 HideCloud）最近在自己的公众号「潜云思绪」写了一篇长文，标题叫《<strong>用 Manus 改造 Manus</strong>》。</p>
+<p>文章开头是一个让他印象很深的画面。他给工程师提了几条需求和 Bug，过一会儿去看进展，发现对方电脑上开着一排 Codex 和 Manus 的 Session。随便点开一个，输入就是他刚在 Slack 上发的需求原文，一字未改。</p>
+<p>更让他意外的是，这位工程师当时同时在处理十几、二十个需求。在今天的 Manus，这已经是常态。</p>
+<p>这篇文章信息量很大，有几件事最值得记下来。</p>
+<p>Manus 内部做了一个叫 Manus-mono 的统一代码入口，配上一本写给 AI 看的说明书，让 AI 能看到跨仓库的全局。一个需求，一个人就能写完所有端。移动端团队一直只有 7 个人，同时负责 2 个产品、4 个 App，进度和网页版基本同步。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/32/1d/321d0359eee7fc5190a1fd06e11593b2.png"" /></p>
+<p>所有产品经理都向 Manus 提交过代码，大约一半能独立把需求做到上线。有的产品经理交出来的需求，已经从文档变成了一段视频。</p>
+<p>市场团队有了一位「数字同事」，会自己安排工作、主动提醒项目进度，还会跨团队去把功能细节问清楚。</p>
+<p>9 月，<strong>公司的 AI 开销人均超过 1 万美元，少数人一个月就用掉七八万美元</strong>。张涛专门用一节回应了外界的质疑。</p>
+<p>文章发出的时间点也很微妙。9 月底，Manus 发布了 2.0 版本和个人智能体应用 Cue；10 月初，母公司蝴蝶效应宣布完成超过 5 亿美元的新一轮融资，同时在北京开出 17 个岗位。</p>
+<p><strong>放在这个节点上看，这篇文章更像是 Manus 团队进入 2.0 时代的一份宣言</strong>。它讲的是组织如何利用 AI 进化，透露出来的却是这家公司的产品方向、成本逻辑和用人标准。</p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>Manus 本身，就是 2.0 的样板间</strong></p>
+<p>如果你把文章里的内部实践和 Manus 2.0 的功能列表放在一起，会发现它们几乎能一一对上。</p>
+<p>市场团队的数字同事用内部网站觉得不顺手，可以通过一个反馈接口直接提需求，需求一进来就自动触发 Manus 的开发任务。这背后用的是 2.0 的 Automations，收到一条外部通知，就自动开始一个任务。</p>
+<p>产品经理用视频代替需求文档，靠的是 2.0 大幅加强的视频能力，既能用图像生成视频，也能用代码做动画。做语音转文字功能的那位产品经理，故事很典型。她先让 Manus 测试了十多个模型，选定一个接入，再按现有设计规范做 Demo，让 Manus 把用户可能遇到的场景逐一生成图片，一张张检查修改，最后把 Demo 剪成视频。方案清楚了，她干脆把功能写完，网页端和桌面端的界面都出自她手。</p>
+<p>同事做的 Slack 机器人运行在云电脑上。非研发同事想知道某个功能怎么实现、文案在哪、有没有上线，不必先打听归谁管，直接问它就行。<strong>这对应的是 2.0 里可以 7&times;24 小时常驻的云电脑</strong>。</p>
+<p>还有一些功能目前只在内部用。比如同一项目的成员默认能看到彼此的 Session，工程师和 AI 做完大部分工作，产品经理可以进到同一个 Session 里，接着调间距、样式和文案。</p>
+<p>张涛在文末写得很直接，这些是 Manus 接下来要做好的事，「<strong>我们会先自己试，再交到用户手里</strong>」。</p>
+<p>「吃自己的狗粮」这个说法在软件行业流传了几十年。一般认为它源自 1988 年微软高管 Paul Maritz 的一封内部邮件，标题就叫「Eating our own Dogfood」，要求员工多用自家产品。后来更有名的例子是 Slack，它最早是游戏公司 Tiny Speck 开发《Glitch》时自用的沟通工具，游戏没做起来，工具反倒成了主业。</p>
+<p>Manus 走的",rss
+"Tue, 27 Oct 2026 16:46:19 +0800",极客公园,启元机器人第 5000 台下线，从规模化量产迈向商业化验证,http://www.geekpark.net/news/373003,,,"<p>10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。</p>
+<p>对仍处产业化早期的个人机器人行业而言，5000 台的意义不止于产量增长，更在于企业将研发阶段的技术能力转化为可复制的制造能力，并进一步连接产品交付、用户使用与软件迭代&mdash;&mdash;这是个人机器人从技术探索走向消费市场的关键环节，也是检验商业化能力的重要维度。</p>
+<p>随着人工智能从数字世界走向物理世界，机器人产业的竞争正从技术展示延伸至工程化、产品化和商业化能力，启元此次量产实践提供了一个观察个人机器人产业化进程的具体样本。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/6a/c6/6ac6ee1d2fa459291f1d8ee580151b75.png"" /></p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>一个月从 0 到 5000 台，</strong></p>
+<p style=""text-align: center;""><strong>量产制造体系成形</strong></p>
+<p>「自产线启动以来，从 0 台到 5000 台稳定量产下线，仅用时 1 个月。 」启元机器人联席总裁、中央研发部总裁高全中表示，启元机器人的产线目前每 2.5 分钟下线一台机器人，日产能从 10 余台提升至 200 余台。</p>
+<p>对个人机器人而言，量产并非简单增加产线或提高装配速度。机器人融合机械结构、运动控制、感知交互与智能算法等多个系统，既要实现复杂功能，也要在批量制造中控制装配精度、产品一致性与运行可靠性。衡量量产能力，不能只看下线数量，还要看制造体系能否支撑持续生产、质量标准能否适应规模化复制、供应链能否匹配交付需求。</p>
+<p>据介绍，围绕这些环节，启元机器人在生产端通过工艺固化、质量收敛、自动化装配与标定测试提升批量一致性；供应链端联合供应商建立原材料立库、采用半自动化装配线体、搭建端到端制造 IT 系统，实现生产流程可追溯。同时建立涵盖百万级线束弯折测试、十万级关节耐久测试及模组抗冲击测试的验证标准，以提高产品在长期使用过程中的稳定性。</p>
+<p>这些能力共同构成从样机研发走向规模化制造的工程基础。5000 台下线仍是阶段性进展，后续需通过持续交付、产品质量、售后与用户反馈进一步检验制造体系稳定性；但量产体系的价值不仅在于提高当期产出，更为后续产能扩张、供应链协同与产品迭代提供了可复用基础设施。</p>
+<h1 style=""text-align: center;""><strong><em>02</em></strong></h1>
+<p style=""text-align: center;""><strong>发售后真实使用，商业化链路延伸</strong></p>
+<p>量产解决产品能否稳定供给的问题，而个人机器人能否打开消费市场，取决于产品是否具有明确使用价值、用户是否愿意持续使用。</p>
+<p>9 月 20 日，启元机器人正式发售启元 Q1、启元 T1 两款个人机器人，聚焦学习、互动娱乐与家庭生活等个人场景；10 月 25 日，启元机器人将编号「NO.5000」的启元 T1 交付给代表用户董璇，使产线成果与真实使用场景进一步连接&mdash;&mdash;个人机器人开始从发布会上的技术展示，进入用户的实际生活。从产品发布到真实使用，是验证产品定位、功能设计和市场需求是否匹配的重要过程。</p>
+<p>应用层面，启元 Q1、启元 T1 在学习场景支持 AI 启蒙课程、图形化编程、英语口语练习与百科知识问答；互动娱乐方面支持语音游戏、唱歌跳舞与外观 DIY；生活场景可拍摄跟随，并搭配运动相机实现多种运镜效果。这一产品思路区别于传统单一功能设备：通过机器人本体、智能交互与应用能力的结合，让产品参与不同生活活动，并在实际使用中不断拓展价值。</p>
+<p>家庭场景对安全与交互提出更高要求。启元机器人表示产品支持 360 度全向感知避障，针对摔倒、被拎起、遇阻及低电量等设置安全响应机制；交互层面通过 PrimeVista 交互模型探索更自然的语言交流体验。</p>
+<p style=""text-align: center;""><img src=""https:",rss
+"Tue, 27 Oct 2026 16:42:40 +0800",极客公园,帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状,http://www.geekpark.net/news/373002,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/63/91/6391b5eaf5f268ab1691e932148c6d47.png"" /></p>
+<p>Shopify AI 交易订单增长了 13 倍。</p>
+<p>10 月 16 日清晨，苹果第一款折叠屏手机 iPhone Duo 开启预购。1999 美元起售，首批产能紧张，没过多久交付日期就排到了明年 1 月。</p>
+<p>这一次抢首发的，不只是守在屏幕前的人。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/92/7d/927d8a23c547e81c3aab9d16b837431d.png"" /></p>
+<p>今年 Agent 成为 iPhone Duo 黄牛最严厉的父亲｜图片来源：Apple</p>
+<p>在 MacRumors 论坛上，一位没抢到的用户愤愤不平地吐槽，Reddit 上有人在炫耀自己设置的 Muse 机器人一口气拿下了好几台，真人还没来得及点，库存就被 AI 扫走了。</p>
+<p>Muse 是 Meta 在 9 月 8 日推出的个人 Agent，上线后一度登顶美区 App Store 免费榜，下载量很快超过 250 万。Meta 方面表示，购物已经成为 Muse 最主要的使用场景之一。就在 iPhone Duo 开售前后，Muse 还专门发了新版本适配这台新机，更新说明里紧跟着的一句，是让聊天里的购物变得更方便。</p>
+<p><strong>AI 替人购物，已经从发布会上的演示，走进了真实的抢货现场。</strong></p>
+<p>但并不是每家商店都欢迎这些新顾客。 9 月下旬，亚马逊开始封禁 Muse。 到了 10 月，马斯克旗下 Grok Bot 的用户在亚马逊下单时，也撞上了同一句警告，未经授权的 AI 代理继续访问，违反亚马逊的使用条款。</p>
+<p>另一家公司，Shopify，则走了完全相反的路。9 月 21 日，Shopify CEO Tobi L&uuml;tke 宣布与 Muse 深度合作，让 Muse 可以用 Shop Pay 在所有 Shopify 店铺完成结账。</p>
+<p>而 Shopify 的财报，已经给出了这条路的早期回报。<strong>今年一季度，来自 AI 搜索的订单同比增长接近 13 倍，AI 带来的店铺流量增长 8 倍</strong>。</p>
+<p>一边关门，一边开门。<strong>当越来越多的购物决定交给 Agent，「让不让 Agent 进门」，会不会成为 AI 时代电商排位的关键变量？</strong></p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>13 倍增长背后的空间</strong></p>
+<p>Shopify 是这一轮 AI 购物热潮里最积极的「玩家」。</p>
+<p>2025 年四季度，它报出 AI 驱动的订单增长 15 倍。2026 年一季度，AI 带来的店铺流量同比增长 8 倍，AI 搜索产生的订单增长接近 13 倍，而且来自 AI 搜索的新买家订单，增速接近传统自然搜索的两倍。同一个季度，Shopify 交出了四年多来最快的营收增速。</p>
+<p>到了二季度，倍数回落到 3 倍，AI 带来的流量和订单都是去年同期的三倍。但这一季的结构更耐看，<strong>75% 的 AI 归因购买发生在平台前 100 大品类之外</strong>，通过 Shopify Catalog 完成的 AI 搜索，转化率是普通 AI 搜索的两倍。</p>
+<p><strong>这组数据说明的是「增长很快」，而不是「规模很大」。</strong></p>
+<p>Shopify 自己说得很坦白。二季度电话会上，总裁 Harley Finkelstein 承认，agentic commerce 的交易量相对于平台庞大的 GMV 仍然很小。至今 Shopify 也没有披露过 AI 渠道 GMV 的绝对值或占比，而它二季度的 GMV 是 1160 亿美元。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/13/20/1320cb79",rss
+"Tue, 27 Oct 2026 15:59:20 +0800",极客公园,左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场,http://www.geekpark.net/news/372939,,,"<section><strong>作者｜Cynthia</strong><strong><br /></strong></section>
+<section><strong>编辑｜郑玄</strong></section>
+<p>2026 年的 AI 3D 赛道，正站在一个微妙的分水岭上。</p>
+<p>一级市场的热度仍在攀升，新模型、新创业公司层出不穷，单图生 3D 的正面渲染效果几乎已经做到了以假乱真。</p>
+<p>但剥开炫目的 Demo 外壳：绝大多数生成结果依然停留在「转台展示」阶段：一个精致的角色或机械模型，在灯光下缓缓旋转，鳞片、衣褶和金属刻纹栩栩如生；可这些细节一旦进入游戏引擎装配、工业仿真以及 3D 打印的真实生产流程就立刻原形毕现：结构断裂、背面崩坏、细节粘连、网格不可编辑等问题开始集中爆发，大量人工修补成本吞噬了 AI 带来的效率红利。</p>
+<p>正面视图保真度不等于 3D 质量成为新的行业共识。AI 3D 的竞赛，也从 能不能生成」的上半场，进入了能不能落地的下半场。</p>
+<p>也正是在这个节点上，头部玩家 Hi3D 接连落下两枚棋子：正式开源经过生产验证的 Hi3D V1.0 底座，同时推出以创作者为核心的 Hi3D Agent，一头连接产业底层，一头深度扎根进入真实的创作全流程。</p>
+<p>在此之前，这家成立不到三年的公司已经交出了一份扎实的成绩单：半年内连续完成两轮融资、总额近 5000 万美元，红杉中国、IDG 资本、美团龙珠等一线机构扎堆下注；旗下 Hi3D 平台覆盖<strong>120+ 国家与地区、200 万 + 创作者</strong>，与拓竹科技、xTool 等头部设备商深度集成。</p>
+<p>从稀疏几何技术的学术突破，到生产级模型的开源开放，再到 Agent 创作系统的全链路打通，Hi3D 已经拿下了通往 3D 生成下半场的门票。</p>
+<h1><strong><em>01</em></strong></h1>
+<p><strong>3D 生成，被高估的 Demo，</strong></p>
+<p><strong>被低估的生产鸿沟</strong></p>
+<p>单图生 3D 的底层逻辑，天然带着视角偏见。随着<strong>ULIP、Uni3D 等指标被反复刷新，重正面、轻整体，重外观、轻内部逻辑的一度成为这个行业过去几年的共同写照。</strong></p>
+<p>但 3D 资产的本质，是可旋转、可编辑、可加工的立体对象。一张角色图片里，垂落的发丝可以只占几个像素。进入三维空间后，模型必须决定它的厚度、与肩膀之间的距离，以及它如何连接头部。更进一步，物体的光影与轮廓之外，背面、底部、被遮挡的内部结构，全部需要模型从训练数据中学到的三维先验进行推理。</p>
+<p>否则，一个正面相似的 3D 模型，很可能转个角度就露出马脚&mdash;&mdash;本该闭合的壳体出现破洞，对称的零件左右扭曲，纤细的结构要么融成一团，要么直接凭空消失。</p>
+<p>更进一步，解决了多视角下的几何一致性问题后，一个模型能否被下游工具使用，还取决于它的精细结构保留度、网格拓扑合理性，甚至是壁厚、封闭性等工程属性。</p>
+<p>有实测数据显示：同处 1536&sup3; 分辨率档位，即使一些头部玩家的产品，3D 打印切片成功率仅为 7%-17%。看起来细节拉满的模型，实际走向实体生产就会变得困难重重。</p>
+<p>这也解释了为什么资本市场热度不减，产业端却始终处于试点多、规模化少的状态。<strong>而当行业走向下半场，谁能先跨过 Demo 好看&rarr;生产好用这道坎，谁才能真正拿到 AI 3D 产业化的入场券</strong>。</p>
+<h1><strong><em>02</em></strong></h1>
+<p><strong>Hi3D V1.0 开源：</strong></p>
+<p><strong>把 200 万资产训练的生产级底座，</strong></p>
+<p><strong>交还给全行业</strong></p>
+<p>Hi3D V1.0 的技术起点，可以追溯到 2025 年的 Sparc3D。</p>
+<p>这项由 Math Magic、南洋理工大学及帝国理工学院研究者参与的研究，处理的是高分辨率三维建模中的一个基础问题：怎样保存复杂表面，又不让计算和存储成本随着分辨率失控。</p>
+<p>三维网格背后的体素空间有立方级的规模变化。每个方向从 1024 提高到 1536，线性分辨率增加 50%，完整网格中的单元数量就会变成原来的 3.375 倍。大量空白区域如果也参与计算，成本会迅速上升。</p>
+<p>Sparc3D 采用稀疏表示，将计算更多集中在与物",rss
+"Wed, 28 Oct 2026 01:15:28 +0000",TechCrunch AI,"VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/,,,Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.,rss
+"Tue, 27 Oct 2026 21:38:28 +0000",TechCrunch AI,Who’s really in charge at Anthropic after the IPO?,https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/,,,Here's a clear explanation of Anthropic's incredibly complex governance structure.,rss
+"Tue, 27 Oct 2026 16:30:57 +0000",TechCrunch AI,"Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/,,,"Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",rss
+"Tue, 27 Oct 2026 14:59:09 +0000",TechCrunch AI,Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace,https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/,,,"Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",rss
+"Tue, 27 Oct 2026 13:00:00 +0000",TechCrunch AI,"General Compute raises $100 million Series A, countering the neocloud disaster narrative",https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/,,,General Compute is betting on inference chips from outside the Nvidia ecosystem.,rss
+2026-10-27T13:30:00-04:00,The Verge AI,VisionQuest is what happens when AI really goes rogue,https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai,,,"In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",rss
+2026-10-27T12:51:22-04:00,The Verge AI,Anthropic’s elaborate plan to keep Wall Street at bay,https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety,,,"Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",rss
+2026-10-27T12:00:00-04:00,The Verge AI,Google’s next Genie AI model generates more realistic experiences,https://www.theverge.com/tech/1019076/google-genie-4-ai-model,,,"Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",rss
