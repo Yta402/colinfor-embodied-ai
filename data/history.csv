@@ -5712,3 +5712,56 @@
 <p><strong>类似的故事，在具身智能论文里反复出现。</strong></p>
 <p>斯坦福大学视觉与学习实验室 10 月发布的 OpenWAM 项目，初衷是给世界 - 动作模型（World-Action Model）做一套统一的对比框架。过去各家模型各写各的代码，架构不兼容、接口不统一，想比个优劣得先重写半套环境。他们找了一圈现成的实现，最后把 LingBot-VA 的 Transformer 架构、文本编码器和分词器整套拿了过来，作为整个框架的参考实现。</p>",rss
 "Wed, 28 Oct 2026 19:19:58 +0000",TechCrunch AI,Anthropic just launched tools to show companies what their AI spending is buying,https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/,,,The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.,rss
+"Thu, 29 Oct 2026 03:27:50 +0000",量子位,文远知行001号员工带队，景烁科技首轮融资数千万美元,https://www.qbitai.com/2026/10/506281.html,,,10月29日，文远知行披露旗下子公司景烁科技首次融资进展,rss
+"Thu, 29 Oct 2026 02:51:45 +0000",量子位,小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实,https://www.qbitai.com/2026/10/506273.html,,,2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。,rss
+"Wed, 28 Oct 2026 11:09:10 +0000",量子位,【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告,https://www.qbitai.com/2026/10/506194.html,,,让基建作为常驻buff,rss
+"Wed, 28 Oct 2026 09:01:27 +0000",量子位,威卡：用数据集链接具身智能和工程机械,https://www.qbitai.com/2026/10/506063.html,,,威卡：为工程机械的智能化与少人化，提供一条被验证的路径,rss
+"Wed, 28 Oct 2026 08:55:26 +0000",量子位,0营收估值200亿美元，具身版OpenAI又融10亿美元,https://www.qbitai.com/2026/10/506042.html,,,斯坦福伯克利宗师组团，贝索斯红杉抢着送钱,rss
+"Fri, 30 Oct 2026 08:15:04 +0800",极客公园,Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道,http://www.geekpark.net/news/373154,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/02/64/02644a2f89f2e3c078fd52a66ef1e4fe.png"" /></p>
+<h1>谷歌市值创纪录蒸发 5000 亿美元 AI 侵蚀营收</h1>
+<p>Alphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/fa/f7/faf775e9f314b741c0cd9e4603e99f2e.png"" /></p>
+<p>这家谷歌母公司公布，第三季度不含合作伙伴分成的营收为 1112 亿美元，低于分析师预测。搜索及其他渠道的广告营收也不及预期，增速为五个季度来最慢。这项业务约占公司总营收的一半，也是为巨额 AI 投资提供资金的关键来源。</p>
+<p>摩根大通分析师 Doug Anmuth 等人在研报中表示，业绩和股价反应显示，对于投入数千亿美元建设 AI 基础设施的超大规模云服务商而言，一旦核心业务业绩令人失望，容错空间有多小。</p>
+<p>截至纽约时间上午 9：35，Alphabet 股价下跌 13%，至 281.37 美元，市值蒸发 5110 亿美元。这跟竞争对手微软的表现形成鲜明反差。微软云业务增速超出华尔街预期，同时控制支出，推动股价上涨。</p>
+<p>谷歌首席商务官 Philipp Schindler 周三晚间在财报电话会议上表示，谷歌搜索中新推出的 AI Mode 标签页日益普及，对公司业绩造成了拖累。他表示，AI 查询的「变现能力较低」，不过公司对此仍持乐观态度，并计划在搜索引擎的这一板块投放更多广告。</p>
+<p>多年来，谷歌高管一直认为，AI 聊天机器人和相关功能不会大幅侵蚀其搜索业务。但随着消费者转向 ChatGPT、Claude 以及谷歌自身的 AI 功能，投资者担心这会冲击公司的核心盈利来源。</p>
+<p>第三季度谷歌服务业务总营收 963 亿美元，低于预期的 984 亿美元。YouTube 广告营收 112 亿美元，也低于预期。</p>
+<p>公司自由现金流连续第二个季度为负，为上市以来首次连续两季出现负值。</p>
+<p>Alphabet 的股权投资也拖累了公司利润。这些投资录得 87 亿美元亏损，很大程度上源于 Alphabet 所持 SpaceX 股份。这与一年前的投资收益以及第二季度的巨额收益形成鲜明反差；第二季度的收益主要来自 SpaceX 和一家非上市公司的投资，后来确认这家公司是 Anthropic PBC。</p>
+<p>Alphabet 第三季度每股净利润为 2.12 美元，远低于华尔街预期的 2.99 美元。</p>
+<p>财报中的一个亮点是谷歌云，该业务被视为衡量公司 AI 产品和托管服务需求的重要指标。谷歌云营收 307 亿美元、利润 111 亿美元，均高于分析师预期的 291 亿美元和 98 亿美元。该业务的大客户包括 Anthropic 等在 AI 竞赛中与谷歌竞争的初创公司。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/64/93/6493ace7c0ce32e295513609584b12cd.png"" /></p>
+<h1>腾讯汤道生：WorkBuddy 已覆盖中国企业 500 强中的 50%</h1>
+<p>10 月 29 日消息，在今日举行的腾讯全球数字生态大会上，腾讯表示，今年 3 月，WorkBuddy 正式上线。7 个月的时间里，WorkBuddy 累计迭代 100 个大版本，<strong>完成 90 亿次用户任务请求</strong>，成为中国用户规模最大的 AI 办公效率智能体。</p>
+<p>腾讯集团高级执行副总裁、云与智慧产业事业群 CEO 汤道生透露，自今年 3 月上线以来，<strong>WorkBuddy 企业版已落地 50 多个行业，覆盖中国企业 500 强中的 50%、企业 100 强中的 60%</strong>，开放平台伙伴和开发者超过 5 万家，上架 Skills 超 20 万。</p>
+<p>据悉，<strong>WorkBuddy 将全面开放产品架构</st",rss
+"Thu, 29 Oct 2026 15:09:14 +0800",极客公园,大众把三年在中国攒的家底，打包成了一颗「星」,http://www.geekpark.net/news/373086,,,"<p>&nbsp;</p>
+<p><img src=""https://imgslim.geekpark.net/uploads/image/file/e6/7d/e67d5676bb4d31cd5f3eec5e269332ac.jpg"" /></p>
+<p>头图来源：极客公园</p>
+<p>10 月 28 日，合肥，大众汽车集团（中国）办了自己的第一次技术日。</p>
+<p>这场发布会的主角叫「VEGA」，名字取自织女星，是大众在中国本土自研的一体化技术矩阵。它把整车平台、电子电气架构和高级驾驶辅助系统三大核心技术打包成了一套体系。</p>
+<p><strong>按大众的说法，它由此成为中国市场唯一一家拥有本土开发自研技术矩阵的外资车企。</strong></p>
+<p><img src=""https://imgslim.geekpark.net/uploads/image/file/76/fe/76fef3ecf439cbfc0005ea654111cbbd.jpg"" /></p>
+<p>大众汽车集团（中国）董事长兼 CEO 贝瑞德在台上说，短短三年，大众在中国打造出了一套一体化的技术矩阵，在国际汽车制造商之中，能做到这一点的应该屈指可数。</p>
+<p>这句话的背后，是大众这几年在面对激烈的「中式竞争」后，第一次重新找到了方向的自信。</p>
+<h2>「在中国造」到「在中国研」</h2>
+<p>把时间往回拨四年。</p>
+<p>2022 年，大众把在华战略从「在欧洲，为中国」改成了「在中国，为中国」。贝瑞德的解释是，大众要从过去在中国生产制造，走向在中国自主创新。</p>
+<p>2023 年，大众在德国以外规模最大的研发中心 VCTC 在合肥成立。如今这里有 3000 多名员工，中国团队从执行方变成了主导方，本土工程师拿到了在本地自主决策的权力。</p>
+<p>这个转向背后有现实的压力。2025 年，大众集团全球营业利润 89 亿欧元，而 2024 年是 191 亿欧元。在华交付约 269 万辆，规模依然靠前，但本土品牌在智能化上的攻势，让「德国研发、中国生产」的老模式越来越跟不上节奏。</p>
+<p><img src=""https://imgslim.geekpark.net/uploads/image/file/71/61/71610087db1f6ed416e51f92113a49fd.jpg"" /></p>
+<p>VEG A是大众在中国本土自研的一体化方案|图片来源：极客公园</p>
+<p>VEGA 就是这四年转型的第一份完整答卷。贝瑞德说，VEGA 不只是一套技术矩阵，更是一种能力，<strong>在中国本土自主研发、自主整合并持续迭代核心技术的能力。</strong></p>
+<p>VEGA 的第一根支柱是新一代整车平台，CMP 和 CSP。</p>
+<p>CMP 面向 A 级到 A+ 级的主流市场，支持纯电和插混；CSP 面向 B 级到全尺寸及未来的旗舰车型，支持纯电和增程。</p>
+<p>CMP 车型 CLTC 续航超过 600 公里，最高效版本百公里电耗约 11 千瓦时，30% 到 80% 充电 25 分钟。CSP 纯电车型续航目标约 800 公里，增程版综合续航超过 1500 公里，依托峰值电压超过 850 伏的高压架构，10% 到 80% 最快不到 13 分钟。</p>
+<p><img src=""https://imgslim.geekpark.net/uploads/image/file/58/0f/580fca118d587956b5ebe437288d61bc.jpg"" /></p>
+<p>首席技术官吴博锐称大众是智能网联汽车时代的「平台之王」｜图片来源：极客公园</p>
+<p>驾控是大众更愿意强调的部分。CMP 用了 54:46 的前后轴荷分配，后悬架是源自 MQB B 级车的多连杆独立悬架，<strong>目标是把 B 级车的驾控带进 A 级车</strong>。CSP 则反过来，靠后轮转向把全尺寸车的转弯半径压到 5.5 米以内，零百加速 4.1 秒。</p>
+<p>首席技术官吴博锐在台上直接说，大众是智能网联汽车时代的「平台之王」。从 MQB 到 CMP，平台化本来就是大众几十年的看家本事，只是这一次，平台是围绕软件设计的。</p>
+<h2>CEA，让软件先行</h2>
+<p>第二根支柱是 CEA 电子电气架构，也是这次发布会上「最不像大众」的部分。</p>
+<p>CEA 首席架构师韩三楚是前长安汽车首席软件架构师。他在台上讲了一个顺序问题。过去一百多年，汽车开发都是先设计机械结构，再加电子部件，最后写软件。三年前，大众在中国决定把这个顺序倒过来，<strong>先定义电子电气架构，再以",rss
+"Thu, 29 Oct 2026 16:21:00 +0000",TechCrunch AI,Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction,https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/,,,"Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",rss
+2026-10-29T10:00:00-04:00,The Verge AI,Anthropic is asking Wall Street to believe in AGI,https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview,,,"Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start [&#8230;]",rss
