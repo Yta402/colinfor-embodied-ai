@@ -1,17 +1,21 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "collected": 57,
   "deduped": 56,
   "tagged": 0,
   "report": {
     "sources": [
       {
+        "name": "艾邦机器人",
+        "count": 6
+      },
+      {
         "name": "IEEE Spectrum Robotics",
         "count": 26
       },
       {
         "name": "量子位",
-        "count": 6
+        "count": 2
       },
       {
         "name": "极客公园",
@@ -19,10 +23,6 @@
       },
       {
         "name": "TechCrunch AI",
-        "count": 2
-      },
-      {
-        "name": "The Verge AI",
         "count": 1
       }
     ],
