@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "collected": 57,
   "deduped": 56,
   "tagged": 0,
@@ -15,7 +15,7 @@
       },
       {
         "name": "量子位",
-        "count": 2
+        "count": 1
       },
       {
         "name": "极客公园",
@@ -23,7 +23,7 @@
       },
       {
         "name": "TechCrunch AI",
-        "count": 1
+        "count": 2
       }
     ],
     "errors": []
