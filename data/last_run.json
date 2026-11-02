@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-01",
-  "collected": 57,
-  "deduped": 56,
+  "date": "2026-11-02",
+  "collected": 58,
+  "deduped": 57,
   "tagged": 0,
   "report": {
     "sources": [
@@ -15,11 +15,11 @@
       },
       {
         "name": "量子位",
-        "count": 1
+        "count": 3
       },
       {
         "name": "极客公园",
-        "count": 22
+        "count": 21
       },
       {
         "name": "TechCrunch AI",

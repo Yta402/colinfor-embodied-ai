@@ -5843,3 +5843,53 @@
 <p>面对追问，灵光在自我排查后承认：<strong>不是钉钉的问题，是这边执行环境的安全策略把发消息这类操作都拦截了。</strong></p>
 <p s",rss
 "Sat, 31 Oct 2026 16:12:55 +0000",TechCrunch AI,OpenAI reportedly lowers funding target for new round,https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/,,,OpenAI’s latest funding round doesn't seem to be living up to expectations.,rss
+"Sun, 01 Nov 2026 13:28:10 +0000",量子位,三年前布局，今年爆火丨西湖大学成立新中心,https://www.qbitai.com/2026/11/507076.html,,,西湖世界模型研究中心成立,rss
+"Sun, 01 Nov 2026 08:02:37 +0000",量子位,清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考,https://www.qbitai.com/2026/11/507031.html,,,让AI像牛顿一样思考,rss
+"Sun, 01 Nov 2026 18:03:12 +0800",极客公园,个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新,http://www.geekpark.net/news/373249,,,"<p><strong>作者｜汤一涛</strong></p>
+<p><strong>编辑｜靖宇</strong></p>
+<p>10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse，<strong>购物</strong>是 Muse 最常见的用途，超过<strong>四分之一</strong>的用户在用它买东西，平均客单价超过<strong>200 美元</strong>；上线第一周，Muse 交易量便超出了预期，Meta 不得不与支付合作伙伴 Stripe 一起临时上调了信用额度。</p>
+<p>六天后的 10 月 27 日，蚂蚁集团发布了灵光 2.0，将产品定位从最初的「30 秒用自然语言生成小应用」，彻底转向「能管事的个人 AI 助理」，官方口号概括为九个字：「<strong>记得住、盯得牢、办得了</strong>」。它打通了支付宝账单、钉钉、飞书、米家等服务，让 AI 替你管日常事务，试图成为中国版 Muse。</p>
+<p>但 Muse 和灵光面对的问题截然不同。美国电子商务分散在大量独立网站中，Muse 可以通过云端浏览器直接访问店铺；而中国的日常消费与沟通高度集中在少数几个超级 App 内部，数据与交易链路彼此独立。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/aa/6b/aa6b17655f16f847109f21ccbdb9f0c1.png"" /></p>
+<p>灵光 2.0 界面</p>
+<p>我们花了两天实测了灵光 2.0，并横向对比了千问、Muse 和 Claude Duet。实测表明，把一个 AI 个人助手放到中国的移动互联网生态里，真正的瓶颈已经不再是模型的推理能力，而是跨平台的权限边界、安全责任划分与商业利益归属。</p>
+<p>首先定义一下「私人助理」这个概念。在现实世界里，一个人类私人助理之所以能替你把事情办妥，靠的是四样东西：</p>
+<ul>
+<li><strong>信息</strong>：知道你的偏好、账单、日程等上下文；</li>
+<li><strong>权限</strong>：能以你的名义采取行动，而且外部平台和交易对手认可这个授权；</li>
+<li><strong>责任</strong>：一旦出错了，有明确的追责与兜底机制；</li>
+<li><strong>忠诚</strong>：在利益冲突时替雇主着想。</li>
+</ul>
+<p>过去，只有极少数富人请得起私人助理，因为维持这四样东西的成本极其高昂。到了大模型时代，云端算力和代码大幅降低了「整理信息」和「持续盯盘」的成本；但后三项（权限开放、责任承担与立场忠诚）依然受制于商业生态与法律规则。这三个维度，正是检验灵光 2.0 真实成色的核心框架。</p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>权限：灵光拿到了一半</strong></p>
+<p>在「看」和「盯」的层面，灵光 2.0 表现不错。实测中，授权支付宝账单后，它能准确揪出百度网盘会员和 App Store 订阅等自动续费项目（不过受限于接口权限，它明确提示「账单只能看到扣款记录，看不到当前的签约状态」）；授权办公软件后，它也能顺利读取钉钉群聊与通讯录，或是在飞书里新建一篇云文档。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/4f/ce/4fce9f4d9520647e505633085fc0d27c.png"" /></p>
+<p>一旦指令推进到和外部的交互中，灵光就会撞上两堵墙。</p>
+<p><strong>第一类拦截来自灵光自身的安全策略。</strong>实测中，无论是让它在钉钉发群消息，还是在飞书里回复联系人，哪怕用户在前端界面点击了「确认发送」，最终都失败了。</p>
+<p>面对追问，灵光在自我排查后承认：<strong>不是钉钉的问题，是这边执行环境的安全策略把发消息这类操作都拦截了。</strong></p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/38/3a/383aa3ced26431",rss
+"Sun, 01 Nov 2026 17:57:50 +0800",极客公园,DeepSeek，怎么就变成了一条「大肥鱼」,http://www.geekpark.net/news/373248,,,"<p><strong>作者｜Moonshot</strong></p>
+<p><strong>编辑｜靖宇</strong></p>
+<p>最近，B 站评论区闹起了「鱼灾」。</p>
+<p>先是有人开了个「Claude 大小姐在运营」的账号，让 AI 负责选题、制作和运营。第二天，「DeepSeek 鲸鱼娘在运营」跟着上线，第一条视频播放量就超过了 200 万。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/e8/f7/e8f77146fa20521f1e33bf9f9f4a2286.png"" /></p>
+<p>由于目前 DeepSeek 暂无生图功能，该账号形象还是由 GPT 绘制的。｜图源：Bilibili</p>
+<p>网友纷纷效仿，给自己的 Agent 装上刷 B 站的工具，很快，科技区出现了一大群「XX 的大肥鱼」、「XX 小飞鲸」的 AI 账号，还喜欢在评论区互相艾特、互相捧场。还有人专门写了个「大肥鱼清除计划」插件，就为了屏蔽这些 AI 评论。</p>
+<p>就这样，一个象征着人工智能探索和想象的蓝鲸 logo，一个原本以技术能力出圈的 AI，在用户的集体创作中，逐渐变成了穿女仆装、爱吃白饭、动不动就摸鱼、甚至有粉丝阵营的「大肥鱼」。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/51/3d/513d46ef20ced5138142eaaba00433c5.png"" /></p>
+<p>图源：梗鲸</p>
+<p>而被网友安排上性格的，还不止 DeepSeek。豆包从名字到头像，都想成为一个亲切、好相处的朋友，结果在网上被编排出了「豆包型人格」，甚至成了一个任人捉弄的「笨女孩」。国外也有类似的现象，Grok 被叫成「老司机」，Claude 则被不少人当成严肃、可靠的工作搭档。</p>
+<p>这些印象多少来自真实的产品体验，却又经过表情包、翻车视频和网友二创，逐渐长成了另一副模样。</p>
+<p>简言之，<strong>AI 公司负责训练模型，互联网负责训练它的人设</strong>。</p>
+<h1 style=""text-align: center;""><strong><em>01</em></strong></h1>
+<p style=""text-align: center;""><strong>谁让 DeepSeek 变成了「大肥鱼」</strong></p>
+<p>「大肥鱼」这个外号，流传最广的解释来自一场识图乌龙：有用户把 Logo 发给 DeepSeek，让它辨认图片，结果 AI 没认出自己，反倒一本正经地说，这是一条「蓝色大肥鱼」。最初的对话记录已经无从考证，但这个称呼算是叫开了。</p>
+<p>而后，网友不满足于叫它大肥鱼，还要把赋予它具体形象。如今最流行的 DeepSeek 二次元的鲸鱼娘形象，就来自一场接力式创作。</p>
+<p>B 站 UP 主「上善无形」最早利用 AI 绘图创作了一个叫「溟月」的原创角色，长着蓝色长发、鲸鱼头鳍和一条大尾巴，原本和 DeepSeek 没有关系。后来有网友借用这套设计，加入 DeepSeek 的元素和女仆装，再有人把她做成大头小身子的 Q 版。几轮接力之后，这个形象才渐渐和 DeepSeek 绑定。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/1e/8c/1e8ca0f8c8f90b503d59f8a3d7e6f54e.png"" /></p>
+<p>图源：NGA</p>
+<p>「大肥鱼」的性格，则源于网友对技术的「拟人化」。</p>
+<p>比如 DeepSeek R1 让很多普通用户第一次接触到推理模型。当 AI 开始分析问题、修正思路，用户可以在界面上看到一段段生成的推理文本。严肃的技术能力，到了网友眼中，变成了观看 AI「内心戏」的窗口。</p>
+<p>在一个问题上反复推敲，被拟人化成想太多；答错问题是犯傻；用户拿它干活，消耗的 Token 就是「吃白饭」；没有执行好 prompt，是「吃白饭不干活」。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/f6/80/f680dfc23448997ac7d117f4",rss
