@@ -1,0 +1,27 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+"Sun, 08 Nov 2026 04:09:55 +0000",量子位,资本正在撤离“世界模型”,https://www.qbitai.com/2026/11/508466.html,,,没有永远的夏天,rss
+"Sat, 07 Nov 2026 08:11:25 +0000",量子位,OpenAI新融资到账110亿美元，不及原计划一半,https://www.qbitai.com/2026/11/508344.html,,,融资缩水，硅谷投资人也谨慎了,rss
+"Sat, 07 Nov 2026 03:31:44 +0000",量子位,浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生,https://www.qbitai.com/2026/11/508236.html,,,中国版cosmos再交卷,rss
+"Mon, 09 Nov 2026 10:58:04 +0800",极客公园,黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层,http://www.geekpark.net/news/373687,,,"<p style=""text-align: left;""><img src=""https://imgslim.geekpark.net/uploads/image/file/00/ea/00eac58e58610d574fce85c596f85521.png"" /></p>
+<h1>黄仁勋承认「婚外情」，英伟达启动调查</h1>
+<p>11 月 9 日消息，英伟达 CEO 黄仁勋当地时间 8 日于公司官网发布致全员公开信，就个人私事致歉，同时披露董事会将针对相关报道提及的国家安全关切展开独立调查。</p>
+<p>黄仁勋在信中承认自己对妻子不忠，坦言该行为伤害家人，对此承担全部责任，并接受外界批评。他表示家人不应为其个人选择负责，恳请公众给予家人隐私空间，希望能有机会重新赢回家人信任。他强调自己对英伟达始终坚定，将努力重新赢得团队与投资方的信赖。</p>
+<p>针对近期报道带出的国家安全相关质疑，黄仁勋确认董事会已启动独立调查，本人将全力配合。</p>
+<p>此前据《纽约时报》报道，美国政府认为黄仁勋与一家名为 Megaspeed 的新加坡科技公司前高管 Alice Huang（黄乐）存在密切关系。（来源：DoNews）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/2c/c1/2cc1e846912b71d077050641095c7c14.png"" /></p>
+<h1>特斯拉更新 AI 加速器路线图：SI6 算力达 HW4 的 80 倍，Dojo D3 将面向太空部署</h1>
+<p>11 月 8 日消息，特斯拉公布了更新后的 AI 加速器路线图，进一步揭示了公司未来几年的芯片研发方向。根据这份路线图，特斯拉第六代推理加速器的算力预计将达到现有第四代芯片的 80 倍；而用于训练任务的 Dojo D3 将放弃以 SRAM 为核心的架构，转向采用多芯粒设计，并搭载堆叠式 HBM 高带宽内存。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/61/74/6174660db9a3a8fde06e2f6b7e45dcb2.png"" /></p>
+<p>此外，特斯拉还开始用「超级智能」（Super Intelligence，SI）取代「人工智能」（Artificial Intelligence，AI）这一名称，为旗下 AI 加速器启用 SI 系列命名。出于相同原因，马斯克近期也确认，SpaceXAI 将更名为 SpaceXSI。</p>
+<p>这份路线图中最值得关注的变化，或许是特斯拉重新启动了自主研发的 Dojo 训练加速器项目。</p>
+<p>马斯克曾在 2025 年 8 月取消整个晶圆级 Dojo 项目，并于 2026 年 8 月表示，SpaceX 和 xAI 将在其地面及太空数据中心中全部采用英伟达硬件。不过，第三代 Dojo D3 与前两代 Dojo D1、Dojo D2 将有明显不同。</p>
+<p>特斯拉将下一代 Dojo D3 描述为一款基于芯粒（Chiplet）的训练加速器，采用 2.5D 和 3D 封装技术，并搭载堆叠式 HBM 内存。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h1>亚马逊成立新团队专攻家用机器人，剑指「前所未有」的新产品</h1>
+<p>11 月 8 日消息，分析亚马逊的招聘信息发现，过去几个月，亚马逊组建了一支新团队，准备开发<strong>一款前</strong>所未有的机器人产品。</p>
+<p>亚马逊近期发布的一则工程师招聘信息写道：「机器人即将走出电影，进入我们的家中。」这条被撤掉的招聘信息透露，新产品能够适应不断变化的家庭环境，并在人类家庭成员身边自主活动。</p>
+<p>亚马逊一向愿意押注长期项目，即便短期内不被外界理解，只要能够帮助公司抢占新市场的先机，就值得投入。此前的 Alexa 语音助手和 Kindle 电子书阅读器，都采用了这种发展策略。</p>
+<p>亚马逊 CEO 安迪 &middot; 贾西在最近的年度股东信中重申了这一思路，认为人工智能和机器人技术将带来人们一生中最重大的变革之一。「我们努力预判什么能让客户每天的生活更轻松、更美好，并创造下一个重大转折点。」</p>
+<p>LinkedIn 个人资料显示，今年早些时候，亚马逊将 Astro 项目的大部分成员调往其他岗位，还聘请了一名麻省理工学院的机器人专家参与家用机器人研发。</p>
+<p>至于新团队究竟打算开发什么样的家用机",rss
+"Mon, 09 Nov 2026 10:18:55 +0800",极客公园,具身智能，也到了 API 时刻？,http://www.geekpark.net/news/373683,,,"<div><section><section style=""margin-top: 0; margin-bottom: 0; margin-left: 8px; margin-right: 8px;""><img alt="""" src=""https://imgslim.geekpark.net/uploads/image/file/86/c2/86c2188de0ea10a31e7313f01a5e6eea.jpg"" style=""width: 100%; vertical-align: bottom; margin: 0;"" /></section><section><span><span>具身智能的 API 时刻意味着部分具身模型已经开始具备跨本体迁移、在一定范围内适应新任务的能力。</span></span></section><section style=""margin: 48px 0; padding: 0; margin-left: 8px; margin-right: 8px;""><p style=""text-align: left; margin-left: 8px; margin-right: 8px; margin: 0;""><strong style=""font-weight: bold; line-height: 1.5; color: rgb(55, 84, 116); text-align: left;""><span>作者｜Li Yuan</span></strong></p><p style=""text-align: left; margin-left: 8px; margin-right: 8px; margin: 0;""><strong style=""font-weight: bold; line-height: 1.5; color: rgb(55, 84, 116); text-align: left;""><span>编辑｜郑玄</span></strong></p></section><p style=""line-height: 1.75; margin: 0 0 24px 0; margin-left: 8px; margin-right: 8px;""><span><span>具身智能，也到了 API 时刻？</span></span></p><p style=""line-height: 1.75; margin: 0 0 24px 0; margin-left: 8px; margin-right: 8px;""><span><span>过去，想知道一个具身模型有多强，往往要看它在发布视频里完成了什么任务。不过，这条线正在松动。</span></span></p><p style=""line-height: 1.75; margin: 0 0 24px 0; margin-left: 8px; margin-right: 8px;""><span><span>就在近期，一些公司开始把另一种检验方式交到开发者手里：接上你自己的机器人，试着把你的任务做出来。</span></span></p><p style=""line-height: 1.75; margin: 0 0 24px 0; margin-left: 8px; margin-right: 8px;""><span><span>10 月，Physical Intelligence（PI）开放了模型 API 测试。开发者可以上传自己的机器人数据，在平台上微调模型，再通过云端推理驱动机器人。PI 表示，一家公司，用这套服务迭代了四天，让双臂机器人开始为自身的零部件去毛刺。</span></span></p><p style=""line-height: 1.75; margin: 0 0 24px 0; margin-left: 8px; margin-right: 8px;""><span><span>同月，Dream Labs 推出 Dream API，将机器人模型推理按作业时长计费，并提供面向开发者数据的模型微调服务。让机器人调用云端模型，正在成为一种可以试用、适配和购买的服务。</span></span></p><p style=""line-height: 1.75; margin: 0 0 24px 0; margin-left: 8px; margin-right: 8px;""><span><span>国内，11 月 3 日，原力灵机升级了 Dexmal MaaS，将重点放在模型进入具体场景所需的后训练上：开发者可以在同一平台完成数据上传、模型训练和部署，再根据真机执行中的失败继续改进。</span></span></p><p s",rss
