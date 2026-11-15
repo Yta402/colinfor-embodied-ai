@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-14",
-  "collected": 55,
-  "deduped": 55,
+  "date": "2026-11-15",
+  "collected": 56,
+  "deduped": 56,
   "tagged": 0,
   "report": {
     "sources": [
@@ -15,7 +15,7 @@
       },
       {
         "name": "极客公园",
-        "count": 22
+        "count": 23
       },
       {
         "name": "TechCrunch AI",
