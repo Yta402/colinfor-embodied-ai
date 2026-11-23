@@ -1,0 +1,22 @@
+﻿日期,账号,标题,链接,摘要,标签,正文,来源
+"Mon, 23 Nov 2026 03:29:38 +0000",艾邦机器人,傲意科技完成D轮融资，将继续稳扎稳打，继续加速进化,https://www.aibangbots.com/a/14744,,,随着本轮融资的完成，公司股东阵容进一步升级，形成\x26quot;央企产业资本+上市公司+一线财投+地方产投\x26quot;的多元战略赋能格局，具身智能商业化进程全面加速。,rss
+"Mon, 23 Nov 2026 10:48:34 GMT",InfoQ 机器人,具身智能进入大浪淘沙阶段，企业需要怎样的人才？,https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z?utm_source=rss&utm_medium=article,,,"<div align=""right""><a href=""https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z?utm_source=rss&amp;utm_medium=article"">点击查看原文></a></div>",rss
+"Mon, 23 Nov 2026 09:20:56 GMT",InfoQ 机器人,Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了,https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article,,,"<div align=""right""><a href=""https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&amp;utm_medium=article"">点击查看原文></a></div>",rss
+"Mon, 23 Nov 2026 09:22:36 +0800",极客公园,OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道,http://www.geekpark.net/news/374304,,,"<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/85/4d/854d82b1dcf7eff7a69c756bb8fb8171.png"" /></p>
+<h2>OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限</h2>
+<p>11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 &middot; 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。</p>
+<p>他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进展的参考指标（困惑度用于衡量 AI 模型预测下一个文本 Token 的能力，数值越低，代表模型的预测能力越强）。</p>
+<p>帕霍茨基还公布了 OpenAI 内部使用的部分模型评测数据：GPT-3.5 的对数困惑度约为 0.99，GPT-4 约为 0.91。当这一指标低于 0.8 时，OpenAI 观察到了模型在网络安全和数学领域出现新的能力；当指标达到约 0.76 时，模型开始在部分开放数学问题上取得突破性成果。</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/59/9c/599cf5e5f8f7b58216b37844b6879aa3.jpg"" /></p>
+<p>帕霍茨基预计，当对数困惑度进入 0.68 至 0.7 区间时，模型可能出现更多变革性能力，但目前无法确定这些能力具体是什么。</p>
+<p>他还警告，AI 最早可能在 2027 年推动预训练技术出现一轮快速进展，而研究人员在模型对齐和行为监控方面的进展，可能无法同步跟上。</p>
+<p>按照帕霍茨基的设想，各家 AI 企业应共同建立模型评测、透明度和安全红队测试标准，并在模型首次投入使用前完成相应评估。他建议，以困惑度等可跨企业追踪的指标设定首个开发门槛，企业承诺在达到明确的安全监控里程碑之前不突破限制，例如开发出比现有思维链监控工具更先进的监测机制。</p>
+<p>OpenAI CEO 萨姆 &middot; 奥尔特曼也公开支持这一提议。他称帕霍茨基的文章是 OpenAI 一段时间以来发表的最重要内容之一，并表示希望 AI 行业能够就共同限制达成一致，以帮助确保技术发展的安全性和可控性。（来源：CnBeta）</p>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/c2/9a/c29ae58b1f70a0f7dcd681f6da470426.png"" /></p>
+<h2>马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入</h2>
+<p>11 月 22 日消息，深度学习领域开源项目 Keras 创始人弗朗索瓦・肖莱（Fran&ccedil;ois Chollet）在 X 上发文称，要么你认为 AI 基础设施建设已经结束，AI 只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。</p>
+<p>弗朗索瓦称，GPU 现货价格仍在上涨，产能难以保障，HBM 和 DRAM 到 2029 年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到 2030 年代。前沿模型的训练算力约每 5 个月翻一番，模型能力提升速度是推理模型出现前的两倍以上。AI 推理业务的利润率可达 70% 至 85%，需求仍在快速增长，每一代新模型都会带来新的应用场景。</p>
+<p>马斯克回复弗朗索瓦称，让如此大规模的算力设备通电、冷却并实现稳定运行，极其困难。</p>
+<blockquote>（人工智能行业）<strong>明年可能面临严重的资金短缺</strong>。如果全行业从支付算力成本到设备能够稳定创收的时间累计推迟数月，<strong>仅营运资金就可能需要额外投入数千亿美元</strong>，<strong>这些钱从哪里来</strong>？</blockquote>
+<p style=""text-align: center;""><img src=""https://imgslim.geekpark.net/uploads/image/file/",rss
+"Mon, 23 Nov 2026 01:25:53 +0000",TechCrunch AI,"How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/,,,Three significant backers share what gave them conviction to bet billions on Anthropic.,rss
