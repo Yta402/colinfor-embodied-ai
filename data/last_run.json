@@ -1,14 +1,10 @@
 {
-  "date": "2026-11-27",
-  "collected": 63,
-  "deduped": 63,
+  "date": "2026-11-28",
+  "collected": 53,
+  "deduped": 53,
   "tagged": 0,
   "report": {
     "sources": [
-      {
-        "name": "艾邦机器人",
-        "count": 8
-      },
       {
         "name": "IEEE Spectrum Robotics",
         "count": 26
@@ -19,7 +15,7 @@
       },
       {
         "name": "极客公园",
-        "count": 26
+        "count": 24
       },
       {
         "name": "TechCrunch AI",
